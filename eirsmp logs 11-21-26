@@ -1,0 +1,1080 @@
+// Log file: 2026-11-21-3.log.gz
+// Note from IreForte: Hello! All commands issued and other things are [Redacted] or censored, all of it are private messages and teleport commands (with permission, of course), however, we still need to protect their privacy, don't we?
+
+[12:44:46] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.5+8-LTS; Eclipse Adoptium Temurin-25.0.5+8) on Linux 6.8.0-147-generic (amd64)
+[12:44:46] [ServerMain/INFO]: [bootstrap] Loading Paper 26.3-244-main@35a2d15 (2026-11-06T11:34:02Z) for Minecraft 26.3
+[12:44:46] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[12:44:46] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[12:44:46] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+ - Geyser-Spigot (2.12.1-SNAPSHOT), SkinsRestorer (15.12.6), floodgate (2.2.5-SNAPSHOT (b141-81b65cc)), voicechat (2.6.27)
+[12:44:53] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[12:44:54] [ServerMain/INFO]: [com.destroystokyo.paper.profile.PaperServicesDiscoveryService] Environment: Environment[discoveryUrl=https://discovery.minecraftservices.com/minecraft/client, name=PROD]
+[12:44:55] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 1,170.1ms
+[12:44:58] [Worker-Main-1/INFO]: Loaded 1866 advancements
+[12:44:59] [Server thread/INFO]: Starting minecraft server version 26.3
+[12:44:59] [Server thread/INFO]: Loading properties
+[12:44:59] [Server thread/INFO]: This server is running Paper version 26.3-244-main@35a2d15 (2026-11-06T11:34:02Z) (Implementing API version 26.3.build.244-stable)
+[12:44:59] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[12:44:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:44:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:44:59] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[12:45:00] [Paper FMA initialiser/INFO]: [ca.spottedleaf.moonrise.common.util.FMA] FMA supported: true for Linux platform with feature flag: flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm rep_good nopl cpuid extd_apicid tsc_known_freq pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cmp_legacy svm cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw topoext perfctr_core ssbd ibrs ibpb stibp vmmcall fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves user_shstk clzero xsaveerptr wbnoinvd arat npt lbrv nrip_save tsc_scale vmcb_clean flushbyasid pausefilter pfthreshold v_vmsave_vmload vgif umip pku ospke vaes vpclmulqdq rdpid overflow_recov succor fsrm
+[12:45:00] [Server thread/INFO]: Default game type: SURVIVAL
+[12:45:00] [Server thread/INFO]: Generating keypair
+[12:45:00] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25722
+[12:45:00] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[12:45:00] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[12:45:00] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b141-81b65cc)
+[12:45:01] [Server thread/INFO]: [floodgate] Took 1,038ms to boot Floodgate
+[12:45:01] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.12.6
+[12:45:01] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.12.1-SNAPSHOT
+[12:45:02] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[12:45:02] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[12:45:02] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.6.27
+[12:45:02] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.12.6
+[12:45:03] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 26.3.0.
+[12:45:03] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[12:45:03] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[12:45:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:45:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:45:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:45:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:45:03] [Server thread/INFO]: Preparing level "world"
+[12:45:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[12:45:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +===================+
+[12:45:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer   |
+[12:45:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |-------------------|
+[12:45:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode  |
+[12:45:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +===================+
+[12:45:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[12:45:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.12.6
+[12:45:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: c8c321f
+[12:45:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[12:45:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[12:45:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[12:45:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer or receive priority support? Become a supporter: https://skinsrestorer.net/pricing
+[12:45:04] [Server thread/INFO]: Loading 196 persistent chunks for level 'minecraft:overworld'...
+[12:45:04] [Server thread/INFO]: Preparing spawn area: 4%
+[12:45:05] [Server thread/INFO]: Preparing spawn area: 4%
+[12:45:05] [Server thread/INFO]: Preparing spawn area: 4%
+[12:45:07] [Server thread/INFO]: Prepared spawn area in 3014 ms
+[12:45:07] [Server thread/INFO]: Loading 160 persistent chunks for level 'minecraft:the_nether'...
+[12:45:07] [Server thread/INFO]: Preparing spawn area: 5%
+[12:45:08] [Server thread/INFO]: Prepared spawn area in 377 ms
+[12:45:08] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[12:45:08] [Server thread/INFO]: Prepared spawn area in 0 ms
+[12:45:08] [Server thread/INFO]: Done preparing level "world" (4.306s)
+[12:45:08] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b141-81b65cc)
+[12:45:08] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.12.1-SNAPSHOT
+[12:45:10] [Server thread/INFO]: [voicechat] Enabling voicechat v2.6.27
+[12:45:10] [Server thread/INFO]: [voicechat] Initializing compatibility for version 26.3.build.244-stable
+[12:45:10] [Server thread/INFO]: [voicechat] Compatibility version 20
+[12:45:10] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[12:45:10] [Server thread/INFO]: [spark] Starting background profiler...
+[12:45:11] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[12:45:11] [Server thread/INFO]: [Geyser-Spigot] 
+[12:45:11] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.12.1-b1295 (git-master-1955f51)
+[12:45:11] [Server thread/INFO]: [Geyser-Spigot] 
+[12:45:11] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[12:45:13] [Server thread/INFO]: [Geyser-Spigot] Registered 199 custom block overrides.
+[12:45:13] [Server thread/INFO]: [Geyser-Spigot] Registered 2 custom block item overrides.
+[12:45:13] [Server thread/INFO]: [Geyser-Spigot] Registered 7 custom blocks.
+[12:45:16] [Server thread/INFO]: [Geyser-Spigot] Registered 1 custom items
+[12:45:16] [Server thread/INFO]: [Geyser-Spigot] Port set from system property: 19578
+[12:45:16] [Server thread/INFO]: [Geyser-Spigot] Transport set from system property: nethernet
+[12:45:16] [Server thread/INFO]: [Geyser-Spigot] Signaling mode set from system property: builtin
+[12:45:16] [Server thread/INFO]: [Geyser-Spigot] NetherNet (WebRTC) port set from the Bedrock port system property: 19578
+[12:45:16] [Server thread/INFO]: [Geyser-Spigot] Advertised addresses set from system property: **.**.**.**
+[12:45:17] [Server thread/INFO]: [Geyser-Spigot] Built-in signaling started on http://0:19578
+[12:45:17] [Server thread/INFO]: [Geyser-Spigot] Done (6.069s)! Run /geyser help for help!
+[12:45:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:45:17] [User Authenticator #2/INFO]: UUID of player raeirrr is a88c7c29-6c9a-3148-9c33-59bf38b682e9
+[12:45:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:45:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:45:18] [Server thread/INFO]: Running delayed init tasks
+[12:45:18] [Server thread/INFO]: Done (33.426s)! For help, type "help"
+[12:45:18] [Server thread/INFO]: [voicechat] Loading plugins
+[12:45:18] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[12:45:18] [Server thread/INFO]: [voicechat] Initializing plugins
+[12:45:18] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[12:45:18] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[12:45:18] [VoiceChatServerThread/INFO]: [voicechat] Using server-ip as bind address: 0.0.0.0
+[12:45:18] [VoiceChatServerThread/INFO]: [voicechat] Voice host is '**.**.**.**'
+[12:45:18] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 0.0.0.0:24454
+[12:45:18] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 13 builds behind ***
+[12:45:18] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[12:45:18] [User Authenticator #0/INFO]: UUID of player SAVENGE is 47d1de45-ba03-359b-8b73-248705c4fa9c
+[12:45:18] [User Authenticator #1/INFO]: UUID of player lacienichi is c8de2908-4242-3038-9be1-40fac73f1885
+[12:45:19] [User Authenticator #3/INFO]: UUID of player invisigel is 95804864-ced4-318a-be79-9764f5285844
+[12:45:19] [User Authenticator #4/INFO]: UUID of player AqibdaGoat is 4e359082-af12-36d2-b7a8-ec6b051af282
+[12:45:20] [Server thread/INFO]: reowastaken (/**.**.**.**:12611) lost connection: Disconnected
+[12:45:20] [User Authenticator #5/INFO]: UUID of player reowastaken is c8355338-19a5-3fef-ab6b-ad366e6a2ac5
+[12:45:21] [NetherNet Built-in Signaling-4-2/INFO]: [Geyser-Spigot] Player connected with username AG Predator8430 (2225)
+[12:45:21] [localSession-7-2/INFO]: [Geyser-Spigot] AG Predator8430 (logged in as: AG_Predator8430) has connected to the Java server
+[12:45:21] [Server thread/INFO]: System chat: lacienichi joined the game
+[12:45:21] [Server thread/INFO]: lacienichi[/**.**.**.**:48438] logged in with entity id 320 at ([minecraft:overworld]2120.2443416876317, 30.0, -1513.515562311014)
+[12:45:21] [Server thread/INFO]: System chat: SAVENGE joined the game
+[12:45:21] [Server thread/INFO]: SAVENGE[/**.**.**.**:55938] logged in with entity id 322 at ([minecraft:overworld]-5183.894720371955, 11.0, 2287.209943000289)
+[12:45:21] [Server thread/INFO]: System chat: invisigel joined the game
+[12:45:21] [Server thread/INFO]: invisigel[/**.**.**.**:47751] logged in with entity id 323 at ([minecraft:overworld]447.0072684752755, 126.0, -1706.0161608402614)
+[12:45:21] [Server thread/INFO]: System chat: AqibdaGoat joined the game
+[12:45:21] [Server thread/INFO]: AqibdaGoat[/**.**.**.**:20311] logged in with entity id 324 at ([minecraft:overworld]2118.712159555693, 28.5, -1511.552581901556)
+[12:45:21] [Server thread/WARN]: lacienichi moved too quickly! 2120.2443416876317,30.0,-1513.515562311014
+[12:45:22] [Server thread/INFO]: System chat: raeirrr joined the game
+[12:45:22] [Server thread/INFO]: raeirrr[/**.**.**.**:64451] logged in with entity id 366 at ([minecraft:overworld]139.32062113979705, 71.0, -7629.518416050823)
+[12:45:23] [Server thread/INFO]: [floodgate] Floodgate player logged in as .AG_Predator8430 joined (UUID: 00000000-0000-0000-0009-01f146a6b2fc)
+[12:45:23] [Server thread/INFO]: System chat: .AG_Predator8430 joined the game
+[12:45:23] [Server thread/INFO]: .AG_Predator8430[/**.**.**.**:0] logged in with entity id 391 at ([minecraft:overworld]2087.699989988079, 63.0, -1452.6263)
+[12:45:25] [Server thread/INFO]: System chat: SAVENGE has made the advancement [The End?]
+[12:45:25] [Server thread/INFO]: System chat: lacienichi has made the advancement [The End?]
+[12:45:26] [Server thread/INFO]: System chat: AqibdaGoat has made the advancement [The End?]
+[12:45:28] [Async Chat Thread - #0/INFO]: [Not Secure] <raeirrr> hi!
+[12:45:29] [NetherNet Built-in Signaling-4-3/INFO]: [Geyser-Spigot] Player connected with username Aikigrrrrr (2225)
+[12:45:29] [localSession-7-3/INFO]: [Geyser-Spigot] Aikigrrrrr (logged in as: Aikigrrrrr) has connected to the Java server
+[12:45:30] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Aikigrrrrr joined (UUID: 00000000-0000-0000-0009-01f5556616ef)
+[12:45:30] [Server thread/INFO]: System chat: .Aikigrrrrr joined the game
+[12:45:30] [Server thread/INFO]: .Aikigrrrrr[/**.**.**.**:0] logged in with entity id 743 at ([minecraft:overworld]2118.6794, 28.16611, -1510.7571)
+[12:45:30] [User Authenticator #6/INFO]: UUID of player KA1IIIII is 09dbcc78-feaf-360f-94e0-c71bf40c9e7a
+[12:45:33] [Server thread/INFO]: System chat: KA1IIIII joined the game
+[12:45:33] [Server thread/INFO]: KA1IIIII[/**.**.**.**:58425] logged in with entity id 802 at ([minecraft:overworld]376.24612758997745, 91.0, -1855.699999988079)
+[12:45:33] [User Authenticator #7/INFO]: UUID of player reowastaken is c8355338-19a5-3fef-ab6b-ad366e6a2ac5
+[12:45:35] [Server thread/INFO]: System chat: reowastaken joined the game
+[12:45:35] [Server thread/INFO]: reowastaken[/**.**.**.**:12637] logged in with entity id 817 at ([minecraft:overworld]2115.854704572124, 27.0, -1511.9111308518236)
+[12:45:36] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[12:45:36] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[12:45:40] [Async Chat Thread - #0/INFO]: [Not Secure] <raeirrr> dont fight dragon yet ok
+[12:45:40] [Async Chat Thread - #0/INFO]: [Not Secure] <KA1IIIII> TP ME BACK
+[12:45:41] [Server thread/INFO]: AqibdaGoat lost connection: Disconnected
+[12:45:41] [Server thread/INFO]: [voicechat] Disconnecting client AqibdaGoat
+[12:45:41] [Server thread/INFO]: System chat: AqibdaGoat left the game
+[12:45:42] [User Authenticator #8/INFO]: UUID of player DEVissuchaDEV is b41bb310-3067-3e70-aa52-d4c5594f8647
+[12:45:42] [Server thread/INFO]: System chat: DEVissuchaDEV joined the game
+[12:45:42] [Server thread/INFO]: DEVissuchaDEV[/**.**.**.**:63435] logged in with entity id 959 at ([minecraft:overworld]2128.699999988079, 30.0, -1508.6443695928472)
+[12:45:58] [Async Chat Thread - #0/INFO]: [Not Secure] <reowastaken> please
+[12:45:59] [User Authenticator #9/INFO]: UUID of player AqibdaGoat is 4e359082-af12-36d2-b7a8-ec6b051af282
+[12:45:59] [Async Chat Thread - #0/INFO]: [Not Secure] <KA1IIIII> bruh
+[12:46:00] [Server thread/INFO]: System chat: AqibdaGoat joined the game
+[12:46:00] [Server thread/INFO]: AqibdaGoat[/**.**.**.**:20365] logged in with entity id 1245 at ([minecraft:the_end]100.10819136536064, 49.0, -1.526313079308139)
+[12:46:01] [Netty Epoll IO #0/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
+io.netty.channel.StacklessClosedChannelException
+	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source) ~[netty-transport-4.2.16.Final.jar:4.2.16.Final]
+[12:46:01] [Server thread/INFO]: KA1IIIII lost connection: Disconnected
+[12:46:01] [Server thread/INFO]: [voicechat] Disconnecting client KA1IIIII
+[12:46:01] [Server thread/INFO]: System chat: KA1IIIII left the game
+[12:46:03] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[12:46:04] [User Authenticator #10/INFO]: UUID of player KA1IIIII is 09dbcc78-feaf-360f-94e0-c71bf40c9e7a
+[12:46:04] [Async Chat Thread - #1/INFO]: [Not Secure] <DEVissuchaDEV> ?
+[12:46:05] [Server thread/INFO]: System chat: KA1IIIII joined the game
+[12:46:05] [Server thread/INFO]: KA1IIIII[/**.**.**.**:8093] logged in with entity id 1386 at ([minecraft:overworld]383.54176516921405, 91.0, -1858.9661302371392)
+[12:46:08] [Async Chat Thread - #1/INFO]: [Not Secure] <reowastaken> starttttttttt
+[12:46:08] [Server thread/INFO]: raeirrr issued server command: [redacted]
+[12:46:10] [Server thread/INFO]: System chat: reowastaken has made the advancement [The End?]
+[12:46:12] [NetherNet Built-in Signaling-4-4/INFO]: [Geyser-Spigot] Player connected with username chenstumph (2225)
+[12:46:12] [localSession-7-4/INFO]: [Geyser-Spigot] chenstumph (logged in as: chenstumph) has connected to the Java server
+[12:46:12] [Server thread/INFO]: [floodgate] Floodgate player logged in as .chenstumph joined (UUID: 00000000-0000-0000-0009-01f532ff7162)
+[12:46:12] [Server thread/INFO]: System chat: .chenstumph joined the game
+[12:46:12] [Server thread/INFO]: .chenstumph[/**.**.**.**:0] logged in with entity id 1566 at ([minecraft:overworld]453.35855, 127.17674, -1694.477)
+[12:46:13] [Server thread/INFO]: System chat: .Aikigrrrrr has made the advancement [The End?]
+[12:46:13] [Async Chat Thread - #0/INFO]: [Not Secure] <KA1IIIII> yo
+[12:46:14] [Async Chat Thread - #0/INFO]: [Not Secure] <KA1IIIII> tp me
+[12:46:17] [Server thread/WARN]: .chenstumph was kicked for floating too long!
+[12:46:17] [localSession-7-4/INFO]: [Geyser-Spigot] chenstumph has disconnected from the Java server because of §rFlying is not enabled on this server
+[12:46:17] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .chenstumph disconnected
+[12:46:17] [Server thread/INFO]: .chenstumph lost connection: Flying is not enabled on this server
+[12:46:17] [Server thread/INFO]: [voicechat] Disconnecting client .chenstumph
+[12:46:17] [Server thread/INFO]: System chat: .chenstumph left the game
+[12:46:26] [NetherNet Built-in Signaling-4-3/INFO]: [Geyser-Spigot] Aikigrrrrr has disconnected from the Java server because of §rBedrock client disconnected
+[12:46:26] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Aikigrrrrr disconnected
+[12:46:26] [Server thread/INFO]: .Aikigrrrrr lost connection: Disconnected
+[12:46:26] [Server thread/INFO]: [voicechat] Disconnecting client .Aikigrrrrr
+[12:46:26] [Server thread/INFO]: System chat: .Aikigrrrrr left the game
+[12:46:27] [NetherNet Built-in Signaling-4-1/INFO]: [Geyser-Spigot] Player connected with username chenstumph (2225)
+[12:46:27] [localSession-7-1/INFO]: [Geyser-Spigot] chenstumph (logged in as: chenstumph) has connected to the Java server
+[12:46:27] [Server thread/INFO]: [floodgate] Floodgate player logged in as .chenstumph joined (UUID: 00000000-0000-0000-0009-01f532ff7162)
+[12:46:27] [Server thread/INFO]: System chat: .chenstumph joined the game
+[12:46:27] [Server thread/INFO]: .chenstumph[/**.**.**.**:0] logged in with entity id 1953 at ([minecraft:overworld]453.35855, 127.17674, -1694.477)
+[12:46:32] [Server thread/WARN]: .chenstumph was kicked for floating too long!
+[12:46:32] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .chenstumph disconnected
+[12:46:32] [localSession-7-1/INFO]: [Geyser-Spigot] chenstumph has disconnected from the Java server because of §rFlying is not enabled on this server
+[12:46:32] [Server thread/INFO]: .chenstumph lost connection: Flying is not enabled on this server
+[12:46:32] [Server thread/INFO]: [voicechat] Disconnecting client .chenstumph
+[12:46:32] [Server thread/INFO]: System chat: .chenstumph left the game
+[12:46:36] [Server thread/INFO]: System chat: SAVENGE was smashed by AqibdaGoat with [Death From Above]
+[12:46:38] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> bro
+[12:46:43] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> ur nigga items got lost
+[12:46:44] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> bruv
+[12:46:47] [Async Chat Thread - #0/INFO]: [Not Secure] <reowastaken> mlaoooooooooooo
+[12:46:51] [NetherNet Built-in Signaling-4-2/INFO]: [Geyser-Spigot] Player connected with username Aikigrrrrr (2225)
+[12:46:51] [localSession-7-2/INFO]: [Geyser-Spigot] Aikigrrrrr (logged in as: Aikigrrrrr) has connected to the Java server
+[12:46:52] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Aikigrrrrr joined (UUID: 00000000-0000-0000-0009-01f5556616ef)
+[12:46:52] [Server thread/INFO]: System chat: .Aikigrrrrr joined the game
+[12:46:52] [Server thread/INFO]: .Aikigrrrrr[/**.**.**.**:0] logged in with entity id 2722 at ([minecraft:the_end]99.570946, 49.0, 0.39607376)
+[12:46:56] [Async Chat Thread - #0/INFO]: [Not Secure] <KA1IIIII> anyone
+[12:47:01] [Async Chat Thread - #0/INFO]: [Not Secure] <KA1IIIII> please tp me
+[12:47:04] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> aikio clear hat nigga's inv
+[12:47:07] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> aqib's inv
+[12:47:12] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> sav lost all his items
+[12:47:17] [NetherNet Built-in Signaling-4-3/INFO]: [Geyser-Spigot] Player connected with username chenstumph (2225)
+[12:47:17] [localSession-7-3/INFO]: [Geyser-Spigot] chenstumph (logged in as: chenstumph) has connected to the Java server
+[12:47:17] [Server thread/INFO]: [floodgate] Floodgate player logged in as .chenstumph joined (UUID: 00000000-0000-0000-0009-01f532ff7162)
+[12:47:17] [Server thread/INFO]: System chat: .chenstumph joined the game
+[12:47:17] [Server thread/INFO]: .chenstumph[/**.**.**.**:0] logged in with entity id 3277 at ([minecraft:overworld]453.35855, 127.17674, -1694.477)
+[12:47:19] [Async Chat Thread - #0/INFO]: [Not Secure] <KA1IIIII> i lost mine too
+[12:47:29] [Async Chat Thread - #0/INFO]: [Not Secure] <raeirrr> ??
+[12:47:33] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> hi
+[12:47:36] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> nigga u literally got netherite btw lmfaoo
+[12:48:05] [Server thread/INFO]: System chat: raeirrr has made the advancement [The End?]
+[12:48:12] [Async Chat Thread - #0/INFO]: [Not Secure] <KA1IIIII> D:
+[12:48:16] [Async Chat Thread - #1/INFO]: [Not Secure] <.chenstumph> D:
+[12:48:41] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[12:48:46] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> alr lowk i dont even wanna fight the dragon no more lol
+[12:48:50] [Async Chat Thread - #0/INFO]: [Not Secure] <KA1IIIII> same
+[12:48:51] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> man
+[12:48:53] [Server thread/INFO]: System chat: SAVENGE fell out of the world
+[12:48:53] [Async Chat Thread - #0/INFO]: [Not Secure] <raeirrr> aikio r u in end
+[12:48:53] [Async Chat Thread - #0/INFO]: [Not Secure] <reowastaken> bro got butthurt
+[12:48:58] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> look what u did
+[12:48:59] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> no
+[12:49:00] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> it all fell
+[12:49:05] [Server thread/INFO]: System chat: DEVissuchaDEV has made the advancement [The End?]
+[12:49:05] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> clear that niggas inv
+[12:49:06] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> bro
+[12:49:10] [Async Chat Thread - #0/INFO]: [Not Secure] <raeirrr> aikio.
+[12:49:19] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> because
+[12:49:19] [Async Chat Thread - #0/INFO]: [Not Secure] <raeirrr> nothing
+[12:49:41] [Server thread/INFO]: Villager Villager['Villager'/664, uuid='6f13c56f-a4d4-4268-a892-c0aeeb8fdc95', l='ServerLevel[world]', x=397.09, y=84.03, z=-1842.70, cpos=[24, -116], tl=4674, v=true] died, message: 'Villager drowned'
+[12:49:49] [Server thread/INFO]: DEVissuchaDEV issued server command: [redacted]
+[12:49:55] [Server thread/INFO]: KA1IIIII lost connection: Disconnected
+[12:49:55] [Server thread/INFO]: [voicechat] Disconnecting client KA1IIIII
+[12:49:55] [Server thread/INFO]: System chat: KA1IIIII left the game
+[12:49:57] [Server thread/INFO]: System chat: .Aikigrrrrr has made the advancement [Withering Heights]
+[12:49:57] [Server thread/INFO]: System chat: reowastaken has made the advancement [Withering Heights]
+[12:50:02] [Async Chat Thread - #1/INFO]: [Not Secure] <raeirrr> EZ
+[12:50:03] [Async Chat Thread - #1/INFO]: [Not Secure] <raeirrr> EZ
+[12:50:11] [Async Chat Thread - #1/INFO]: [Not Secure] <raeirrr> HAPPY BIRTHDAY AIKIO
+[12:50:13] [Async Chat Thread - #1/INFO]: [Not Secure] <raeirrr> <3
+[12:50:14] [Server thread/INFO]: System chat: .AG_Predator8430 has made the advancement [The End?]
+[12:50:16] [Async Chat Thread - #1/INFO]: [Not Secure] <invisigel> LMFAOOO
+[12:50:23] [Async Chat Thread - #1/INFO]: [Not Secure] <invisigel> good bday gift
+[12:50:51] [Async Chat Thread - #1/INFO]: [Not Secure] <.chenstumph> hlwhat animal makes leather again
+[12:51:02] [Async Chat Thread - #1/INFO]: [Not Secure] <invisigel> cow and horse
+[12:51:13] [Async Chat Thread - #1/INFO]: [Not Secure] <.chenstumph> no wknder
+[12:51:28] [Async Chat Thread - #1/INFO]: [Not Secure] <invisigel> theres cow farm near soge base
+[12:51:37] [Async Chat Thread - #1/INFO]: [Not Secure] <invisigel> near focus' base ata
+[12:51:39] [Async Chat Thread - #1/INFO]: [Not Secure] <.chenstumph> im there
+[12:51:42] [Async Chat Thread - #1/INFO]: [Not Secure] <.chenstumph> shearing sheeps
+[12:51:48] [Async Chat Thread - #1/INFO]: [Not Secure] <raeirrr> this is so
+[12:51:51] [Async Chat Thread - #1/INFO]: [Not Secure] <raeirrr> sweet!
+[12:51:51] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[12:51:53] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> how do i make them multiply though before i kill them off
+[12:52:04] [Async Chat Thread - #1/INFO]: [Not Secure] <SAVENGE> it ok
+[12:52:04] [Async Chat Thread - #1/INFO]: [Not Secure] <DEVissuchaDEV> yeah ik
+[12:52:20] [Async Chat Thread - #1/INFO]: [Not Secure] <DEVissuchaDEV> this is good lore
+[12:52:33] [Async Chat Thread - #1/INFO]: [Not Secure] <.chenstumph> sav and aikio getting married in the end
+[12:52:56] [Async Chat Thread - #1/INFO]: [Not Secure] <.chenstumph> oh its ugly.
+[12:53:03] [Server thread/INFO]: System chat: SAVENGE was slain by reowastaken
+[12:53:11] [Geyser NetherNet player thread-5-1/WARN]: [Geyser-Spigot] Could not translate packet InventoryTransactionPacket
+java.lang.NullPointerException: Cannot invoke "org.geysermc.geyser.entity.GeyserEntityType.is(org.geysermc.mcprotocollib.protocol.data.game.entity.type.EntityType)" because "this.entityType" is null
+	at Geyser-Spigot.jar//org.geysermc.geyser.entity.VanillaEntityType.is(VanillaEntityType.java:63) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockInventoryTransactionTranslator.translate(BedrockInventoryTransactionTranslator.java:530) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockInventoryTransactionTranslator.translate(BedrockInventoryTransactionTranslator.java:106) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.translate0(PacketTranslatorRegistry.java:171) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.lambda$translate$0(PacketTranslatorRegistry.java:151) ~[?:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:148) ~[netty-common-4.2.16.Final.jar:4.2.16.Final]
+	at io.netty.channel.DefaultEventLoop.run(DefaultEventLoop.java:54) ~[netty-transport-4.2.16.Final.jar:4.2.16.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1204) ~[netty-common-4.2.16.Final.jar:4.2.16.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.2.16.Final.jar:4.2.16.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.2.16.Final.jar:4.2.16.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[12:53:11] [User Authenticator #11/INFO]: UUID of player Royal is 94db2cff-39b1-3ff2-9e39-3e59204b2931
+[12:53:12] [Geyser NetherNet player thread-5-1/WARN]: [Geyser-Spigot] Could not translate packet InventoryTransactionPacket
+java.lang.NullPointerException: Cannot invoke "org.geysermc.geyser.entity.GeyserEntityType.is(org.geysermc.mcprotocollib.protocol.data.game.entity.type.EntityType)" because "this.entityType" is null
+	at Geyser-Spigot.jar//org.geysermc.geyser.entity.VanillaEntityType.is(VanillaEntityType.java:63) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockInventoryTransactionTranslator.translate(BedrockInventoryTransactionTranslator.java:530) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockInventoryTransactionTranslator.translate(BedrockInventoryTransactionTranslator.java:106) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.translate0(PacketTranslatorRegistry.java:171) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.lambda$translate$0(PacketTranslatorRegistry.java:151) ~[?:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:148) ~[netty-common-4.2.16.Final.jar:4.2.16.Final]
+	at io.netty.channel.DefaultEventLoop.run(DefaultEventLoop.java:54) ~[netty-transport-4.2.16.Final.jar:4.2.16.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1204) ~[netty-common-4.2.16.Final.jar:4.2.16.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.2.16.Final.jar:4.2.16.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.2.16.Final.jar:4.2.16.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[12:53:13] [Async Chat Thread - #1/INFO]: [Not Secure] <DEVissuchaDEV> LMFAOO
+[12:53:14] [Server thread/INFO]: System chat: Royal joined the game
+[12:53:14] [Server thread/INFO]: Royal[/**.**.**.**:39286] logged in with entity id 10450 at ([minecraft:overworld]507.9749686091393, 72.7531999805212, -2620.9215072958505)
+[12:53:18] [Async Chat Thread - #1/INFO]: [Not Secure] <invisigel> uh
+[12:53:25] [Async Chat Thread - #1/INFO]: [Not Secure] <invisigel> idk if i like it or not
+[12:53:27] [Server thread/INFO]: System chat: SAVENGE was slain by reowastaken
+[12:53:36] [Async Chat Thread - #1/INFO]: [Not Secure] <invisigel> KEEP IT
+[12:53:38] [Async Chat Thread - #1/INFO]: [Not Secure] <invisigel> KEEP
+[12:53:50] [Async Chat Thread - #1/INFO]: [Not Secure] <invisigel> its got wabi sabi
+[12:54:00] [Async Chat Thread - #1/INFO]: [Not Secure] <DEVissuchaDEV> ill do that to
+[12:54:09] [Async Chat Thread - #1/INFO]: [Not Secure] <.chenstumph> knock onock
+[12:54:36] [Geyser NetherNet player thread-5-1/WARN]: [Geyser-Spigot] Could not translate packet InventoryTransactionPacket
+java.lang.NullPointerException: Cannot invoke "org.geysermc.geyser.entity.GeyserEntityType.is(org.geysermc.mcprotocollib.protocol.data.game.entity.type.EntityType)" because "this.entityType" is null
+	at Geyser-Spigot.jar//org.geysermc.geyser.entity.VanillaEntityType.is(VanillaEntityType.java:63) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockInventoryTransactionTranslator.translate(BedrockInventoryTransactionTranslator.java:530) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockInventoryTransactionTranslator.translate(BedrockInventoryTransactionTranslator.java:106) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.translate0(PacketTranslatorRegistry.java:171) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.lambda$translate$0(PacketTranslatorRegistry.java:151) ~[?:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:148) ~[netty-common-4.2.16.Final.jar:4.2.16.Final]
+	at io.netty.channel.DefaultEventLoop.run(DefaultEventLoop.java:54) ~[netty-transport-4.2.16.Final.jar:4.2.16.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1204) ~[netty-common-4.2.16.Final.jar:4.2.16.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.2.16.Final.jar:4.2.16.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.2.16.Final.jar:4.2.16.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[12:54:36] [Geyser NetherNet player thread-5-1/WARN]: [Geyser-Spigot] Could not translate packet InventoryTransactionPacket
+java.lang.NullPointerException: Cannot invoke "org.geysermc.geyser.entity.GeyserEntityType.is(org.geysermc.mcprotocollib.protocol.data.game.entity.type.EntityType)" because "this.entityType" is null
+	at Geyser-Spigot.jar//org.geysermc.geyser.entity.VanillaEntityType.is(VanillaEntityType.java:63) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockInventoryTransactionTranslator.translate(BedrockInventoryTransactionTranslator.java:530) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockInventoryTransactionTranslator.translate(BedrockInventoryTransactionTranslator.java:106) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.translate0(PacketTranslatorRegistry.java:171) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.lambda$translate$0(PacketTranslatorRegistry.java:151) ~[?:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:148) ~[netty-common-4.2.16.Final.jar:4.2.16.Final]
+	at io.netty.channel.DefaultEventLoop.run(DefaultEventLoop.java:54) ~[netty-transport-4.2.16.Final.jar:4.2.16.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1204) ~[netty-common-4.2.16.Final.jar:4.2.16.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.2.16.Final.jar:4.2.16.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.2.16.Final.jar:4.2.16.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[12:54:37] [Async Chat Thread - #1/INFO]: [Not Secure] <invisigel> chen
+[12:54:39] [Async Chat Thread - #1/INFO]: [Not Secure] <invisigel> keep or no
+[12:54:41] [Async Chat Thread - #1/INFO]: [Not Secure] <.chenstumph> whadup
+[12:54:42] [Async Chat Thread - #1/INFO]: [Not Secure] <.chenstumph> where
+[12:54:56] [Async Chat Thread - #1/INFO]: [Not Secure] <.chenstumph> keep
+[12:55:00] [Async Chat Thread - #1/INFO]: [Not Secure] <invisigel> LOL oki
+[12:55:07] [Async Chat Thread - #1/INFO]: [Not Secure] <invisigel> i can hear a spider
+[12:55:12] [Async Chat Thread - #1/INFO]: [Not Secure] <invisigel> we might need to light up under the base
+[12:55:16] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[12:55:16] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> our beautiful home to be griefed in a few days
+[12:55:20] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> wdym
+[12:55:21] [Async Chat Thread - #1/INFO]: [Not Secure] <.chenstumph> why
+[12:55:23] [Async Chat Thread - #1/INFO]: [Not Secure] <invisigel> hope not#
+[12:55:26] [Async Chat Thread - #1/INFO]: [Not Secure] <invisigel> they spawn
+[12:55:27] [Geyser NetherNet player thread-5-1/WARN]: [Geyser-Spigot] Could not translate packet InventoryTransactionPacket
+java.lang.NullPointerException: Cannot invoke "org.geysermc.geyser.entity.GeyserEntityType.is(org.geysermc.mcprotocollib.protocol.data.game.entity.type.EntityType)" because "this.entityType" is null
+	at Geyser-Spigot.jar//org.geysermc.geyser.entity.VanillaEntityType.is(VanillaEntityType.java:63) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockInventoryTransactionTranslator.translate(BedrockInventoryTransactionTranslator.java:530) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.translator.protocol.bedrock.BedrockInventoryTransactionTranslator.translate(BedrockInventoryTransactionTranslator.java:106) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.translate0(PacketTranslatorRegistry.java:171) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.registry.PacketTranslatorRegistry.lambda$translate$0(PacketTranslatorRegistry.java:151) ~[?:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:148) ~[netty-common-4.2.16.Final.jar:4.2.16.Final]
+	at io.netty.channel.DefaultEventLoop.run(DefaultEventLoop.java:54) ~[netty-transport-4.2.16.Final.jar:4.2.16.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1204) ~[netty-common-4.2.16.Final.jar:4.2.16.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.2.16.Final.jar:4.2.16.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.2.16.Final.jar:4.2.16.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[12:55:28] [Server thread/INFO]: DEVissuchaDEV issued server command: [redacted]
+[12:55:35] [Server thread/INFO]: System chat: raeirrr has made the advancement [Free the End]
+[12:55:37] [Async Chat Thread - #0/INFO]: [Not Secure] <raeirrr> EZ
+[12:55:37] [Async Chat Thread - #1/INFO]: [Not Secure] <.chenstumph> spawn where
+[12:55:40] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[12:55:40] [Async Chat Thread - #0/INFO]: [Not Secure] <.AG_Predator8430> nah
+[12:55:47] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> WHAT IS THAT SOUND
+[12:55:48] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> EW
+[12:55:48] [Async Chat Thread - #0/INFO]: [Not Secure] <invisigel> under the base
+[12:55:49] [Async Chat Thread - #0/INFO]: [Not Secure] <raeirrr> FUCK
+[12:55:49] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> RISGUSTING
+[12:55:50] [Async Chat Thread - #0/INFO]: [Not Secure] <raeirrr> FUCK
+[12:55:50] [Async Chat Thread - #1/INFO]: [Not Secure] <raeirrr> UCK
+[12:55:52] [Async Chat Thread - #1/INFO]: [Not Secure] <raeirrr> SAUCE
+[12:55:56] [Async Chat Thread - #1/INFO]: [Not Secure] <.chenstumph> under the base?? wdym
+[12:56:00] [Async Chat Thread - #1/INFO]: [Not Secure] <invisigel> may space kasi
+[12:56:06] [Server thread/INFO]: System chat: DEVissuchaDEV was slain by SAVENGE
+[12:56:09] [Async Chat Thread - #1/INFO]: [Not Secure] <.chenstumph> u do u
+[12:56:11] [Async Chat Thread - #1/INFO]: [Not Secure] <raeirrr> SAUCE
+[12:56:11] [Async Chat Thread - #1/INFO]: [Not Secure] <SAVENGE> L
+[12:56:14] [Server thread/INFO]: System chat: .AG_Predator8430 has reached the goal [The Next Generation]
+[12:56:15] [Async Chat Thread - #1/INFO]: [Not Secure] <SAVENGE> LOL SHE STORED ALL HER STUFF
+[12:56:25] [Async Chat Thread - #1/INFO]: [Not Secure] <SAVENGE> L dev
+[12:56:28] [Async Chat Thread - #1/INFO]: [Not Secure] <DEVissuchaDEV> i let you kill me cause i didnt want aikio to get mad at me loser
+[12:56:30] [Server thread/INFO]: System chat: .AG_Predator8430 was slain by AqibdaGoat
+[12:56:33] [Server thread/INFO]: System chat: reowastaken has reached the goal [The Next Generation]
+[12:56:35] [Server thread/INFO]: reowastaken lost connection: Disconnected
+[12:56:35] [Server thread/INFO]: [voicechat] Disconnecting client reowastaken
+[12:56:35] [Server thread/INFO]: System chat: reowastaken left the game
+[12:56:36] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[12:56:39] [Async Chat Thread - #0/INFO]: [Not Secure] <raeirrr> no
+[12:56:39] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> scared ass bitch of a naked person
+[12:56:41] [Async Chat Thread - #0/INFO]: [Not Secure] <raeirrr> fuck
+[12:56:43] [Async Chat Thread - #0/INFO]: [Not Secure] <raeirrr> I GOT MINED
+[12:56:43] [Async Chat Thread - #0/INFO]: [Not Secure] <.AG_Predator8430> why the hell you killed me
+[12:56:45] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> just say u cant kill me lmfaooo
+[12:56:47] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> u fucking clown
+[12:56:53] [Async Chat Thread - #1/INFO]: [Not Secure] <DEVissuchaDEV> i didnt kill you because i didnt want aikio to get mad
+[12:56:59] [Async Chat Thread - #1/INFO]: [Not Secure] <AqibdaGoat> we got the egg
+[12:57:00] [Async Chat Thread - #1/INFO]: [Not Secure] <DEVissuchaDEV> hi royal
+[12:57:01] [Async Chat Thread - #1/INFO]: [Not Secure] <SAVENGE> sure bitch
+[12:57:03] [Async Chat Thread - #1/INFO]: [Not Secure] <invisigel> yay
+[12:57:05] [Async Chat Thread - #1/INFO]: [Not Secure] <.AG_Predator8430> couldve fucking asked me for the egg
+[12:57:10] [Async Chat Thread - #1/INFO]: [Not Secure] <Royal> hello
+[12:57:13] [Async Chat Thread - #0/INFO]: [Not Secure] <.AG_Predator8430> no need to kill me nitch
+[12:57:15] [Async Chat Thread - #0/INFO]: [Not Secure] <.AG_Predator8430> bitch
+[12:57:17] [Async Chat Thread - #0/INFO]: [Not Secure] <Royal> come up
+[12:57:20] [User Authenticator #12/INFO]: UUID of player reowastaken is c8355338-19a5-3fef-ab6b-ad366e6a2ac5
+[12:57:21] [Server thread/INFO]: System chat: reowastaken joined the game
+[12:57:21] [Server thread/INFO]: reowastaken[/**.**.**.**:12862] logged in with entity id 15073 at ([minecraft:the_end]18.338467425466852, 60.0, 10.780221360889096)
+[12:57:24] [Server thread/INFO]: DEVissuchaDEV issued server command: [redacted]
+[12:57:35] [Server thread/INFO]: .Aikigrrrrr issued server command: [redacted]
+[12:57:39] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> AIKIO TP ME TO U
+[12:57:41] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> I BROKE MY BED
+[12:57:42] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> LMAO
+[12:57:44] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> AIKIO TP ME TO U
+[12:57:44] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[12:57:45] [Async Chat Thread - #1/INFO]: [Not Secure] <SAVENGE> AIKIO TP ME TO U
+[12:57:45] [Async Chat Thread - #1/INFO]: [Not Secure] <SAVENGE> AIKIO TP ME TO U
+[12:57:46] [Async Chat Thread - #1/INFO]: [Not Secure] <SAVENGE> AIKIO TP ME TO U
+[12:57:47] [Async Chat Thread - #1/INFO]: [Not Secure] <Royal> u need stuff?
+[12:57:50] [Server thread/INFO]: .Aikigrrrrr issued server command: [redacted]
+[12:57:55] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[12:58:01] [Server thread/INFO]: DEVissuchaDEV issued server command: [redacted]
+[12:58:04] [Server thread/INFO]: raeirrr issued server command: [redacted]
+[12:58:05] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[12:58:07] [Async Chat Thread - #1/INFO]: [Not Secure] <DEVissuchaDEV> nty im okay
+[12:58:11] [Async Chat Thread - #1/INFO]: [Not Secure] <DEVissuchaDEV> yhank you though
+[12:58:11] [Server thread/INFO]: System chat: DEVissuchaDEV was slain by SAVENGE
+[12:58:12] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[12:58:22] [Async Chat Thread - #0/INFO]: [Not Secure] <raeirrr> out of all niggas
+[12:58:24] [Async Chat Thread - #0/INFO]: [Not Secure] <DEVissuchaDEV> im not as immature as you are
+[12:58:29] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> sure
+[12:58:29] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[12:58:29] [Async Chat Thread - #0/INFO]: [Not Secure] <invisigel> nani
+[12:58:30] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> lmfaoo
+[12:58:33] [Async Chat Thread - #0/INFO]: [Not Secure] <AqibdaGoat> why everybody at our base
+[12:58:33] [Async Chat Thread - #0/INFO]: [Not Secure] <invisigel> dapat nasa labas
+[12:58:35] [Async Chat Thread - #2/INFO]: [Not Secure] <.chenstumph> im crine bro
+[12:58:37] [Async Chat Thread - #2/INFO]: [Not Secure] <Royal> whats this for
+[12:59:03] [Async Chat Thread - #2/INFO]: [Not Secure] <.AG_Predator8430> dont
+[12:59:06] [Server thread/INFO]: .Aikigrrrrr issued server command: [redacted]
+[12:59:08] [Server thread/INFO]: System chat: SAVENGE was slain by reowastaken
+[12:59:11] [Async Chat Thread - #2/INFO]: [Not Secure] <.AG_Predator8430> i said dont
+[12:59:13] [Async Chat Thread - #0/INFO]: [Not Secure] <.AG_Predator8430> mf
+[12:59:13] [Async Chat Thread - #2/INFO]: [Not Secure] <SAVENGE> oh my nigga
+[12:59:17] [Async Chat Thread - #2/INFO]: [Not Secure] <.AG_Predator8430> i was taking my horse
+[12:59:18] [Async Chat Thread - #2/INFO]: [Not Secure] <SAVENGE> aikio dw about it
+[12:59:24] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> AIKIO DONT
+[12:59:25] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> AIKIO DONT
+[12:59:25] [Async Chat Thread - #2/INFO]: [Not Secure] <SAVENGE> AIKIO DONT
+[12:59:26] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> AIKIO DONT
+[12:59:26] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> AIKIO DONT
+[12:59:29] [Server thread/INFO]: DEVissuchaDEV issued server command: [redacted]
+[12:59:30] [Async Chat Thread - #2/INFO]: [Not Secure] <SAVENGE> calm the fuck down
+[12:59:37] [Server thread/INFO]: reowastaken lost connection: Disconnected
+[12:59:37] [Server thread/INFO]: [voicechat] Disconnecting client reowastaken
+[12:59:37] [Server thread/INFO]: System chat: reowastaken left the game
+[12:59:37] [Async Chat Thread - #2/INFO]: [Not Secure] <.AG_Predator8430> where the hel is this place
+[12:59:39] [Async Chat Thread - #2/INFO]: [Not Secure] <lacienichi> chillax guys Im here
+[12:59:39] [Async Chat Thread - #2/INFO]: [Not Secure] <.chenstumph> wabi sabi they said
+[12:59:39] [Server thread/INFO]: DEVissuchaDEV issued server command: [redacted]
+[12:59:42] [Async Chat Thread - #0/INFO]: [Not Secure] <.AG_Predator8430> stupid ass
+[12:59:45] [Async Chat Thread - #2/INFO]: [Not Secure] <lacienichi> I'm bvery much recording be nice
+[12:59:48] [Async Chat Thread - #2/INFO]: [Not Secure] <.AG_Predator8430> i was getting my horse
+[12:59:52] [Server thread/INFO]: DEVissuchaDEV issued server command: [redacted]
+[12:59:53] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> deco our exterior with bushes ok
+[12:59:57] [Async Chat Thread - #2/INFO]: [Not Secure] <.AG_Predator8430> idc
+[13:00:03] [Async Chat Thread - #2/INFO]: [Not Secure] <invisigel> get more spruce leaves
+[13:00:13] [Async Chat Thread - #2/INFO]: [Not Secure] <.chenstumph> ahen i get on my pc
+[13:00:25] [Async Chat Thread - #2/INFO]: [Not Secure] <DEVissuchaDEV> Thank you guys for kind of enjoying the end
+[13:00:32] [Async Chat Thread - #2/INFO]: [Not Secure] <.chenstumph> we did
+[13:00:34] [Async Chat Thread - #2/INFO]: [Not Secure] <lacienichi> ok so what now after this
+[13:00:43] [Server thread/INFO]: System chat: .AG_Predator8430 drowned
+[13:00:43] [Async Chat Thread - #2/INFO]: [Not Secure] <DEVissuchaDEV> ty for genuinely bringing me to teaers
+[13:00:45] [Async Chat Thread - #2/INFO]: [Not Secure] <Royal> aikio
+[13:00:47] [Async Chat Thread - #2/INFO]: [Not Secure] <DEVissuchaDEV> tears
+[13:00:50] [Async Chat Thread - #2/INFO]: [Not Secure] <DEVissuchaDEV> tysm
+[13:01:06] [Async Chat Thread - #2/INFO]: [Not Secure] <SAVENGE> 0 knockback
+[13:01:08] [Async Chat Thread - #2/INFO]: [Not Secure] <invisigel> LOLL
+[13:01:11] [Async Chat Thread - #2/INFO]: [Not Secure] <.chenstumph> I THOUGHT THAT WAS A REEPER
+[13:01:23] [Async Chat Thread - #0/INFO]: [Not Secure] <invisigel> urgrrhr
+[13:01:23] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> kai hasnt ven got his iems back lmfao
+[13:01:27] [Async Chat Thread - #0/INFO]: [Not Secure] <invisigel> katamad maglipat ng gamit
+[13:01:30] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> deseevr ed
+[13:01:41] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> tanggalin mo na to
+[13:01:42] [Server thread/INFO]: System chat: SAVENGE was slain by AqibdaGoat
+[13:01:48] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> u suck at mace LMFAOOO
+[13:01:51] [Server thread/INFO]: DEVissuchaDEV issued server command: [redacted]
+[13:01:51] [Server thread/INFO]: System chat: raeirrr has made the advancement [Remote Getaway]
+[13:01:55] [Async Chat Thread - #2/INFO]: [Not Secure] <Royal> why server lagging
+[13:01:59] [NetherNet Built-in Signaling-4-2/INFO]: [Geyser-Spigot] Aikigrrrrr has disconnected from the Java server because of §rBedrock client disconnected
+[13:01:59] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Aikigrrrrr disconnected
+[13:01:59] [Server thread/INFO]: .Aikigrrrrr lost connection: Disconnected
+[13:01:59] [Server thread/INFO]: [voicechat] Disconnecting client .Aikigrrrrr
+[13:01:59] [Server thread/INFO]: System chat: .Aikigrrrrr left the game
+[13:01:59] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[13:02:02] [Async Chat Thread - #2/INFO]: [Not Secure] <SAVENGE> ok bro so im supposed to just stand there for u to mace
+[13:02:05] [Async Chat Thread - #2/INFO]: [Not Secure] <SAVENGE> understandable
+[13:02:07] [Async Chat Thread - #2/INFO]: [Not Secure] <lacienichi> true
+[13:02:12] [Async Chat Thread - #2/INFO]: [Not Secure] <lacienichi> he's ass at hitting
+[13:02:15] [Async Chat Thread - #2/INFO]: [Not Secure] <lacienichi> lmaoo
+[13:02:16] [Async Chat Thread - #2/INFO]: [Not Secure] <SAVENGE> idc nga
+[13:02:19] [Server thread/INFO]: DEVissuchaDEV lost connection: Disconnected
+[13:02:19] [Server thread/INFO]: [voicechat] Disconnecting client DEVissuchaDEV
+[13:02:19] [Server thread/INFO]: System chat: DEVissuchaDEV left the game
+[13:02:29] [Server thread/INFO]: raeirrr issued server command: [redacted]
+[13:02:30] [Async Chat Thread - #0/INFO]: [Not Secure] <Royal> aqib whats this compas
+[13:02:32] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> I'm not mad about it
+[13:02:33] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> haha
+[13:02:42] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> give me spruce stairs
+[13:02:42] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> I don't care if I'm shit
+[13:02:52] [Async Chat Thread - #0/INFO]: [Not Secure] <Royal> sav take
+[13:02:53] [Server thread/INFO]: System chat: SAVENGE was slain by AqibdaGoat
+[13:03:07] [Async Chat Thread - #2/INFO]: [Not Secure] <SAVENGE> u just asking u for ur base to griefed alr
+[13:03:08] [Async Chat Thread - #2/INFO]: [Not Secure] <.chenstumph> spruce stairs pls
+[13:03:13] [Async Chat Thread - #2/INFO]: [Not Secure] <invisigel> u want?
+[13:03:16] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[13:03:16] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> shiver me timber
+[13:03:18] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> yes pi
+[13:03:21] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> yes pi
+[13:03:29] [Async Chat Thread - #0/INFO]: [Not Secure] <invisigel> im out of spruce
+[13:03:31] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> yes i
+[13:03:33] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> today at night ur base gonna be gon
+[13:03:34] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> ai yes
+[13:03:34] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> ok loser
+[13:03:37] [Server thread/INFO]: raeirrr issued server command: [redacted]
+[13:03:46] [Async Chat Thread - #2/INFO]: [Not Secure] <SAVENGE> sure
+[13:03:46] [Server thread/INFO]: raeirrr issued server command: [redacted]
+[13:03:48] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> LMAOOO
+[13:03:51] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> BRO THINKS THATS MY BASE
+[13:03:52] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> BRO THINKS THATS MY BASE
+[13:03:52] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> BRO THINKS THATS MY BASE
+[13:03:53] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> BRO THINKS THATS MY BASE
+[13:04:05] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> THAT WAS A TEMPORARY BASE AND U AINT FINDING MY BASE LMAOO
+[13:04:10] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> W sav
+[13:04:20] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> have fun finding it
+[13:04:22] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> bro sav comfort aikio rn bruh
+[13:04:34] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> she getting pissed over nothing
+[13:04:39] [Async Chat Thread - #0/INFO]: [Not Secure] <AqibdaGoat> kylie wya
+[13:04:40] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> im not even mad about getting killed tf
+[13:04:50] [Async Chat Thread - #0/INFO]: [Not Secure] <raeirrr> yall overthinking about aikio bruh
+[13:04:52] [Async Chat Thread - #0/INFO]: [Not Secure] <raeirrr> W ragebait
+[13:04:56] [Server thread/INFO]: lacienichi issued server command: /w raeirrr 2040 ~ 104
+[13:05:01] [Server thread/INFO]: raeirrr issued server command: /tell lacienichi thanks
+[13:05:09] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> what do we do ab this balcony
+[13:05:09] [Async Chat Thread - #2/INFO]: [Not Secure] <lacienichi> I know bro
+[13:05:15] [Async Chat Thread - #2/INFO]: [Not Secure] <lacienichi> but she lowk sensitive
+[13:05:19] [Async Chat Thread - #2/INFO]: [Not Secure] <lacienichi> thnk abut it
+[13:05:36] [Async Chat Thread - #2/INFO]: [Not Secure] <SAVENGE> dev just has hard time processing things
+[13:05:40] [Async Chat Thread - #2/INFO]: [Not Secure] <Royal> i am gonna lave
+[13:05:41] [Async Chat Thread - #2/INFO]: [Not Secure] <raeirrr> oh my lord bruh shes joking
+[13:05:43] [Async Chat Thread - #2/INFO]: [Not Secure] <Royal> leave now
+[13:05:43] [Async Chat Thread - #2/INFO]: [Not Secure] <raeirrr> skull emoji
+[13:05:58] [Async Chat Thread - #2/INFO]: [Not Secure] <.chenstumph> truedat
+[13:06:20] [Async Chat Thread - #2/INFO]: [Not Secure] <lacienichi> ok I agree with that considering she's barely a chronically online person
+[13:06:24] [Async Chat Thread - #2/INFO]: [Not Secure] <lacienichi> but come on bro
+[13:06:27] [Async Chat Thread - #2/INFO]: [Not Secure] <lacienichi> you know what it is
+[13:06:30] [Async Chat Thread - #2/INFO]: [Not Secure] <.chenstumph> what happened
+[13:06:35] [Async Chat Thread - #2/INFO]: [Not Secure] <lacienichi> shit happend a couple of times already
+[13:06:52] [Async Chat Thread - #2/INFO]: [Not Secure] <.chenstumph> why is dev crying and why is aikio saying her bday is ruined
+[13:06:59] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> dev is sensitive
+[13:07:02] [Async Chat Thread - #0/INFO]: [Not Secure] <raeirrr> bruh
+[13:07:05] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> i made her cry apparently somehow
+[13:07:08] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> theyre both sensitive
+[13:07:12] [Async Chat Thread - #2/INFO]: [Not Secure] <SAVENGE> well
+[13:07:30] [Async Chat Thread - #2/INFO]: [Not Secure] <invisigel> boo
+[13:07:33] [Async Chat Thread - #2/INFO]: [Not Secure] <lacienichi> soft touch's from kai
+[13:07:36] [Async Chat Thread - #2/INFO]: [Not Secure] <SAVENGE> boo
+[13:07:36] [Async Chat Thread - #2/INFO]: [Not Secure] <.chenstumph> boo
+[13:07:41] [Async Chat Thread - #2/INFO]: [Not Secure] <.chenstumph> ain what now
+[13:07:55] [Async Chat Thread - #2/INFO]: [Not Secure] <.chenstumph> did u make a pot..
+[13:08:03] [Async Chat Thread - #2/INFO]: [Not Secure] <raeirrr> shit
+[13:08:18] [Async Chat Thread - #2/INFO]: [Not Secure] <raeirrr> no blocks and went to the wrong direction
+[13:08:20] [Async Chat Thread - #0/INFO]: [Not Secure] <raeirrr> wallahis
+[13:08:45] [Async Chat Thread - #0/INFO]: [Not Secure] <invisigel> idk how to get pot
+[13:08:49] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> wait
+[13:09:00] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> server closing in 24hrs
+[13:09:03] [Async Chat Thread - #0/INFO]: [Not Secure] <invisigel> while ur at it can u get sugarcane from soge
+[13:09:12] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> yeah sure
+[13:09:14] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> oh my days
+[13:09:24] [Async Chat Thread - #2/INFO]: [Not Secure] <.chenstumph> i havent seen the dc chat
+[13:10:02] [Async Chat Thread - #2/INFO]: [Not Secure] <invisigel> oh LMAO
+[13:10:07] [Async Chat Thread - #2/INFO]: [Not Secure] <invisigel> i was br there
+[13:10:16] [Server thread/INFO]: System chat: raeirrr has made the advancement [The City at the End of the Game]
+[13:10:19] [Async Chat Thread - #2/INFO]: [Not Secure] <.chenstumph> what happened
+[13:10:37] [Async Chat Thread - #2/INFO]: [Not Secure] <invisigel> idk therye in refugee vc rn
+[13:10:45] [Async Chat Thread - #2/INFO]: [Not Secure] <.chenstumph> sino sino
+[13:10:47] [Async Chat Thread - #0/INFO]: [Not Secure] <lacienichi> are they
+[13:10:57] [Async Chat Thread - #0/INFO]: [Not Secure] <invisigel> dev kaizer n aki
+[13:11:07] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> kaizer is jc
+[13:11:19] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> remember when we used to run away from him im crine
+[13:11:49] [Async Chat Thread - #0/INFO]: [Not Secure] <raeirrr> fuck
+[13:11:53] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> bamboo is sugarcane right
+[13:12:16] [Async Chat Thread - #0/INFO]: [Not Secure] <SAVENGE> yeah tbh i ont even wanna play no more
+[13:12:17] [Server thread/INFO]: SAVENGE lost connection: Disconnected
+[13:12:17] [Server thread/INFO]: [voicechat] Disconnecting client SAVENGE
+[13:12:17] [Server thread/INFO]: System chat: SAVENGE left the game
+[13:12:22] [Server thread/INFO]: lacienichi lost connection: Disconnected
+[13:12:22] [Server thread/INFO]: [voicechat] Disconnecting client lacienichi
+[13:12:22] [Server thread/INFO]: System chat: lacienichi left the game
+[13:12:24] [Async Chat Thread - #0/INFO]: [Not Secure] <.AG_Predator8430> me neither
+[13:12:42] [Async Chat Thread - #0/INFO]: [Not Secure] <invisigel> bro im crine
+[13:12:46] [Async Chat Thread - #0/INFO]: [Not Secure] <invisigel> ate ko galit sakin
+[13:12:51] [Async Chat Thread - #0/INFO]: [Not Secure] <raeirrr> son
+[13:12:51] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> y
+[13:12:58] [Async Chat Thread - #0/INFO]: [Not Secure] <invisigel> ion fhink bamboo can make paper
+[13:13:05] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> i have paper
+[13:13:12] [Async Chat Thread - #0/INFO]: [Not Secure] <.chenstumph> iisa lang
+[13:13:13] [Async Chat Thread - #2/INFO]: [Not Secure] <invisigel> can i have
+[13:13:16] [Async Chat Thread - #2/INFO]: [Not Secure] <.chenstumph> wait ill join later
+[13:13:17] [Async Chat Thread - #2/INFO]: [Not Secure] <.chenstumph> yea
+[13:13:19] [Async Chat Thread - #2/INFO]: [Not Secure] <.chenstumph> ill br in dc
+[13:13:28] [Server thread/INFO]: System chat: raeirrr has reached the goal [Sky's the Limit]
+[13:13:46] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .chenstumph disconnected
+[13:13:46] [NetherNet Built-in Signaling-4-3/INFO]: [Geyser-Spigot] chenstumph has disconnected from the Java server because of §rBedrock client timed out
+[13:13:46] [Server thread/INFO]: .chenstumph lost connection: Disconnected
+[13:13:46] [Server thread/INFO]: [voicechat] Disconnecting client .chenstumph
+[13:13:46] [Server thread/INFO]: System chat: .chenstumph left the game
+[13:16:19] [Server thread/INFO]: AqibdaGoat lost connection: Disconnected
+[13:16:19] [Server thread/INFO]: [voicechat] Disconnecting client AqibdaGoat
+[13:16:19] [Server thread/INFO]: System chat: AqibdaGoat left the game
+[13:16:22] [Server thread/INFO]: Royal lost connection: Disconnected
+[13:16:22] [Server thread/INFO]: [voicechat] Disconnecting client Royal
+[13:16:22] [Server thread/INFO]: System chat: Royal left the game
+[13:20:57] [Server thread/WARN]: Horse (vehicle of .AG_Predator8430) moved wrongly! 3.40142822265625
+[13:20:58] [Server thread/WARN]: Horse (vehicle of .AG_Predator8430) moved wrongly! 3.40142822265625
+[13:23:12] [Server thread/WARN]: Horse (vehicle of .AG_Predator8430) moved wrongly! 26.534259302177748
+[13:27:32] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .AG_Predator8430 disconnected
+[13:27:32] [NetherNet Built-in Signaling-4-2/INFO]: [Geyser-Spigot] AG Predator8430 has disconnected from the Java server because of §rBedrock client disconnected
+[13:27:32] [Server thread/INFO]: .AG_Predator8430 lost connection: Disconnected
+[13:27:32] [Server thread/INFO]: [voicechat] Disconnecting client .AG_Predator8430
+[13:27:32] [Server thread/INFO]: System chat: .AG_Predator8430 left the game
+[13:35:14] [Async Chat Thread - #3/INFO]: [Not Secure] <raeirrr> hm
+[13:44:45] [Server thread/INFO]: raeirrr lost connection: Disconnected
+[13:44:45] [Server thread/INFO]: [voicechat] Disconnecting client raeirrr
+[13:44:45] [Server thread/INFO]: System chat: raeirrr left the game
+[13:52:11] [User Authenticator #13/INFO]: UUID of player loisse is 4754e1e2-e1ee-3332-8c68-f7eb87bbd120
+[13:52:12] [Server thread/INFO]: System chat: loisse joined the game
+[13:52:12] [Server thread/INFO]: loisse[/**.**.**.**:46960] logged in with entity id 70423 at ([minecraft:overworld]462.93482700827366, 121.0, -1701.7337729836224)
+[13:52:47] [Async Chat Thread - #5/INFO]: [Not Secure] <invisigel> hi
+[13:52:50] [Async Chat Thread - #5/INFO]: [Not Secure] <invisigel> CHEN
+[13:52:57] [Async Chat Thread - #5/INFO]: [Not Secure] <invisigel> huy
+[13:53:07] [Async Chat Thread - #5/INFO]: [Not Secure] <invisigel> yes
+[13:53:07] [Async Chat Thread - #5/INFO]: [Not Secure] <loisse> i ahte minors
+[13:53:11] [Async Chat Thread - #5/INFO]: [Not Secure] <invisigel> tellem to join nga
+[13:53:15] [Async Chat Thread - #5/INFO]: [Not Secure] <invisigel> sina jz and aki
+[13:54:21] [Async Chat Thread - #7/INFO]: [Not Secure] <invisigel> no clue
+[13:54:24] [Async Chat Thread - #7/INFO]: [Not Secure] <invisigel> sugarcane kasi
+[13:54:28] [Async Chat Thread - #7/INFO]: [Not Secure] <invisigel> di bamboo
+[13:54:29] [Async Chat Thread - #7/INFO]: [Not Secure] <invisigel> gaga
+[13:54:40] [Async Chat Thread - #7/INFO]: [Not Secure] <invisigel> SAUGE?
+[13:54:44] [Async Chat Thread - #7/INFO]: [Not Secure] <invisigel> AKALA KO SOHGEH
+[13:54:45] [Async Chat Thread - #7/INFO]: [Not Secure] <loisse> SOGE
+[13:55:02] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> hindi ba soge
+[13:55:07] [Async Chat Thread - #8/INFO]: [Not Secure] <loisse> sowj
+[13:55:14] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> auco
+[13:55:22] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> auco sa maaasim
+[13:55:39] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> NATATAWA AKOS A SAUGE MO
+[13:55:52] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> WHY IT SPELLED LIKE SOGE
+[13:56:03] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> akala ko nga babae un dati
+[13:56:15] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> wait
+[13:56:18] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> pangit kasi
+[13:56:25] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> di ko alam asan mic ng laptop ko
+[13:56:40] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> tulog
+[13:56:52] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> batak mag mc
+[13:57:00] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> bat wala pang diamong gear
+[13:57:14] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> bruh real
+[13:57:18] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> i got swarmed ng zombie dati
+[13:57:26] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> LMAOO
+[13:57:37] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> IDKK
+[13:57:44] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> nasayo ung leash ah
+[13:57:47] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> gagi
+[13:57:53] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> ewan ko nga kung bat andito ung mga yun
+[13:58:02] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> natatakot ako eh
+[13:58:07] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> baka mamatay din ako
+[13:58:16] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> wat
+[13:58:26] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> ong
+[13:58:40] [Async Chat Thread - #8/INFO]: [Not Secure] <invisigel> bat di ka ba maalam mag attack
+[13:58:44] [Async Chat Thread - #7/INFO]: [Not Secure] <invisigel> tulog na aba
+[13:58:52] [Async Chat Thread - #7/INFO]: [Not Secure] <invisigel> eugh
+[13:59:01] [Async Chat Thread - #7/INFO]: [Not Secure] <invisigel> spruce oak
+[13:59:10] [Async Chat Thread - #7/INFO]: [Not Secure] <invisigel> kakatamad ilipat chests ko
+[13:59:12] [Async Chat Thread - #7/INFO]: [Not Secure] <invisigel> fahhhhhhhhhhhhh
+[13:59:22] [Async Chat Thread - #7/INFO]: [Not Secure] <invisigel> para nasa kwarto ko
+[13:59:28] [Async Chat Thread - #7/INFO]: [Not Secure] <invisigel> enchanting area nalang to
+[13:59:42] [Async Chat Thread - #7/INFO]: [Not Secure] <invisigel> kakalbuhin kita
+[14:00:59] [Async Chat Thread - #9/INFO]: [Not Secure] <invisigel> jesus
+[14:01:32] [Async Chat Thread - #9/INFO]: [Not Secure] <invisigel> its kinda dangerous nga
+[14:01:47] [Async Chat Thread - #9/INFO]: [Not Secure] <invisigel> may 13 may 20+
+[14:02:30] [Async Chat Thread - #9/INFO]: [Not Secure] <invisigel> I DIED
+[14:02:32] [Async Chat Thread - #9/INFO]: [Not Secure] <invisigel> LAMAOAOAOAOA
+[14:03:10] [Async Chat Thread - #9/INFO]: [Not Secure] <invisigel> tru
+[14:03:21] [Async Chat Thread - #9/INFO]: [Not Secure] <invisigel> papansin sya
+[14:03:27] [Async Chat Thread - #9/INFO]: [Not Secure] <invisigel> pero understandable kasi bata pa
+[14:03:40] [Async Chat Thread - #9/INFO]: [Not Secure] <invisigel> LMFAO STOP
+[14:04:00] [Async Chat Thread - #9/INFO]: [Not Secure] <invisigel> bakla ka
+[14:04:15] [Async Chat Thread - #9/INFO]: [Not Secure] <invisigel> pake ko
+[14:04:18] [Async Chat Thread - #10/INFO]: [Not Secure] <invisigel> AUCO
+[14:04:35] [Async Chat Thread - #10/INFO]: [Not Secure] <invisigel> gusto mmo ice pop
+[14:04:43] [Async Chat Thread - #10/INFO]: [Not Secure] <invisigel> maghanap ka nga leather
+[14:04:44] [Async Chat Thread - #9/INFO]: [Not Secure] <invisigel> lah
+[14:04:48] [Async Chat Thread - #9/INFO]: [Not Secure] <invisigel> 16 years old
+[14:04:53] [Async Chat Thread - #9/INFO]: [Not Secure] <invisigel> di pa nakaka kain ng ice pop
+[14:04:56] [Async Chat Thread - #9/INFO]: [Not Secure] <invisigel> ewan nga
+[14:05:24] [Async Chat Thread - #10/INFO]: [Not Secure] <invisigel> ayoko
+[14:05:40] [Async Chat Thread - #10/INFO]: [Not Secure] <invisigel> ewan ko sau
+[14:05:47] [Async Chat Thread - #10/INFO]: [Not Secure] <invisigel> saan ba
+[14:05:53] [Async Chat Thread - #10/INFO]: [Not Secure] <invisigel> gaga ung seeds
+[14:06:44] [Async Chat Thread - #9/INFO]: [Not Secure] <invisigel> san farm
+[14:07:38] [Server thread/INFO]: System chat: loisse was burned to a crisp while fighting Zombie
+[14:07:42] [Async Chat Thread - #9/INFO]: [Not Secure] <invisigel> HAHAHAHAHAAHAA
+[14:07:44] [Async Chat Thread - #9/INFO]: [Not Secure] <invisigel> LAMAOAOOA
+[14:08:44] [Async Chat Thread - #11/INFO]: [Not Secure] <loisse> ain where u
+[14:09:31] [Async Chat Thread - #11/INFO]: [Not Secure] <invisigel> where u leading me
+[14:09:34] [Async Chat Thread - #12/INFO]: [Not Secure] <loisse> farm
+[14:09:37] [Async Chat Thread - #12/INFO]: [Not Secure] <invisigel> anong farm
+[14:09:41] [Async Chat Thread - #12/INFO]: [Not Secure] <loisse> wheat farm
+[14:09:42] [Async Chat Thread - #12/INFO]: [Not Secure] <invisigel> akala ko gagawa tayo ng atin
+[14:09:45] [Async Chat Thread - #12/INFO]: [Not Secure] <loisse> ay gagi
+[14:09:49] [Async Chat Thread - #12/INFO]: [Not Secure] <loisse> later
+[14:09:56] [Async Chat Thread - #12/INFO]: [Not Secure] <loisse> plant seed
+[14:10:06] [Async Chat Thread - #11/INFO]: [Not Secure] <loisse> either here or there4
+[14:12:52] [Async Chat Thread - #13/INFO]: [Not Secure] <loisse> AIN ARE U DONE PLANTING ILL HELP
+[14:14:35] [Async Chat Thread - #15/INFO]: [Not Secure] <invisigel> nah its fine
+[14:15:31] [Async Chat Thread - #15/INFO]: [Not Secure] <loisse> BRO
+[14:16:04] [Async Chat Thread - #15/INFO]: [Not Secure] <invisigel> ok tinatamad nako
+[14:16:10] [Async Chat Thread - #15/INFO]: [Not Secure] <loisse> wait ill finish it
+[14:16:12] [Async Chat Thread - #15/INFO]: [Not Secure] <invisigel> may jiggle physics ung zzz eh
+[14:16:16] [Async Chat Thread - #16/INFO]: [Not Secure] <loisse> zzz?
+[14:16:22] [Async Chat Thread - #16/INFO]: [Not Secure] <invisigel> nilalaro ni yori
+[14:16:29] [Async Chat Thread - #16/INFO]: [Not Secure] <invisigel> di
+[14:16:31] [Async Chat Thread - #16/INFO]: [Not Secure] <invisigel> alam ko lang
+[14:17:39] [Async Chat Thread - #17/INFO]: [Not Secure] <loisse> what else do we have to do
+[14:17:45] [Async Chat Thread - #17/INFO]: [Not Secure] <invisigel> uhh
+[14:17:49] [Async Chat Thread - #17/INFO]: [Not Secure] <invisigel> make me uhh
+[14:19:01] [NetherNet Built-in Signaling-4-4/INFO]: [Geyser-Spigot] Player connected with username AG Predator8430 (2225)
+[14:19:01] [localSession-7-4/INFO]: [Geyser-Spigot] AG Predator8430 (logged in as: AG_Predator8430) has connected to the Java server
+[14:19:02] [Server thread/INFO]: [floodgate] Floodgate player logged in as .AG_Predator8430 joined (UUID: 00000000-0000-0000-0009-01f146a6b2fc)
+[14:19:02] [Server thread/INFO]: System chat: .AG_Predator8430 joined the game
+[14:19:02] [Server thread/INFO]: .AG_Predator8430[/**.**.**.**:0] logged in with entity id 86907 at ([minecraft:overworld]550.8990478515625, 72.84375002384186, 374.9293212890625)
+[14:19:04] [Async Chat Thread - #19/INFO]: [Not Secure] <invisigel> idk
+[14:19:09] [Async Chat Thread - #20/INFO]: [Not Secure] <invisigel> who even is ag
+[14:19:11] [Async Chat Thread - #20/INFO]: [Not Secure] <invisigel> hi ag
+[14:19:12] [Async Chat Thread - #20/INFO]: [Not Secure] <loisse> hi ag
+[14:19:21] [Async Chat Thread - #20/INFO]: [Not Secure] <invisigel> why is there a predator
+[14:19:22] [Async Chat Thread - #20/INFO]: [Not Secure] <.AG_Predator8430> hi chen, you're chen right?
+[14:19:31] [Async Chat Thread - #20/INFO]: [Not Secure] <loisse> i believe so
+[14:19:39] [Async Chat Thread - #20/INFO]: [Not Secure] <.AG_Predator8430> hello invisigel
+[14:20:31] [Async Chat Thread - #20/INFO]: [Not Secure] <loisse> ain
+[14:20:39] [Async Chat Thread - #20/INFO]: [Not Secure] <loisse> hi
+[14:20:49] [Async Chat Thread - #20/INFO]: [Not Secure] <invisigel> wat
+[14:21:02] [Async Chat Thread - #19/INFO]: [Not Secure] <invisigel> wat
+[14:21:05] [Async Chat Thread - #19/INFO]: [Not Secure] <invisigel> cant hear u
+[14:21:16] [Async Chat Thread - #19/INFO]: [Not Secure] <invisigel> huh
+[14:21:19] [Async Chat Thread - #19/INFO]: [Not Secure] <loisse> yhs wood
+[14:21:26] [Async Chat Thread - #19/INFO]: [Not Secure] <loisse> lalagyan ko pa ba ng staircase
+[14:21:33] [Async Chat Thread - #19/INFO]: [Not Secure] <invisigel> ?????
+[14:21:37] [Async Chat Thread - #19/INFO]: [Not Secure] <invisigel> stairs for what
+[14:21:40] [Async Chat Thread - #19/INFO]: [Not Secure] <loisse> roof
+[14:21:46] [Async Chat Thread - #19/INFO]: [Not Secure] <invisigel> ur gonna finish?
+[14:21:52] [Async Chat Thread - #19/INFO]: [Not Secure] <loisse> i might make a roof
+[14:21:59] [Async Chat Thread - #19/INFO]: [Not Secure] <invisigel> search ka sa tiktok
+[14:23:06] [Async Chat Thread - #21/INFO]: [Not Secure] <invisigel> ikaw na nga
+[14:23:24] [Async Chat Thread - #21/INFO]: [Not Secure] <invisigel> fuh
+[14:23:27] [Async Chat Thread - #21/INFO]: [Not Secure] <invisigel> kakatamad
+[14:23:36] [Async Chat Thread - #21/INFO]: [Not Secure] <invisigel> lemme farm wood
+[14:23:42] [Async Chat Thread - #21/INFO]: [Not Secure] <loisse> okok
+[14:23:58] [Async Chat Thread - #22/INFO]: [Not Secure] <loisse> i have a big oak tree on the right when u go out
+[14:24:26] [Async Chat Thread - #22/INFO]: [Not Secure] <invisigel> he prolly htought u weird asf for making eyencontact
+[14:24:28] [Async Chat Thread - #22/INFO]: [Not Secure] <loisse> what am gonna do aain
+[14:24:31] [Async Chat Thread - #22/INFO]: [Not Secure] <loisse> I YATEBU]
+[14:24:39] [Async Chat Thread - #22/INFO]: [Not Secure] <invisigel> make rooftop
+[14:24:46] [Async Chat Thread - #22/INFO]: [Not Secure] <invisigel> pero lemme get wood kasi kulang tayo
+[14:25:03] [Async Chat Thread - #22/INFO]: [Not Secure] <invisigel> halo
+[14:25:24] [Async Chat Thread - #22/INFO]: [Not Secure] <invisigel> tara mang grief
+[14:25:49] [Async Chat Thread - #22/INFO]: [Not Secure] <invisigel> LMFAO
+[14:26:15] [Async Chat Thread - #22/INFO]: [Not Secure] <invisigel> tanginang tree na to
+[14:26:18] [Async Chat Thread - #22/INFO]: [Not Secure] <invisigel> parang puzzle
+[14:26:22] [Async Chat Thread - #22/INFO]: [Not Secure] <invisigel> hriap imine
+[14:26:28] [Async Chat Thread - #21/INFO]: [Not Secure] <invisigel> OH FUCK
+[14:26:30] [Async Chat Thread - #21/INFO]: [Not Secure] <invisigel> OO NGA
+[14:26:39] [Async Chat Thread - #21/INFO]: [Not Secure] <invisigel> nakalimutan ko andito sya
+[14:27:44] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> wtf
+[14:27:51] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> i cant fucking finish getting this tree
+[14:27:58] [Async Chat Thread - #23/INFO]: [Not Secure] <loisse> hahahahh
+[14:28:04] [Async Chat Thread - #23/INFO]: [Not Secure] <loisse> its a bog on e
+[14:28:11] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> a waht.
+[14:28:20] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> CHEN
+[14:28:22] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> LOOK AT THIS
+[14:28:42] [Server thread/INFO]: System chat: loisse was slain by invisigel
+[14:28:55] [Async Chat Thread - #24/INFO]: [Not Secure] <invisigel> i can buid a base in dis tree bruh
+[14:29:11] [Async Chat Thread - #24/INFO]: [Not Secure] <loisse> a small one
+[14:29:33] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> ano gagawinmo
+[14:29:52] [Async Chat Thread - #23/INFO]: [Not Secure] <loisse> ace pt mapeh pt
+[14:29:56] [Async Chat Thread - #23/INFO]: [Not Secure] <loisse> recording
+[14:30:01] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> sabihin mo pumunta sila lugaw prince
+[14:30:16] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> molester may ari nun
+[14:30:28] [Async Chat Thread - #23/INFO]: [Not Secure] <loisse> AY OO HAHAHAH
+[14:31:20] [Async Chat Thread - #23/INFO]: [Not Secure] <loisse> did u get the wood
+[14:31:28] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> .
+[14:31:30] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> spruce
+[14:31:34] [Async Chat Thread - #24/INFO]: [Not Secure] <invisigel> pagkatapos kong kunin to
+[14:31:38] [Async Chat Thread - #24/INFO]: [Not Secure] <invisigel> may umutot
+[14:32:02] [Async Chat Thread - #24/INFO]: [Not Secure] <invisigel> chen ingay mo
+[14:32:11] [Async Chat Thread - #24/INFO]: [Not Secure] <loisse> i know
+[14:32:42] [Async Chat Thread - #24/INFO]: [Not Secure] <invisigel> lah nga
+[14:32:55] [Async Chat Thread - #24/INFO]: [Not Secure] <invisigel> sabi mo kunin ko ung oak tree
+[14:32:59] [Async Chat Thread - #24/INFO]: [Not Secure] <invisigel> ngayon spruce hinihingi mo
+[14:33:07] [Async Chat Thread - #24/INFO]: [Not Secure] <invisigel> eto
+[14:33:10] [Async Chat Thread - #24/INFO]: [Not Secure] <invisigel> gwin mona roof
+[14:33:25] [Async Chat Thread - #24/INFO]: [Not Secure] <invisigel> ikaw nalang aso ko
+[14:33:50] [Async Chat Thread - #24/INFO]: [Not Secure] <invisigel> wat if ninakaw ko bookshelves ni ro y al
+[14:33:59] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> wanna see?
+[14:34:13] [Async Chat Thread - #23/INFO]: [Not Secure] <loisse> sure
+[14:34:44] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> i wonder where they went
+[14:35:14] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> where tf u
+[14:35:19] [Async Chat Thread - #23/INFO]: [Not Secure] <loisse> at our base...\
+[14:35:23] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> SUNOD
+[14:35:41] [Async Chat Thread - #23/INFO]: [Not Secure] <loisse> AY HAHAHHHAHA
+[14:35:42] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> di mo ba kayasumakay
+[14:35:55] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> sroi na
+[14:36:34] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> taba mo eh
+[14:36:44] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> WALA BANG SADDLE??
+[14:37:34] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> purple sheep oh
+[14:37:54] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> lmao tinawagan kang schizophrenic
+[14:38:07] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> HUY SWORD KO
+[14:38:41] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> gawin mo na roof
+[14:38:48] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> CHEN
+[14:38:54] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> ITOO
+[14:38:57] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> DONKEY KONG
+[14:39:36] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> nawala ung white
+[14:40:24] [Server thread/INFO]: loisse issued server command: [redacted]
+[14:40:37] [Server thread/INFO]: invisigel issued server command: /w loisse theyll never know..
+[14:40:53] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> san kana
+[14:40:54] [Server thread/INFO]: loisse issued server command: [redacted]
+[14:41:21] [Async Chat Thread - #24/INFO]: [Not Secure] <invisigel> WHERE R U
+[14:41:30] [Async Chat Thread - #24/INFO]: [Not Secure] <invisigel> san ka
+[14:41:58] [Async Chat Thread - #24/INFO]: [Not Secure] <invisigel> anong last
+[14:42:26] [Async Chat Thread - #24/INFO]: [Not Secure] <invisigel> oi
+[14:42:33] [Async Chat Thread - #24/INFO]: [Not Secure] <invisigel> cmere
+[14:42:38] [Async Chat Thread - #24/INFO]: [Not Secure] <loisse> no im scared
+[14:42:43] [Async Chat Thread - #24/INFO]: [Not Secure] <invisigel> DONKEY MO
+[14:42:47] [Async Chat Thread - #24/INFO]: [Not Secure] <loisse> dyan na yan
+[14:42:53] [Async Chat Thread - #24/INFO]: [Not Secure] <invisigel> nalabas kona.
+[14:43:11] [Async Chat Thread - #24/INFO]: [Not Secure] <invisigel> oo nga
+[14:43:46] [Server thread/INFO]: System chat: loisse froze to death
+[14:43:50] [Async Chat Thread - #24/INFO]: [Not Secure] <invisigel> AHAHAHAHAHAHA
+[14:43:52] [Async Chat Thread - #24/INFO]: [Not Secure] <invisigel> LMAOOOOOO
+[14:44:06] [Async Chat Thread - #24/INFO]: [Not Secure] <loisse> 3 stacks of wood gone
+[14:44:09] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> .
+[14:44:12] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> balikan mo
+[14:44:19] [Async Chat Thread - #23/INFO]: [Not Secure] <loisse> ill make up for it
+[14:44:28] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> geh tulog na
+[14:44:33] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> pinapaluto nila ako
+[14:45:14] [Async Chat Thread - #23/INFO]: [Not Secure] <loisse> angry bees outside
+[14:45:36] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> buti wala tayong extempo
+[14:45:46] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> or watever its called
+[14:45:52] [Async Chat Thread - #23/INFO]: [Not Secure] <loisse> buti nga
+[14:46:21] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> pakamatay nalang pag may extempo next y
+[14:46:33] [Async Chat Thread - #23/INFO]: [Not Secure] <loisse> what ddod i do
+[14:46:37] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> yes
+[14:47:18] [Server thread/INFO]: System chat: loisse was slain by invisigel
+[14:47:24] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> ty for sapling
+[14:47:56] [Server thread/INFO]: invisigel issued server command: [redacted]
+[14:48:08] [Server thread/INFO]: invisigel issued server command: [redacted]
+[14:48:19] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> .
+[14:48:46] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> may butas
+[14:48:50] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> may pwet na bahay natin
+[14:49:37] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> CHEN
+[14:50:11] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> dont grab stuff
+[14:50:23] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> pvp
+[14:50:24] [Async Chat Thread - #23/INFO]: [Not Secure] <loisse> i dodnt do anything
+[14:50:40] [Async Chat Thread - #23/INFO]: [Not Secure] <invisigel> wait kill me
+[14:51:01] [Async Chat Thread - #23/INFO]: [Not Secure] <loisse> pvp later
+[14:51:20] [Server thread/INFO]: System chat: invisigel was slain by loisse
+[14:52:59] [Async Chat Thread - #25/INFO]: [Not Secure] <invisigel> chen
+[14:53:01] [Async Chat Thread - #25/INFO]: [Not Secure] <invisigel> new pet
+[14:53:09] [Server thread/INFO]: System chat: invisigel was slain by Spider
+[14:53:21] [Async Chat Thread - #25/INFO]: [Not Secure] <loisse> i think it loves u
+[14:53:30] [Async Chat Thread - #26/INFO]: [Not Secure] <invisigel> its kissing me
+[14:53:34] [Async Chat Thread - #26/INFO]: [Not Secure] <invisigel> my hand is numb
+[14:53:35] [Server thread/INFO]: System chat: invisigel was slain by Spider
+[14:54:07] [Async Chat Thread - #26/INFO]: [Not Secure] <invisigel> imma hop off
+[14:54:10] [Async Chat Thread - #26/INFO]: [Not Secure] <loisse> gn
+[14:54:12] [Async Chat Thread - #26/INFO]: [Not Secure] <invisigel> napapaluto sila
+[14:54:17] [Async Chat Thread - #26/INFO]: [Not Secure] <loisse> goodluck
+[14:54:19] [Async Chat Thread - #25/INFO]: [Not Secure] <invisigel> gudnit twin ill hop on tmrw
+[14:54:35] [Server thread/INFO]: invisigel lost connection: Disconnected
+[14:54:35] [Server thread/INFO]: [voicechat] Disconnecting client invisigel
+[14:54:35] [Server thread/INFO]: System chat: invisigel left the game
+[14:58:21] [Server thread/INFO]: System chat: loisse fell from a high place
+[14:59:21] [Server thread/INFO]: Villager Villager['Cartographer'/32983, uuid='06ef991c-f9ae-4bc7-b16a-4aedcd75b036', l='ServerLevel[world]', x=518.90, y=61.19, z=-2627.32, cpos=[32, -165], tl=21625, v=true] died, message: 'Cartographer was slain by Zombie'
+[15:01:39] [Server thread/INFO]: Named entity Zombie['giga nigga'/33039, uuid='31d6d866-e4a5-42d6-a50f-f151d0e6c390', l='ServerLevel[world]', x=519.30, y=74.19, z=-2591.50, cpos=[32, -162], tl=24118, v=true] died: giga nigga burned to death
+[15:02:30] [User Authenticator #14/INFO]: UUID of player soge is d692b710-1ec0-3377-9b9f-e8f4ca4de20d
+[15:02:31] [Server thread/INFO]: System chat: soge joined the game
+[15:02:31] [Server thread/INFO]: soge[/**.**.**.**:54877] logged in with entity id 127273 at ([minecraft:overworld]473.62260836960735, 91.0, -1787.8017897466111)
+[15:02:41] [Async Chat Thread - #27/INFO]: [Not Secure] <soge> hello chen
+[15:02:44] [Async Chat Thread - #27/INFO]: [Not Secure] <soge> evening ag
+[15:02:48] [Async Chat Thread - #27/INFO]: [Not Secure] <loisse> hello
+[15:02:51] [Async Chat Thread - #27/INFO]: [Not Secure] <.AG_Predator8430> hello
+[15:06:36] [Async Chat Thread - #29/INFO]: [Not Secure] <loisse> where to find clay
+[15:06:40] [Async Chat Thread - #29/INFO]: [Not Secure] <loisse> i love my house omh
+[15:06:47] [Async Chat Thread - #29/INFO]: [Not Secure] <.AG_Predator8430> lush caves
+[15:07:30] [Async Chat Thread - #29/INFO]: [Not Secure] <soge> u need to search for an ocean
+[15:07:36] [Async Chat Thread - #29/INFO]: [Not Secure] <soge> a lot of clay below there
+[15:07:53] [Async Chat Thread - #29/INFO]: [Not Secure] <loisse> oo
+[15:08:01] [Async Chat Thread - #29/INFO]: [Not Secure] <soge> i can help u gathering some
+[15:08:06] [Async Chat Thread - #29/INFO]: [Not Secure] <soge> i know a lush cave around
+[15:08:17] [Async Chat Thread - #29/INFO]: [Not Secure] <loisse> ion think ill do it now
+[15:08:20] [Async Chat Thread - #29/INFO]: [Not Secure] <loisse> im making a barn
+[15:08:31] [Async Chat Thread - #30/INFO]: [Not Secure] <soge> whats that_
+[15:08:37] [Async Chat Thread - #30/INFO]: [Not Secure] <loisse> horse barn
+[15:08:44] [Async Chat Thread - #30/INFO]: [Not Secure] <soge> lemme have a look
+[15:08:51] [Async Chat Thread - #30/INFO]: [Not Secure] <soge> aye
+[15:08:59] [Async Chat Thread - #30/INFO]: [Not Secure] <soge> nice house
+[15:09:03] [Async Chat Thread - #30/INFO]: [Not Secure] <loisse> thanks
+[15:09:08] [Async Chat Thread - #29/INFO]: [Not Secure] <loisse> it doesnt have a roof
+[15:09:15] [Async Chat Thread - #29/INFO]: [Not Secure] <soge> y no roof
+[15:09:20] [Async Chat Thread - #29/INFO]: [Not Secure] <loisse> too lazy to build
+[15:09:24] [Async Chat Thread - #29/INFO]: [Not Secure] <loisse> idk how too
+[15:09:36] [Async Chat Thread - #29/INFO]: [Not Secure] <soge> lemme try
+[15:09:47] [Async Chat Thread - #29/INFO]: [Not Secure] <loisse> u dont have to
+[15:09:55] [Async Chat Thread - #29/INFO]: [Not Secure] <loisse> soge
+[15:09:59] [Async Chat Thread - #29/INFO]: [Not Secure] <soge> duh
+[15:09:59] [Async Chat Thread - #29/INFO]: [Not Secure] <loisse> get down ther e
+[15:10:06] [Async Chat Thread - #29/INFO]: [Not Secure] <soge> y
+[15:10:12] [Async Chat Thread - #29/INFO]: [Not Secure] <soge> aye
+[15:10:15] [Async Chat Thread - #29/INFO]: [Not Secure] <soge> it looks pretty good
+[15:11:21] [Async Chat Thread - #31/INFO]: [Not Secure] <loisse> is it possible to make an oak wall
+[15:11:45] [Async Chat Thread - #31/INFO]: [Not Secure] <loisse> ok soge
+[15:11:47] [Async Chat Thread - #32/INFO]: [Not Secure] <soge> u mean crafting an oak wall instead of slab?
+[15:11:48] [Async Chat Thread - #32/INFO]: [Not Secure] <loisse> u can make our roof
+[15:11:50] [Async Chat Thread - #31/INFO]: [Not Secure] <loisse> yea
+[15:11:58] [Async Chat Thread - #32/INFO]: [Not Secure] <soge> not possible unfortunately
+[15:11:59] [Async Chat Thread - #32/INFO]: [Not Secure] <loisse> because ain told me that u can build it
+[15:12:01] [Async Chat Thread - #32/INFO]: [Not Secure] <loisse> aw
+[15:12:05] [Async Chat Thread - #32/INFO]: [Not Secure] <soge> nice
+[15:12:09] [Async Chat Thread - #32/INFO]: [Not Secure] <soge> lemme gather materials
+[15:12:18] [Async Chat Thread - #32/INFO]: [Not Secure] <loisse> woah thansk
+[15:12:51] [Async Chat Thread - #32/INFO]: [Not Secure] <loisse> thanks in advance -ain
+[15:15:42] [Async Chat Thread - #33/INFO]: [Not Secure] <soge> chen
+[15:15:45] [Async Chat Thread - #33/INFO]: [Not Secure] <loisse> yes?
+[15:15:58] [Async Chat Thread - #33/INFO]: [Not Secure] <soge> u have bunch of oak woods?
+[15:16:01] [Async Chat Thread - #33/INFO]: [Not Secure] <soge> i mean logs
+[15:16:07] [Async Chat Thread - #33/INFO]: [Not Secure] <loisse> i lost it .
+[15:16:12] [Async Chat Thread - #33/INFO]: [Not Secure] <soge> i got u
+[15:16:46] [Async Chat Thread - #33/INFO]: [Not Secure] <loisse> aw okie
+[15:16:47] [Async Chat Thread - #33/INFO]: [Not Secure] <soge> oh uh
+[15:17:03] [Async Chat Thread - #33/INFO]: [Not Secure] <soge> can u ask ain if she prefers the roof built with stones or oak woods?
+[15:17:12] [Async Chat Thread - #33/INFO]: [Not Secure] <loisse> sure wait
+[15:18:18] [Async Chat Thread - #35/INFO]: [Not Secure] <soge> u want me to clear out those leave liters?
+[15:18:21] [Async Chat Thread - #35/INFO]: [Not Secure] <soge> they look ugli
+[15:18:22] [Async Chat Thread - #35/INFO]: [Not Secure] <loisse> wait
+[15:18:28] [Async Chat Thread - #35/INFO]: [Not Secure] <loisse> where?
+[15:18:33] [Async Chat Thread - #35/INFO]: [Not Secure] <soge> those
+[15:18:49] [Async Chat Thread - #35/INFO]: [Not Secure] <loisse> leave it be
+[15:18:54] [Async Chat Thread - #36/INFO]: [Not Secure] <soge> :o
+[15:19:59] [Async Chat Thread - #37/INFO]: [Not Secure] <loisse> what do u have
+[15:19:59] [Async Chat Thread - #37/INFO]: [Not Secure] <soge> pretty big house
+[15:20:03] [Async Chat Thread - #37/INFO]: [Not Secure] <soge> uh
+[15:20:05] [Async Chat Thread - #39/INFO]: [Not Secure] <loisse> soge, which is better
+[15:20:06] [Async Chat Thread - #39/INFO]: [Not Secure] <soge> have whut
+[15:20:10] [Async Chat Thread - #39/INFO]: [Not Secure] <loisse> stone roof or oak roof
+[15:20:13] [Async Chat Thread - #39/INFO]: [Not Secure] <soge> pff
+[15:20:19] [Async Chat Thread - #39/INFO]: [Not Secure] <soge> oak roof
+[15:20:22] [Async Chat Thread - #39/INFO]: [Not Secure] <soge> for me
+[15:20:24] [Async Chat Thread - #39/INFO]: [Not Secure] <loisse> oak then
+[15:20:28] [Async Chat Thread - #39/INFO]: [Not Secure] <soge> :o
+[15:20:29] [Async Chat Thread - #39/INFO]: [Not Secure] <loisse> if u dont have then its ok
+[15:20:31] [Async Chat Thread - #38/INFO]: [Not Secure] <soge> alr
+[15:20:36] [Async Chat Thread - #38/INFO]: [Not Secure] <loisse> we'll provide it for u
+[15:20:41] [Async Chat Thread - #39/INFO]: [Not Secure] <soge> what did ain say?
+[15:20:51] [Async Chat Thread - #39/INFO]: [Not Secure] <loisse> "whatever looks better"
+[15:20:54] [Async Chat Thread - #39/INFO]: [Not Secure] <soge> pff
+[15:20:57] [Async Chat Thread - #39/INFO]: [Not Secure] <soge> nice
+[15:21:40] [Async Chat Thread - #39/INFO]: [Not Secure] <soge> on a second thought lemme search for dark oak biome
+[15:21:48] [Async Chat Thread - #39/INFO]: [Not Secure] <loisse> spruce will do
+[15:21:51] [Async Chat Thread - #39/INFO]: [Not Secure] <soge> they might look better tbh
+[15:21:53] [Async Chat Thread - #39/INFO]: [Not Secure] <soge> spruce?
+[15:21:55] [Async Chat Thread - #39/INFO]: [Not Secure] <loisse> yea
+[15:22:02] [Async Chat Thread - #38/INFO]: [Not Secure] <soge> ain said so or...
+[15:22:11] [Async Chat Thread - #38/INFO]: [Not Secure] <loisse> we use spruce as a second option
+[15:22:27] [Async Chat Thread - #38/INFO]: [Not Secure] <soge> i like black
+[15:22:34] [Async Chat Thread - #38/INFO]: [Not Secure] <soge> so dark oak it is
+[15:22:39] [Async Chat Thread - #38/INFO]: [Not Secure] <soge> :p
+[15:24:35] [Async Chat Thread - #40/INFO]: [Not Secure] <loisse> okie
+[15:24:38] [Async Chat Thread - #40/INFO]: [Not Secure] <soge> wait
+[15:24:57] [Async Chat Thread - #40/INFO]: [Not Secure] <soge> hmm
+[15:25:02] [Async Chat Thread - #40/INFO]: [Not Secure] <soge> a bit too black,,,
+[15:28:32] [Server thread/INFO]: System chat: .AG_Predator8430 was slain by Iron Golem
+[15:28:39] [Async Chat Thread - #42/INFO]: [Not Secure] <loisse> wow ag are u ok
+[15:28:40] [Async Chat Thread - #42/INFO]: [Not Secure] <.AG_Predator8430> LMAOOOO
+[15:28:43] [Async Chat Thread - #42/INFO]: [Not Secure] <soge> whut
+[15:28:49] [Async Chat Thread - #42/INFO]: [Not Secure] <.AG_Predator8430> damn it i gotta run back to the village
+[15:29:34] [Server thread/INFO]: Villager Villager['Villager'/124407, uuid='1d6480c3-0fe1-457a-9d8f-4946572ff523', l='ServerLevel[world]', x=397.14, y=84.00, z=-1842.69, cpos=[24, -116], tl=2824, v=true] died, message: 'Villager drowned'
+[15:30:32] [Async Chat Thread - #44/INFO]: [Not Secure] <loisse> soge whered u go
+[15:30:39] [Async Chat Thread - #44/INFO]: [Not Secure] <soge> im gathering some dark oak
+[15:30:44] [Async Chat Thread - #44/INFO]: [Not Secure] <soge> for ur roof
+[15:30:44] [Async Chat Thread - #45/INFO]: [Not Secure] <loisse> oh ok
+[15:30:47] [Async Chat Thread - #45/INFO]: [Not Secure] <loisse> okokw
+[15:31:36] [Async Chat Thread - #45/INFO]: [Not Secure] <.AG_Predator8430> can someone sleep
+[15:32:55] [Async Chat Thread - #46/INFO]: [Not Secure] <loisse> soge im gna leave
+[15:32:59] [Async Chat Thread - #46/INFO]: [Not Secure] <soge> h
+[15:33:04] [Async Chat Thread - #46/INFO]: [Not Secure] <soge> see u later :3
+[15:33:08] [Async Chat Thread - #46/INFO]: [Not Secure] <loisse> tomorrow yes
+[15:33:15] [Async Chat Thread - #46/INFO]: [Not Secure] <soge> :d
+[15:33:16] [Async Chat Thread - #46/INFO]: [Not Secure] <soge> same
+[15:33:21] [Async Chat Thread - #46/INFO]: [Not Secure] <loisse> goodnight ag and soge
+[15:33:25] [Async Chat Thread - #46/INFO]: [Not Secure] <.AG_Predator8430> thank you
+[15:33:31] [Async Chat Thread - #46/INFO]: [Not Secure] <soge> good night
+[15:33:34] [Server thread/INFO]: loisse lost connection: Disconnected
+[15:33:34] [Server thread/INFO]: [voicechat] Disconnecting client loisse
+[15:33:34] [Server thread/INFO]: System chat: loisse left the game
+[15:39:52] [Server thread/INFO]: Villager Villager['Villager'/33000, uuid='b856b369-bcdb-494b-bb4d-4a0eb9765b11', l='ServerLevel[world]', x=513.17, y=68.00, z=-2608.98, cpos=[32, -164], tl=39403, v=true] died, message: 'Villager was slain by .AG_Predator8430'
+[15:40:20] [Server thread/INFO]: Villager Villager['Fletcher'/32973, uuid='787a688d-004a-4ec9-b035-2a888ae9460a', l='ServerLevel[world]', x=510.10, y=69.00, z=-2617.51, cpos=[31, -164], tl=42020, v=true] died, message: 'Fletcher was blown up by .AG_Predator8430'
+[15:40:20] [Server thread/INFO]: Villager Villager['Fletcher'/32979, uuid='9c1169db-376b-4d9b-9efb-e5d7cbca909e', l='ServerLevel[world]', x=510.94, y=68.00, z=-2618.70, cpos=[31, -164], tl=40173, v=true] died, message: 'Fletcher was blown up by .AG_Predator8430'
+[15:40:20] [Server thread/INFO]: Villager Villager['Librarian'/32974, uuid='3760a7e2-e0d6-4689-b8f5-28a4eb1c7665', l='ServerLevel[world]', x=510.22, y=68.13, z=-2618.64, cpos=[31, -164], tl=39271, v=true] died, message: 'Librarian was blown up by .AG_Predator8430'
+[15:40:20] [Server thread/INFO]: Villager Villager['Librarian'/32970, uuid='6e0de2a5-3fd4-49e5-91cf-a8af2ff56f80', l='ServerLevel[world]', x=509.31, y=69.00, z=-2617.05, cpos=[31, -164], tl=40543, v=true] died, message: 'Librarian was blown up by .AG_Predator8430'
+[15:40:20] [Server thread/INFO]: Villager Villager['Fletcher'/32971, uuid='48d116e7-03d3-4126-b509-c16ccd2f5ab5', l='ServerLevel[world]', x=510.17, y=69.00, z=-2615.41, cpos=[31, -164], tl=39408, v=true] died, message: 'Fletcher was blown up by .AG_Predator8430'
+[15:40:20] [Server thread/INFO]: Villager Villager['Librarian'/32969, uuid='1a35ea90-9d70-402c-8a5e-2f324434766f', l='ServerLevel[world]', x=509.95, y=68.88, z=-2616.56, cpos=[31, -164], tl=39194, v=true] died, message: 'Librarian was blown up by .AG_Predator8430'
+[15:40:20] [Server thread/INFO]: Villager Villager['Librarian'/32998, uuid='f829f864-919e-4c97-9ebb-282705253be9', l='ServerLevel[world]', x=513.54, y=69.00, z=-2619.17, cpos=[32, -164], tl=42414, v=true] died, message: 'Librarian was blown up by .AG_Predator8430'
+[15:40:20] [Server thread/INFO]: Villager Villager['Librarian'/32999, uuid='99938573-b5da-4fe0-9570-5e8241be8e27', l='ServerLevel[world]', x=515.11, y=68.00, z=-2616.15, cpos=[32, -164], tl=42926, v=true] died, message: 'Librarian was blown up by .AG_Predator8430'
+[15:40:20] [Server thread/INFO]: Villager Villager['Fletcher'/33004, uuid='223e21f9-bc23-4533-91ff-71f63c7f4a30', l='ServerLevel[world]', x=512.06, y=69.00, z=-2618.91, cpos=[32, -164], tl=41139, v=true] died, message: 'Fletcher was blown up by .AG_Predator8430'
+[15:40:41] [Server thread/INFO]: Villager Villager['Librarian'/32996, uuid='f54cbc45-59c1-41b8-a99e-d3c27edb1136', l='ServerLevel[world]', x=518.30, y=68.13, z=-2618.72, cpos=[32, -164], tl=42578, v=true] died, message: 'Librarian was slain by .AG_Predator8430'
+[15:40:43] [Server thread/INFO]: Villager Villager['Librarian'/32993, uuid='0fbd8172-696c-4cf9-9592-3110bdbafdb8', l='ServerLevel[world]', x=514.69, y=68.00, z=-2618.70, cpos=[32, -164], tl=41420, v=true] died, message: 'Librarian was slain by .AG_Predator8430'
+[15:40:44] [Server thread/INFO]: Villager Villager['Librarian'/32988, uuid='26043ae0-4c0a-4df3-a724-47b1f6ccc313', l='ServerLevel[world]', x=514.83, y=68.00, z=-2614.56, cpos=[32, -164], tl=41596, v=true] died, message: 'Librarian was slain by .AG_Predator8430'
+[15:40:47] [Server thread/INFO]: Villager Villager['Librarian'/32968, uuid='a3e1eb1e-c78b-4b88-b416-2e47cbf47350', l='ServerLevel[world]', x=510.19, y=69.00, z=-2608.45, cpos=[31, -164], tl=39300, v=true] died, message: 'Librarian was slain by .AG_Predator8430'
+[15:40:49] [Server thread/INFO]: Villager Villager['Librarian'/32985, uuid='dcb9762e-1401-490e-9d2f-2aaa9e9f40cf', l='ServerLevel[world]', x=510.17, y=69.00, z=-2609.18, cpos=[31, -164], tl=43181, v=true] died, message: 'Librarian was slain by .AG_Predator8430'
+[15:40:59] [Server thread/INFO]: Villager Villager['Fletcher'/32997, uuid='baba9152-cd48-42b9-bbfd-9c841710868f', l='ServerLevel[world]', x=518.30, y=66.00, z=-2615.91, cpos=[32, -164], tl=42422, v=true] died, message: 'Fletcher was slain by .AG_Predator8430'
+[15:41:05] [Server thread/INFO]: Villager Villager['Librarian'/32991, uuid='6e003d53-fc9c-4c8f-93a7-d9baa3fc0eea', l='ServerLevel[world]', x=518.30, y=66.75, z=-2615.52, cpos=[32, -164], tl=43171, v=true] died, message: 'Librarian was slain by .AG_Predator8430'
+[15:41:09] [Server thread/INFO]: Villager Villager['Fletcher'/32995, uuid='3a0a7516-3fc1-4b5e-9914-ce84139bfd7c', l='ServerLevel[world]', x=509.58, y=68.88, z=-2610.24, cpos=[31, -164], tl=41637, v=true] died, message: 'Fletcher was slain by .AG_Predator8430'
+[15:41:11] [Server thread/INFO]: Villager Villager['Fletcher'/32989, uuid='bf20ace9-b62c-4c5c-bf46-d6a024cb0f45', l='ServerLevel[world]', x=516.72, y=68.00, z=-2617.55, cpos=[32, -164], tl=42013, v=true] died, message: 'Fletcher was slain by .AG_Predator8430'
+[15:41:14] [Server thread/INFO]: Villager Villager['Fletcher'/32994, uuid='8e817082-2a61-4c18-a2d4-e7510d758159', l='ServerLevel[world]', x=518.32, y=68.88, z=-2613.69, cpos=[32, -164], tl=41834, v=true] died, message: 'Fletcher was slain by .AG_Predator8430'
+[15:46:31] [Server thread/INFO]: Villager Villager['Villager'/159010, uuid='98a2544c-0369-45ab-b3e3-c6eb7906ddc4', l='ServerLevel[world]', x=403.08, y=84.56, z=-1847.59, cpos=[25, -116], tl=7453, v=true] died, message: 'Villager was slain by Vindicator'
+[15:46:35] [Server thread/INFO]: Villager Villager['Villager'/159011, uuid='29d3a8d3-9884-4e83-8676-746e4f2fc3dc', l='ServerLevel[world]', x=402.32, y=84.00, z=-1844.30, cpos=[25, -116], tl=7534, v=true] died, message: 'Villager was slain by Vindicator'
+[15:46:50] [Server thread/INFO]: Villager Villager['Villager'/159021, uuid='063c3ac0-22aa-471d-87e0-8dceb2eccd7c', l='ServerLevel[world]', x=406.50, y=86.00, z=-1840.74, cpos=[25, -116], tl=6526, v=true] died, message: 'Villager was slain by Vindicator'
+[15:47:14] [Server thread/INFO]: Villager Villager['Librarian'/33007, uuid='431d6720-cf87-47e9-b92a-f570ee75eb0a', l='ServerLevel[world]', x=525.46, y=61.97, z=-2621.01, cpos=[32, -164], tl=51154, v=true] died, message: 'Librarian was slain by .AG_Predator8430'
+[15:47:27] [Server thread/INFO]: Villager Villager['Villager'/32992, uuid='ac0541ae-67c9-4956-967c-42489431c162', l='ServerLevel[world]', x=517.55, y=68.00, z=-2609.38, cpos=[32, -164], tl=49571, v=true] died, message: 'Villager was slain by .AG_Predator8430'
+[15:47:40] [Server thread/INFO]: Villager Villager['Villager'/32966, uuid='0d57a763-2f47-4994-ab45-b492706813a4', l='ServerLevel[world]', x=518.20, y=67.18, z=-2616.48, cpos=[32, -164], tl=51864, v=true] died, message: 'Villager was slain by .AG_Predator8430'
+[15:47:49] [Server thread/INFO]: Villager Villager['Librarian'/33002, uuid='dade59a5-0ef3-4822-b98d-ef4457e95b5f', l='ServerLevel[world]', x=536.46, y=61.00, z=-2617.71, cpos=[33, -164], tl=51126, v=true] died, message: 'Librarian was slain by .AG_Predator8430'
+[15:47:52] [Server thread/INFO]: Villager Villager['Villager'/32967, uuid='d452a997-6363-4414-bd2d-b25d8d2a71c9', l='ServerLevel[world]', x=528.93, y=61.00, z=-2609.98, cpos=[33, -164], tl=50076, v=true] died, message: 'Villager was slain by .AG_Predator8430'
+[15:48:37] [NetherNet Built-in Signaling-4-4/INFO]: [Geyser-Spigot] AG Predator8430 has disconnected from the Java server because of §rBedrock client disconnected
+[15:48:37] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .AG_Predator8430 disconnected
+[15:48:37] [Server thread/INFO]: .AG_Predator8430 lost connection: Disconnected
+[15:48:37] [Server thread/INFO]: [voicechat] Disconnecting client .AG_Predator8430
+[15:48:37] [Server thread/INFO]: System chat: .AG_Predator8430 left the game
+[15:48:52] [NetherNet Built-in Signaling-4-1/INFO]: [Geyser-Spigot] Player connected with username AG Predator8430 (2225)
+[15:48:52] [localSession-7-1/INFO]: [Geyser-Spigot] AG Predator8430 (logged in as: AG_Predator8430) has connected to the Java server
+[15:48:52] [Server thread/INFO]: [floodgate] Floodgate player logged in as .AG_Predator8430 joined (UUID: 00000000-0000-0000-0009-01f146a6b2fc)
+[15:48:52] [Server thread/INFO]: System chat: .AG_Predator8430 joined the game
+[15:48:52] [Server thread/INFO]: .AG_Predator8430[/**.**.**.**:0] logged in with entity id 165168 at ([minecraft:overworld]519.00995, 72.0, -2622.3809)
+[15:50:54] [Server thread/INFO]: Villager Villager['Cleric'/159019, uuid='98ebd549-a69d-4b4a-8921-13ec69ced99f', l='ServerLevel[world]', x=374.51, y=92.00, z=-1856.05, cpos=[23, -117], tl=11386, v=true] died, message: 'Cleric was shot by Pillager'
+[15:54:21] [Server thread/INFO]: System chat: .AG_Predator8430 was blown up by Creeper
+[15:56:03] [Server thread/INFO]: Villager Villager['Farmer'/168900, uuid='981b03fc-b4bb-4f02-a281-2626cb28d44d', l='ServerLevel[world]', x=389.70, y=87.00, z=-1842.78, cpos=[24, -116], tl=1786, v=true] died, message: 'Farmer was slain by Vindicator'
+[15:56:04] [Server thread/INFO]: Villager Villager['Farmer'/168902, uuid='80bbff1c-0128-4890-afe6-c7ff656b5bf4', l='ServerLevel[world]', x=389.70, y=86.94, z=-1842.21, cpos=[24, -116], tl=1806, v=true] died, message: 'Farmer was slain by Vindicator'
+[15:56:08] [Server thread/INFO]: Villager Villager['Villager'/168946, uuid='bfe037d0-930f-4f3a-8ce8-2a98ff8f780e', l='ServerLevel[world]', x=401.30, y=85.00, z=-1846.70, cpos=[25, -116], tl=1873, v=true] died, message: 'Villager was slain by Vindicator'
+[15:56:09] [Server thread/INFO]: Villager Villager['Villager'/168947, uuid='bf037f91-2660-4bc8-a657-2cb666a03a17', l='ServerLevel[world]', x=401.70, y=85.00, z=-1846.30, cpos=[25, -116], tl=1893, v=true] died, message: 'Villager was slain by Vindicator'
+[15:56:11] [Server thread/INFO]: Villager Villager['Villager'/168901, uuid='1a40ce5c-fd71-49de-b9d6-716c8fd67baa', l='ServerLevel[world]', x=401.70, y=85.00, z=-1846.30, cpos=[25, -116], tl=1939, v=true] died, message: 'Villager was slain by Vindicator'
+[15:56:14] [Server thread/INFO]: Villager Villager['Villager'/168944, uuid='ce2a9ec7-b33e-45c9-a36d-a39d865cb499', l='ServerLevel[world]', x=402.77, y=84.00, z=-1845.60, cpos=[25, -116], tl=1991, v=true] died, message: 'Villager was slain by Vindicator'
+[15:58:53] [Server thread/INFO]: System chat: .AG_Predator8430 was shot by Skeleton
+[16:01:19] [Server thread/INFO]: System chat: soge has completed the challenge [Hero of the Village]
+[16:01:37] [Async Chat Thread - #48/INFO]: [Not Secure] <soge> yuck
+[16:12:53] [Server thread/INFO]: Named entity Zombie['retard'/30477, uuid='b29d9169-b8e3-4b7e-85ab-ff8915a93824', l='ServerLevel[world]', x=582.46, y=84.49, z=-2590.31, cpos=[36, -162], tl=223643, v=true] died: retard was slain by .AG_Predator8430
+[16:35:58] [NetherNet Built-in Signaling-4-1/INFO]: [Geyser-Spigot] AG Predator8430 has disconnected from the Java server because of §rBedrock client disconnected
+[16:35:58] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .AG_Predator8430 disconnected
+[16:35:58] [Server thread/INFO]: .AG_Predator8430 lost connection: Disconnected
+[16:35:58] [Server thread/INFO]: [voicechat] Disconnecting client .AG_Predator8430
+[16:35:58] [Server thread/INFO]: System chat: .AG_Predator8430 left the game
+[17:07:18] [Server thread/INFO]: soge lost connection: Disconnected
+[17:07:18] [Server thread/INFO]: [voicechat] Disconnecting client soge
+[17:07:18] [Server thread/INFO]: System chat: soge left the game
+[18:19:34] [Server thread/INFO]: AqibdaGoat (/**.**.**.**:20791) lost connection: Disconnected
+[18:19:34] [User Authenticator #15/INFO]: UUID of player AqibdaGoat is 4e359082-af12-36d2-b7a8-ec6b051af282
