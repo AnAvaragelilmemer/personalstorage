@@ -1,0 +1,1194 @@
+// Log file: latest.log
+
+[01:03:31] [User Authenticator #16/INFO]: UUID of player lacienichi is c8de2908-4242-3038-9be1-40fac73f1885
+[01:03:32] [Server thread/INFO]: System chat: lacienichi joined the game
+[01:03:32] [Server thread/INFO]: lacienichi[/**.**.**.**:20815] logged in with entity id 386512 at ([minecraft:overworld]414.50517900067894, 80.0, -7332.521714160627)
+[01:03:54] [Server thread/INFO]: System chat: lacienichi has reached the goal [Sky's the Limit]
+[01:06:45] [NetherNet Built-in Signaling-4-2/INFO]: [Geyser-Spigot] Player connected with username chenstumph (2225)
+[01:06:45] [localSession-7-2/INFO]: [Geyser-Spigot] chenstumph (logged in as: chenstumph) has connected to the Java server
+[01:06:46] [Server thread/INFO]: [floodgate] Floodgate player logged in as .chenstumph joined (UUID: 00000000-0000-0000-0009-01f532ff7162)
+[01:06:46] [Server thread/INFO]: System chat: .chenstumph joined the game
+[01:06:46] [Server thread/INFO]: .chenstumph[/**.**.**.**:0] logged in with entity id 387949 at ([minecraft:overworld]466.19144, 126.0, -1695.1038)
+[01:12:34] [Server thread/INFO]: System chat: lacienichi has made the advancement [Remote Getaway]
+[01:17:25] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .chenstumph disconnected
+[01:17:25] [NetherNet Built-in Signaling-4-2/INFO]: [Geyser-Spigot] chenstumph has disconnected from the Java server because of §rBedrock client disconnected
+[01:17:25] [Server thread/INFO]: .chenstumph lost connection: Disconnected
+[01:17:25] [Server thread/INFO]: [voicechat] Disconnecting client .chenstumph
+[01:17:25] [Server thread/INFO]: System chat: .chenstumph left the game
+[01:17:54] [Server thread/INFO]: System chat: lacienichi has made the advancement [The City at the End of the Game]
+[01:17:57] [NetherNet Built-in Signaling-4-3/INFO]: [Geyser-Spigot] Player connected with username chenstumph (2225)
+[01:17:57] [localSession-7-3/INFO]: [Geyser-Spigot] chenstumph (logged in as: chenstumph) has connected to the Java server
+[01:17:57] [Server thread/INFO]: [floodgate] Floodgate player logged in as .chenstumph joined (UUID: 00000000-0000-0000-0009-01f532ff7162)
+[01:17:57] [Server thread/INFO]: System chat: .chenstumph joined the game
+[01:17:57] [Server thread/INFO]: .chenstumph[/**.**.**.**:0] logged in with entity id 396463 at ([minecraft:overworld]465.00607, 126.0, -1695.0675)
+[01:18:12] [NetherNet Built-in Signaling-4-3/INFO]: [Geyser-Spigot] chenstumph has disconnected from the Java server because of §rBedrock client disconnected
+[01:18:12] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .chenstumph disconnected
+[01:18:12] [Server thread/INFO]: .chenstumph lost connection: Disconnected
+[01:18:12] [Server thread/INFO]: [voicechat] Disconnecting client .chenstumph
+[01:18:12] [Server thread/INFO]: System chat: .chenstumph left the game
+[01:56:24] [User Authenticator #17/INFO]: UUID of player soge is d692b710-1ec0-3377-9b9f-e8f4ca4de20d
+[01:56:25] [Server thread/INFO]: System chat: soge joined the game
+[01:56:25] [Server thread/INFO]: soge[/**.**.**.**:63797] logged in with entity id 421957 at ([minecraft:overworld]461.0126432998068, 133.0, -1702.4113556857094)
+[01:59:23] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> L soge
+[01:59:43] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> hello Goldenglow
+[01:59:47] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> uh
+[01:59:49] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> im not
+[01:59:50] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> nigga
+[01:59:51] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> wheres the bacon?
+[01:59:54] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> but
+[01:59:54] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> idk
+[01:59:58] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> I haven't gone there at all
+[01:59:59] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> ur wearing GOldenglow skin
+[02:00:02] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> what\
+[02:00:03] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> no
+[02:00:05] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> I'm not
+[02:00:07] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> ye u r
+[02:00:10] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> i can see
+[02:00:10] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> proof
+[02:00:22] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> well
+[02:00:25] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> when i press tab
+[02:00:39] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> how does it show
+[02:00:40] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> i can see the name and the skin they're wearing
+[02:00:47] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> name and head
+[02:00:49] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> it doesn't show mine so yoiu
+[02:00:53] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> you;re lying
+[02:01:01] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> nah
+[02:01:08] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> yes you are
+[02:01:09] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> love u Goldenglow
+[02:01:19] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> kill yourself before I do
+[02:01:21] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> i can send proo
+[02:01:22] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> proof
+[02:01:26] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> yes show
+[02:01:29] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> how do i send images in Minecraft chat?
+[02:01:39] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> you send it in discord nigga
+[02:01:51] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> u can't send images in Minecraft?
+[02:02:01] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> why would you wanna send porn in minecraft
+[02:02:08] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> nahh
+[02:02:13] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> why'd i send porns
+[02:02:17] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> just send it on discord bro
+[02:02:20] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> dont even have em
+[02:02:32] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> uh huh
+[02:02:47] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> lemme send in discod
+[02:02:51] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> ok
+[02:03:14] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> sent
+[02:03:23] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> wow
+[02:03:24] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> wow
+[02:03:26] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> how did you know
+[02:03:28] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> I'm shocked
+[02:03:34] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> u know
+[02:03:38] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> I dont
+[02:03:41] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> it's like riding a bicycle
+[02:03:47] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> but without a saddle
+[02:03:58] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> aqib prob stole the beacon br
+[02:04:06] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> darn
+[02:04:21] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> hope nothing too bad happened yesterday
+[02:04:29] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> its ok
+[02:04:33] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> everyone made up
+[02:04:34] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> :o
+[02:04:40] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> i wish i could join
+[02:04:51] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> good that you didn't join
+[02:04:56] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> you would
+[02:04:58] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> y
+[02:04:59] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> ve been illed nigg
+[02:05:06] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> sir,,,,
+[02:05:20] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> if u just say "u would get killed" it doesnt make any difference.....
+[02:05:25] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> bitch
+[02:05:28] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> ud lose all items
+[02:05:29] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> like sa
+[02:05:30] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> v
+[02:05:34] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> :o
+[02:05:44] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> worst nightmaer
+[02:06:04] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> bro wtf
+[02:06:12] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> ?
+[02:06:17] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> the indian's base got griefed
+[02:06:19] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> lmfaoooo
+[02:06:27] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> reo's?
+[02:06:30] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> yeah
+[02:06:33] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> wtf
+[02:06:34] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> they prob switched
+[02:06:35] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> or some
+[02:06:45] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> didnt knew he had a base
+[02:07:21] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> shit
+[02:07:22] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> ok
+[02:07:45] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> i wish i had minecraft
+[02:07:53] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> u have minecraft nigger
+[02:07:58] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> i men
+[02:08:01] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> real one
+[02:08:03] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> yeah be broke
+[02:08:06] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> L
+[02:08:08] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> real ones from Microsoft
+[02:08:10] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> butt
+[02:08:11] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> butt
+[02:08:12] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> butt
+[02:08:16] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> butt sir
+[02:08:21] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> kill yourself
+[02:08:22] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> i wish minecraft was free
+[02:08:29] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> yeah in 2010
+[02:08:37] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> :o
+[02:09:17] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> yes
+[02:09:25] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> you gotta die bro
+[02:09:37] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> whut
+[02:09:39] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> who
+[02:09:46] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> butt
+[02:09:47] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> fuck
+[02:09:48] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> butt
+[02:09:49] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> fuck
+[02:09:54] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> :o
+[02:10:15] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> man if only there's a hot egirl playing in this smp
+[02:10:20] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> :p
+[02:10:31] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> bro
+[02:10:42] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> leak the ip then
+[02:10:43] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> LOL
+[02:10:55] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> nah
+[02:11:08] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> i dont like those dirty old men pretending to be one
+[02:11:10] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> then no egirls nigga
+[02:11:16] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> yeah no shit
+[02:11:17] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> but
+[02:11:17] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> pedo
+[02:11:20] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> e girls are hot
+[02:11:25] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> bro
+[02:11:31] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> ye
+[02:11:44] [Async Chat Thread - #51/INFO]: [Not Secure] <lacienichi> your testosterone levels are horrible bro
+[02:11:49] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> but
+[02:11:53] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> pls lower it down to a ormal level
+[02:11:54] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> it's not
+[02:12:03] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> it's pretty normal :(
+[02:12:12] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> its not
+[02:12:14] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> nigga
+[02:12:17] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> its very high
+[02:12:21] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> it makes you horny
+[02:12:24] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> aroused
+[02:12:28] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> :o
+[02:12:35] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> :o
+[02:12:37] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> if i was horny
+[02:12:41] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> i wouldn't play minecraft
+[02:12:51] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> u r rn
+[02:12:56] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> gooning while minecrafting
+[02:13:01] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> but
+[02:13:10] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> it's hard to play with just only one hand....
+[02:13:26] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> bro bro
+[02:13:27] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> horrible theory bro
+[02:13:28] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> bro
+[02:13:31] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> check gen
+[02:13:37] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> uh
+[02:13:40] [Async Chat Thread - #50/INFO]: [Not Secure] <soge> generation?
+[02:13:49] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> general
+[02:13:52] [Async Chat Thread - #50/INFO]: [Not Secure] <lacienichi> stupid nigger
+[02:13:53] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> oh alr
+[02:14:09] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> :ooo
+[02:14:16] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> shikanoko circles
+[02:14:19] [Async Chat Thread - #51/INFO]: [Not Secure] <soge> that's sumthing
+[02:15:45] [Server thread/INFO]: soge lost connection: Disconnected
+[02:15:45] [Server thread/INFO]: [voicechat] Disconnecting client soge
+[02:15:45] [Server thread/INFO]: System chat: soge left the game
+[02:21:14] [User Authenticator #18/INFO]: UUID of player soge is d692b710-1ec0-3377-9b9f-e8f4ca4de20d
+[02:21:15] [Server thread/INFO]: System chat: soge joined the game
+[02:21:15] [Server thread/INFO]: soge[/**.**.**.**:63649] logged in with entity id 441203 at ([minecraft:overworld]494.5497436358361, 120.0, -1702.5784373159224)
+[02:21:22] [Async Chat Thread - #52/INFO]: [Not Secure] <soge> darn
+[02:21:23] [Async Chat Thread - #52/INFO]: [Not Secure] <lacienichi> nah fuck you
+[02:21:28] [Async Chat Thread - #52/INFO]: [Not Secure] <soge> wha
+[02:21:31] [Async Chat Thread - #52/INFO]: [Not Secure] <soge> what happened
+[02:21:38] [Async Chat Thread - #52/INFO]: [Not Secure] <lacienichi> yeah fuck you
+[02:21:41] [Async Chat Thread - #52/INFO]: [Not Secure] <soge> uh
+[02:23:01] [Server thread/INFO]: soge lost connection: Disconnected
+[02:23:01] [Server thread/INFO]: [voicechat] Disconnecting client soge
+[02:23:01] [Server thread/INFO]: System chat: soge left the game
+[02:31:29] [NetherNet Built-in Signaling-4-4/INFO]: [Geyser-Spigot] Player connected with username chenstumph (2225)
+[02:31:29] [localSession-7-4/INFO]: [Geyser-Spigot] chenstumph (logged in as: chenstumph) has connected to the Java server
+[02:31:29] [Server thread/INFO]: [floodgate] Floodgate player logged in as .chenstumph joined (UUID: 00000000-0000-0000-0009-01f532ff7162)
+[02:31:29] [Server thread/INFO]: System chat: .chenstumph joined the game
+[02:31:29] [Server thread/INFO]: .chenstumph[/**.**.**.**:0] logged in with entity id 447343 at ([minecraft:overworld]472.05844, 126.0, -1695.1685)
+[02:34:22] [NetherNet Built-in Signaling-4-4/ERROR]: [tel.schich.libdatachannel.LibDataChannel] rtc::impl::SctpTransport::trySendMessage@689: SCTP sending failed, errno=2
+[02:34:22] [NetherNet Built-in Signaling-4-4/ERROR]: [tel.schich.libdatachannel.LibDataChannel] {anonymous}::wrap@320: Sending failed, errno=2
+[02:34:22] [NetherNet Built-in Signaling-4-4/INFO]: [Geyser-Spigot] chenstumph has disconnected from the Java server because of §rBedrock client disconnected
+[02:34:22] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .chenstumph disconnected
+[02:34:22] [Server thread/INFO]: .chenstumph lost connection: Disconnected
+[02:34:22] [Server thread/INFO]: [voicechat] Disconnecting client .chenstumph
+[02:34:22] [Server thread/INFO]: System chat: .chenstumph left the game
+[02:43:33] [Server thread/INFO]: System chat: lacienichi has made the advancement [Oh Shiny]
+[02:55:08] [User Authenticator #19/INFO]: UUID of player loisse is 4754e1e2-e1ee-3332-8c68-f7eb87bbd120
+[02:55:09] [Server thread/INFO]: System chat: loisse joined the game
+[02:55:09] [Server thread/INFO]: loisse[/**.**.**.**:46695] logged in with entity id 458682 at ([minecraft:overworld]471.2684944464442, 121.0, -1697.8087287815063)
+[03:07:52] [Server thread/INFO]: loisse lost connection: Disconnected
+[03:07:52] [Server thread/INFO]: [voicechat] Disconnecting client loisse
+[03:07:52] [Server thread/INFO]: System chat: loisse left the game
+[03:08:55] [Server thread/INFO]: lacienichi lost connection: Disconnected
+[03:08:55] [Server thread/INFO]: [voicechat] Disconnecting client lacienichi
+[03:08:55] [Server thread/INFO]: System chat: lacienichi left the game
+[03:12:22] [NetherNet Built-in Signaling-4-1/INFO]: [Geyser-Spigot] Player connected with username chenstumph (2225)
+[03:12:22] [localSession-7-1/INFO]: [Geyser-Spigot] chenstumph (logged in as: chenstumph) has connected to the Java server
+[03:12:22] [Server thread/INFO]: [floodgate] Floodgate player logged in as .chenstumph joined (UUID: 00000000-0000-0000-0009-01f532ff7162)
+[03:12:22] [Server thread/INFO]: System chat: .chenstumph joined the game
+[03:12:22] [Server thread/INFO]: .chenstumph[/**.**.**.**:0] logged in with entity id 469364 at ([minecraft:overworld]470.96106, 126.0, -1696.8435)
+[03:18:21] [Server thread/WARN]: Horse (vehicle of .chenstumph) moved wrongly! 8.08947716198195
+[03:59:45] [Server thread/INFO]: System chat: .chenstumph hit the ground too hard
+[04:02:01] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .chenstumph disconnected
+[04:02:01] [NetherNet Built-in Signaling-4-1/INFO]: [Geyser-Spigot] chenstumph has disconnected from the Java server because of §rBedrock client disconnected
+[04:02:01] [Server thread/INFO]: .chenstumph lost connection: Disconnected
+[04:02:01] [Server thread/INFO]: [voicechat] Disconnecting client .chenstumph
+[04:02:01] [Server thread/INFO]: System chat: .chenstumph left the game
+[04:05:20] [User Authenticator #20/INFO]: UUID of player soge is d692b710-1ec0-3377-9b9f-e8f4ca4de20d
+[04:05:21] [Server thread/INFO]: System chat: soge joined the game
+[04:05:21] [Server thread/INFO]: soge[/**.**.**.**:53238] logged in with entity id 497862 at ([minecraft:overworld]458.20067360593777, 135.5, -1699.9682550368987)
+[04:38:54] [Server thread/INFO]: soge lost connection: Disconnected
+[04:38:54] [Server thread/INFO]: [voicechat] Disconnecting client soge
+[04:38:54] [Server thread/INFO]: System chat: soge left the game
+[04:59:35] [NetherNet Built-in Signaling-4-2/INFO]: [Geyser-Spigot] Player connected with username chenstumph (2225)
+[04:59:35] [localSession-7-2/INFO]: [Geyser-Spigot] chenstumph (logged in as: chenstumph) has connected to the Java server
+[04:59:35] [Server thread/INFO]: [floodgate] Floodgate player logged in as .chenstumph joined (UUID: 00000000-0000-0000-0009-01f532ff7162)
+[04:59:35] [Server thread/INFO]: System chat: .chenstumph joined the game
+[04:59:35] [Server thread/INFO]: .chenstumph[/**.**.**.**:0] logged in with entity id 521992 at ([minecraft:overworld]469.72836, 126.0, -1709.7164)
+[05:09:11] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .chenstumph disconnected
+[05:09:11] [NetherNet Built-in Signaling-4-2/INFO]: [Geyser-Spigot] chenstumph has disconnected from the Java server because of §rBedrock client disconnected
+[05:09:11] [Server thread/INFO]: .chenstumph lost connection: Disconnected
+[05:09:11] [Server thread/INFO]: [voicechat] Disconnecting client .chenstumph
+[05:09:11] [Server thread/INFO]: System chat: .chenstumph left the game
+[05:15:15] [User Authenticator #21/INFO]: UUID of player lacienichi is c8de2908-4242-3038-9be1-40fac73f1885
+[05:15:16] [Server thread/INFO]: System chat: lacienichi joined the game
+[05:15:16] [Server thread/INFO]: lacienichi[/**.**.**.**:32812] logged in with entity id 529005 at ([minecraft:overworld]-1027.3268054368898, 90.9375, -2975.391363299284)
+[05:40:31] [User Authenticator #22/INFO]: UUID of player soge is d692b710-1ec0-3377-9b9f-e8f4ca4de20d
+[05:40:33] [Server thread/INFO]: System chat: soge joined the game
+[05:40:33] [Server thread/INFO]: soge[/**.**.**.**:55336] logged in with entity id 542016 at ([minecraft:overworld]473.91111325155543, 126.0, -1696.1407026613124)
+[05:40:49] [Async Chat Thread - #54/INFO]: [Not Secure] <lacienichi> what is bro
+[05:40:55] [Async Chat Thread - #54/INFO]: [Not Secure] <lacienichi> s purpose post end
+[05:40:58] [Async Chat Thread - #54/INFO]: [Not Secure] <soge> no more Goldenglow skin
+[05:41:04] [Async Chat Thread - #54/INFO]: [Not Secure] <soge> :'c
+[05:41:06] [Async Chat Thread - #54/INFO]: [Not Secure] <lacienichi> ok
+[05:41:07] [Async Chat Thread - #54/INFO]: [Not Secure] <lacienichi> L
+[05:41:10] [Async Chat Thread - #54/INFO]: [Not Secure] <lacienichi> skill issue
+[05:41:12] [Async Chat Thread - #54/INFO]: [Not Secure] <soge> but
+[05:41:16] [Async Chat Thread - #54/INFO]: [Not Secure] <soge> i love her
+[05:41:26] [Async Chat Thread - #54/INFO]: [Not Secure] <lacienichi> nbgaf bro
+[05:41:34] [Async Chat Thread - #54/INFO]: [Not Secure] <soge> what
+[05:41:37] [Async Chat Thread - #54/INFO]: [Not Secure] <lacienichi> yes
+[05:41:38] [Async Chat Thread - #54/INFO]: [Not Secure] <soge> what does dat mean
+[05:41:47] [Async Chat Thread - #54/INFO]: [Not Secure] <lacienichi> nigga sex
+[05:41:52] [Async Chat Thread - #54/INFO]: [Not Secure] <soge> :o
+[05:41:55] [Async Chat Thread - #54/INFO]: [Not Secure] <lacienichi> :O
+[05:42:07] [Async Chat Thread - #54/INFO]: [Not Secure] <soge> sexes
+[05:42:11] [Async Chat Thread - #54/INFO]: [Not Secure] <soge> hell yea
+[05:42:18] [Async Chat Thread - #54/INFO]: [Not Secure] <lacienichi> kill yorself bro
+[05:42:23] [Async Chat Thread - #55/INFO]: [Not Secure] <soge> y
+[05:43:41] [Async Chat Thread - #56/INFO]: [Not Secure] <lacienichi> jenny mod in s3
+[05:43:51] [Async Chat Thread - #56/INFO]: [Not Secure] <soge> whut
+[05:43:54] [Async Chat Thread - #56/INFO]: [Not Secure] <lacienichi> jenny mod in s3
+[05:43:55] [Async Chat Thread - #56/INFO]: [Not Secure] <lacienichi> jenny mod in s3
+[05:43:56] [Async Chat Thread - #56/INFO]: [Not Secure] <lacienichi> jenny mod in s3
+[05:43:56] [Async Chat Thread - #56/INFO]: [Not Secure] <soge> also for some reason
+[05:43:57] [Async Chat Thread - #56/INFO]: [Not Secure] <lacienichi> jenny mod in s3
+[05:43:58] [Async Chat Thread - #56/INFO]: [Not Secure] <lacienichi> jenny mod in s3
+[05:44:00] [Async Chat Thread - #56/INFO]: [Not Secure] <soge> s1 is still alive
+[05:44:06] [Async Chat Thread - #56/INFO]: [Not Secure] <lacienichi> accidentally paid
+[05:44:09] [NetherNet Built-in Signaling-4-3/INFO]: [Geyser-Spigot] Player connected with username chenstumph (2225)
+[05:44:09] [localSession-7-3/INFO]: [Geyser-Spigot] chenstumph (logged in as: chenstumph) has connected to the Java server
+[05:44:10] [Server thread/INFO]: [floodgate] Floodgate player logged in as .chenstumph joined (UUID: 00000000-0000-0000-0009-01f532ff7162)
+[05:44:10] [Server thread/INFO]: System chat: .chenstumph joined the game
+[05:44:10] [Server thread/INFO]: .chenstumph[/**.**.**.**:0] logged in with entity id 544683 at ([minecraft:overworld]464.85254, 127.00000000000001, -1693.5564)
+[05:44:16] [Async Chat Thread - #56/INFO]: [Not Secure] <lacienichi> you can fix your shit bro
+[05:44:16] [Async Chat Thread - #56/INFO]: [Not Secure] <soge> hello chen
+[05:44:20] [Async Chat Thread - #56/INFO]: [Not Secure] <lacienichi> you ahve 4 weeks
+[05:44:21] [Async Chat Thread - #56/INFO]: [Not Secure] <.chenstumph> hello
+[05:44:28] [Async Chat Thread - #56/INFO]: [Not Secure] <soge> 4 weeks?
+[05:44:34] [Async Chat Thread - #56/INFO]: [Not Secure] <lacienichi> before it dies
+[05:44:40] [Async Chat Thread - #56/INFO]: [Not Secure] <soge> dev has auto pay on?
+[05:44:55] [Async Chat Thread - #56/INFO]: [Not Secure] <lacienichi> okabe accidentally paid apparenly
+[05:44:56] [Async Chat Thread - #56/INFO]: [Not Secure] <lacienichi> in s1
+[05:45:03] [Async Chat Thread - #56/INFO]: [Not Secure] <soge> darn
+[05:45:38] [Async Chat Thread - #56/INFO]: [Not Secure] <.chenstumph> thanks for building the roof soge
+[05:45:43] [Async Chat Thread - #56/INFO]: [Not Secure] <soge> :ppp
+[05:45:49] [Async Chat Thread - #56/INFO]: [Not Secure] <soge> wait for me
+[05:46:03] [Async Chat Thread - #56/INFO]: [Not Secure] <.chenstumph> ok i gotta leave ill be back later
+[05:46:06] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .chenstumph disconnected
+[05:46:06] [NetherNet Built-in Signaling-4-3/INFO]: [Geyser-Spigot] chenstumph has disconnected from the Java server because of §rBedrock client disconnected
+[05:46:06] [Server thread/INFO]: .chenstumph lost connection: Disconnected
+[05:46:06] [Server thread/INFO]: [voicechat] Disconnecting client .chenstumph
+[05:46:06] [Server thread/INFO]: System chat: .chenstumph left the game
+[05:46:25] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[05:49:11] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[05:54:09] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[05:54:14] [Server thread/INFO]: lacienichi lost connection: Disconnected
+[05:54:14] [Server thread/INFO]: [voicechat] Disconnecting client lacienichi
+[05:54:14] [Server thread/INFO]: System chat: lacienichi left the game
+[05:54:20] [User Authenticator #23/INFO]: UUID of player lacienichi is c8de2908-4242-3038-9be1-40fac73f1885
+[05:54:20] [Server thread/INFO]: System chat: lacienichi joined the game
+[05:54:20] [Server thread/INFO]: lacienichi[/**.**.**.**:7053] logged in with entity id 551633 at ([minecraft:the_nether]155.71604920516162, 128.0, -904.703952315684)
+[05:54:29] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[05:55:44] [Async Chat Thread - #58/INFO]: [Not Secure] <lacienichi> I'm robbing tat blue axolotl bro
+[05:55:50] [Async Chat Thread - #58/INFO]: [Not Secure] <soge> wha
+[05:56:01] [Server thread/INFO]: System chat: lacienichi has made the advancement [The Cutest Predator]
+[05:56:08] [Async Chat Thread - #59/INFO]: [Not Secure] <soge> NOOO
+[05:56:15] [Async Chat Thread - #59/INFO]: [Not Secure] <lacienichi> ezzzz
+[05:56:29] [Async Chat Thread - #59/INFO]: [Not Secure] <soge> u cant do dat
+[05:56:35] [Async Chat Thread - #59/INFO]: [Not Secure] <lacienichi> I can do t ebcause I can
+[05:56:47] [Async Chat Thread - #59/INFO]: [Not Secure] <soge> me need axolotl
+[05:56:51] [Async Chat Thread - #58/INFO]: [Not Secure] <lacienichi> me need too
+[05:56:54] [Async Chat Thread - #58/INFO]: [Not Secure] <soge> for what
+[05:57:02] [Async Chat Thread - #58/INFO]: [Not Secure] <soge> i can lead u to lus cave
+[05:57:03] [Async Chat Thread - #58/INFO]: [Not Secure] <lacienichi> for my evil plans
+[05:57:07] [Async Chat Thread - #58/INFO]: [Not Secure] <soge> waht plans
+[05:57:08] [Async Chat Thread - #59/INFO]: [Not Secure] <lacienichi> I am lazy to breed
+[05:57:14] [Async Chat Thread - #59/INFO]: [Not Secure] <lacienichi> u do it for me ok
+[05:57:15] [Async Chat Thread - #58/INFO]: [Not Secure] <soge> wha
+[05:57:19] [Async Chat Thread - #58/INFO]: [Not Secure] <soge> me need fishes
+[05:57:26] [Async Chat Thread - #58/INFO]: [Not Secure] <lacienichi> I wnat puffer fish
+[05:57:36] [Async Chat Thread - #58/INFO]: [Not Secure] <soge> no bucket puffer fish
+[05:57:43] [Async Chat Thread - #58/INFO]: [Not Secure] <lacienichi> u suck
+[05:57:47] [Async Chat Thread - #59/INFO]: [Not Secure] <lacienichi> ists mine now
+[05:57:50] [Async Chat Thread - #59/INFO]: [Not Secure] <soge> nahhh
+[05:57:59] [Async Chat Thread - #59/INFO]: [Not Secure] <soge> i spent 30 seconds gathering that
+[05:58:07] [Async Chat Thread - #59/INFO]: [Not Secure] <soge> and bro took it
+[05:58:12] [Async Chat Thread - #59/INFO]: [Not Secure] <lacienichi> then u do another 30 seconds again
+[05:58:18] [Async Chat Thread - #59/INFO]: [Not Secure] <soge> no
+[05:58:19] [Async Chat Thread - #59/INFO]: [Not Secure] <soge> too long
+[05:58:26] [Async Chat Thread - #59/INFO]: [Not Secure] <lacienichi> ur attention span suks
+[05:58:44] [Async Chat Thread - #59/INFO]: [Not Secure] <lacienichi> this is OUR trading hall bro
+[05:58:54] [Async Chat Thread - #59/INFO]: [Not Secure] <soge> what did u gave me for that axololtl
+[05:58:59] [Async Chat Thread - #59/INFO]: [Not Secure] <soge> nothin
+[05:59:03] [Async Chat Thread - #58/INFO]: [Not Secure] <lacienichi> nothing
+[05:59:11] [Async Chat Thread - #59/INFO]: [Not Secure] <lacienichi> -3 stacks of iron tho
+[05:59:20] [Async Chat Thread - #59/INFO]: [Not Secure] <soge> owe?
+[05:59:27] [Async Chat Thread - #59/INFO]: [Not Secure] <soge> wait is it taxes
+[05:59:30] [Async Chat Thread - #59/INFO]: [Not Secure] <lacienichi> yes
+[05:59:36] [Async Chat Thread - #59/INFO]: [Not Secure] <soge> me poor
+[05:59:38] [Async Chat Thread - #59/INFO]: [Not Secure] <lacienichi> I am taxes collectors
+[05:59:43] [Async Chat Thread - #59/INFO]: [Not Secure] <lacienichi> that is ok
+[05:59:46] [Async Chat Thread - #59/INFO]: [Not Secure] <lacienichi> u will generate more either way
+[06:00:01] [Async Chat Thread - #59/INFO]: [Not Secure] <soge> unstable financial
+[06:00:56] [Async Chat Thread - #59/INFO]: [Not Secure] <lacienichi> u want
+[06:00:58] [Async Chat Thread - #59/INFO]: [Not Secure] <lacienichi> what item
+[06:01:03] [Async Chat Thread - #59/INFO]: [Not Secure] <soge> for axolotls?
+[06:01:07] [Async Chat Thread - #59/INFO]: [Not Secure] <lacienichi> ok
+[06:01:10] [Async Chat Thread - #59/INFO]: [Not Secure] <soge> wait
+[06:01:13] [Async Chat Thread - #58/INFO]: [Not Secure] <soge> uhh
+[06:01:18] [Async Chat Thread - #58/INFO]: [Not Secure] <soge> 3 diamonds
+[06:01:19] [Async Chat Thread - #59/INFO]: [Not Secure] <soge> ig
+[06:01:34] [Async Chat Thread - #59/INFO]: [Not Secure] <soge> i dont see any item inside
+[06:01:37] [Async Chat Thread - #59/INFO]: [Not Secure] <lacienichi> i poor
+[06:01:40] [Async Chat Thread - #59/INFO]: [Not Secure] <lacienichi> I no have diamonds
+[06:01:52] [Async Chat Thread - #59/INFO]: [Not Secure] <soge> i can make shovels ig
+[06:01:58] [Async Chat Thread - #59/INFO]: [Not Secure] <lacienichi> yooo can i have those totems
+[06:02:06] [Async Chat Thread - #59/INFO]: [Not Secure] <soge> nah
+[06:02:11] [Async Chat Thread - #59/INFO]: [Not Secure] <lacienichi> fk u
+[06:02:14] [Async Chat Thread - #58/INFO]: [Not Secure] <soge> i spent 1 min finding them
+[06:02:15] [Async Chat Thread - #58/INFO]: [Not Secure] <lacienichi> its all mine now
+[06:02:33] [Async Chat Thread - #58/INFO]: [Not Secure] <lacienichi> and I spend 10 mins on getting 2 totems bro
+[06:02:39] [Async Chat Thread - #58/INFO]: [Not Secure] <lacienichi> ur very expendable
+[06:03:03] [Async Chat Thread - #58/INFO]: [Not Secure] <soge> huh
+[06:03:05] [Async Chat Thread - #58/INFO]: [Not Secure] <soge> ayee
+[06:03:09] [Async Chat Thread - #58/INFO]: [Not Secure] <lacienichi> I rejoin ok
+[06:03:11] [Server thread/INFO]: lacienichi lost connection: Disconnected
+[06:03:11] [Server thread/INFO]: [voicechat] Disconnecting client lacienichi
+[06:03:11] [Server thread/INFO]: System chat: lacienichi left the game
+[06:04:04] [User Authenticator #24/INFO]: UUID of player lacienichi is c8de2908-4242-3038-9be1-40fac73f1885
+[06:04:06] [Server thread/INFO]: System chat: lacienichi joined the game
+[06:04:06] [Server thread/INFO]: lacienichi[/**.**.**.**:31900] logged in with entity id 557254 at ([minecraft:overworld]456.9082895635855, 91.0, -1793.3269328890594)
+[06:04:16] [Async Chat Thread - #60/INFO]: [Not Secure] <lacienichi> :O
+[06:04:21] [Async Chat Thread - #60/INFO]: [Not Secure] <soge> erm
+[06:04:25] [Async Chat Thread - #60/INFO]: [Not Secure] <soge> why cant i craft
+[06:04:33] [Async Chat Thread - #60/INFO]: [Not Secure] <lacienichi> what cradt
+[06:04:34] [Async Chat Thread - #61/INFO]: [Not Secure] <lacienichi> of
+[06:04:35] [Async Chat Thread - #61/INFO]: [Not Secure] <lacienichi> or
+[06:04:36] [Async Chat Thread - #61/INFO]: [Not Secure] <lacienichi> oh
+[06:04:36] [Async Chat Thread - #61/INFO]: [Not Secure] <soge> netherite shovel
+[06:04:40] [Async Chat Thread - #61/INFO]: [Not Secure] <lacienichi> you're retarded bro
+[06:04:45] [Async Chat Thread - #61/INFO]: [Not Secure] <soge> 2 sticks and 1 netherite
+[06:04:54] [Async Chat Thread - #61/INFO]: [Not Secure] <soge> u want this?
+[06:04:57] [Async Chat Thread - #61/INFO]: [Not Secure] <lacienichi> diamond shovel
+[06:05:00] [Async Chat Thread - #61/INFO]: [Not Secure] <lacienichi> yo
+[06:05:01] [Async Chat Thread - #61/INFO]: [Not Secure] <lacienichi> nice
+[06:05:03] [Async Chat Thread - #61/INFO]: [Not Secure] <soge> not sure what it does
+[06:05:10] [Async Chat Thread - #61/INFO]: [Not Secure] <soge> wat this?
+[06:05:10] [Async Chat Thread - #61/INFO]: [Not Secure] <lacienichi> u have diamond shovel nigga
+[06:05:16] [Async Chat Thread - #61/INFO]: [Not Secure] <soge> yea
+[06:05:17] [Async Chat Thread - #61/INFO]: [Not Secure] <lacienichi> ok
+[06:05:18] [Async Chat Thread - #61/INFO]: [Not Secure] <soge> but why
+[06:05:26] [Async Chat Thread - #61/INFO]: [Not Secure] <lacienichi> put
+[06:05:28] [Async Chat Thread - #60/INFO]: [Not Secure] <lacienichi> all 3
+[06:05:29] [Async Chat Thread - #60/INFO]: [Not Secure] <lacienichi> in ther
+[06:05:32] [Async Chat Thread - #60/INFO]: [Not Secure] <soge> :o
+[06:05:35] [Async Chat Thread - #61/INFO]: [Not Secure] <soge> erm
+[06:05:42] [Async Chat Thread - #61/INFO]: [Not Secure] <soge> will that lost all the entchatns?
+[06:05:46] [Async Chat Thread - #60/INFO]: [Not Secure] <lacienichi> idk bro
+[06:05:58] [Async Chat Thread - #60/INFO]: [Not Secure] <lacienichi> wawo
+[06:06:08] [Async Chat Thread - #60/INFO]: [Not Secure] <soge> thank u
+[06:06:13] [Async Chat Thread - #60/INFO]: [Not Secure] <lacienichi> nah fuk u
+[06:06:20] [Async Chat Thread - #60/INFO]: [Not Secure] <soge> y
+[06:06:43] [Async Chat Thread - #61/INFO]: [Not Secure] <soge> darn
+[06:07:37] [Async Chat Thread - #61/INFO]: [Not Secure] <lacienichi> gay sex
+[06:08:03] [Async Chat Thread - #61/INFO]: [Not Secure] <soge> may i see ur goldenglow skin
+[06:08:18] [Async Chat Thread - #61/INFO]: [Not Secure] <lacienichi> no
+[06:08:22] [Async Chat Thread - #61/INFO]: [Not Secure] <soge> y
+[06:08:24] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[06:08:27] [Async Chat Thread - #61/INFO]: [Not Secure] <soge> looks pretty cute :D
+[06:08:37] [Async Chat Thread - #61/INFO]: [Not Secure] <lacienichi> bro just do ./skin set lacienichi bruh
+[06:08:43] [Async Chat Thread - #61/INFO]: [Not Secure] <soge> huh
+[06:08:46] [Async Chat Thread - #61/INFO]: [Not Secure] <soge> hm
+[06:08:48] [Async Chat Thread - #61/INFO]: [Not Secure] <lacienichi> just do it nigga
+[06:08:55] [Server thread/INFO]: soge issued server command: [redacted]
+[06:08:58] [Async Chat Thread - #61/INFO]: [Not Secure] <soge> holy
+[06:09:05] [Server thread/INFO]: System chat: soge was slain by lacienichi using [₊nightshadeཐི༏ཋྀ⁺₊]
+[06:09:08] [Async Chat Thread - #61/INFO]: [Not Secure] <lacienichi> L
+[06:09:08] [Async Chat Thread - #61/INFO]: [Not Secure] <lacienichi> L
+[06:09:09] [Async Chat Thread - #61/INFO]: [Not Secure] <lacienichi> L
+[06:09:10] [Async Chat Thread - #60/INFO]: [Not Secure] <lacienichi> L
+[06:09:10] [Async Chat Thread - #60/INFO]: [Not Secure] <lacienichi> L
+[06:09:11] [Async Chat Thread - #61/INFO]: [Not Secure] <lacienichi> L
+[06:09:19] [Server thread/INFO]: soge issued server command: [redacted]
+[06:09:22] [Async Chat Thread - #61/INFO]: [Not Secure] <lacienichi> bo come back
+[06:09:25] [Async Chat Thread - #61/INFO]: [Not Secure] <soge> wait
+[06:09:34] [Server thread/INFO]: soge issued server command: [redacted]
+[06:09:49] [Async Chat Thread - #61/INFO]: [Not Secure] <soge> darn
+[06:09:59] [Async Chat Thread - #61/INFO]: [Not Secure] <lacienichi> so far bro
+[06:11:39] [Async Chat Thread - #62/INFO]: [Not Secure] <lacienichi> ok
+[06:11:53] [Server thread/INFO]: soge issued server command: [redacted]
+[06:12:18] [Server thread/INFO]: lacienichi lost connection: Disconnected
+[06:12:18] [Server thread/INFO]: [voicechat] Disconnecting client lacienichi
+[06:12:18] [Server thread/INFO]: System chat: lacienichi left the game
+[06:18:03] [Server thread/INFO]: soge issued server command: [redacted]
+[06:18:38] [Server thread/INFO]: soge issued server command: [redacted]
+[06:18:54] [Server thread/INFO]: soge issued server command: [redacted]
+[06:18:58] [Server thread/INFO]: soge issued server command: [redacted]
+[06:20:04] [Server thread/INFO]: soge issued server command: [redacted]
+[06:20:18] [Server thread/INFO]: soge issued server command: [redacted]
+[06:22:01] [Server thread/INFO]: soge issued server command: [redacted]
+[06:24:20] [Server thread/INFO]: soge issued server command: [redacted]
+[06:25:06] [Server thread/INFO]: soge issued server command: [redacted]
+[06:26:25] [Server thread/INFO]: soge issued server command: [redacted]
+[06:27:26] [Server thread/INFO]: soge issued server command: [redacted]
+[06:28:43] [Server thread/INFO]: soge issued server command: [redacted]
+[07:20:48] [Server thread/INFO]: soge lost connection: Disconnected
+[07:20:48] [Server thread/INFO]: [voicechat] Disconnecting client soge
+[07:20:48] [Server thread/INFO]: System chat: soge left the game
+[08:21:21] [User Authenticator #25/INFO]: UUID of player Ifocus is 8706a0d9-17b8-3a4e-8937-f24f7bd5c765
+[08:21:22] [Server thread/INFO]: System chat: Ifocus joined the game
+[08:21:22] [Server thread/INFO]: Ifocus[/**.**.**.**:49189] logged in with entity id 614979 at ([minecraft:overworld]384.69538679542035, 95.0, -1806.699999988079)
+[08:21:24] [Server thread/INFO]: [voicechat] Received secret request of Ifocus (20)
+[08:21:24] [Server thread/INFO]: [voicechat] Sent secret to Ifocus
+[08:22:12] [Server thread/INFO]: Villager Villager['Villager'/614897, uuid='b1956e50-e142-4370-b06f-d99380d4e145', l='ServerLevel[world]', x=397.17, y=84.05, z=-1842.32, cpos=[24, -116], tl=982, v=true] died, message: 'Villager drowned'
+[08:26:19] [Server thread/INFO]: Ifocus lost connection: Disconnected
+[08:26:19] [Server thread/INFO]: [voicechat] Disconnecting client Ifocus
+[08:26:19] [Server thread/INFO]: System chat: Ifocus left the game
+[08:37:21] [User Authenticator #26/INFO]: UUID of player loisse is 4754e1e2-e1ee-3332-8c68-f7eb87bbd120
+[08:37:23] [Server thread/INFO]: System chat: loisse joined the game
+[08:37:23] [Server thread/INFO]: loisse[/**.**.**.**:46827] logged in with entity id 621864 at ([minecraft:overworld]470.2352197396777, 126.0, -1709.8951337732167)
+[08:57:39] [NetherNet Built-in Signaling-4-4/INFO]: [Geyser-Spigot] Player connected with username chenstumph (2225)
+[08:57:39] [localSession-7-4/INFO]: [Geyser-Spigot] chenstumph (logged in as: chenstumph) has connected to the Java server
+[08:57:40] [Server thread/INFO]: [floodgate] Floodgate player logged in as .chenstumph joined (UUID: 00000000-0000-0000-0009-01f532ff7162)
+[08:57:40] [Server thread/INFO]: System chat: .chenstumph joined the game
+[08:57:40] [Server thread/INFO]: .chenstumph[/**.**.**.**:0] logged in with entity id 632136 at ([minecraft:overworld]474.32562, 126.0, -1711.7758)
+[09:01:27] [NetherNet Built-in Signaling-4-4/INFO]: [Geyser-Spigot] chenstumph has disconnected from the Java server because of §rBedrock client disconnected
+[09:01:27] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .chenstumph disconnected
+[09:01:27] [Server thread/INFO]: .chenstumph lost connection: Disconnected
+[09:01:27] [Server thread/INFO]: [voicechat] Disconnecting client .chenstumph
+[09:01:27] [Server thread/INFO]: System chat: .chenstumph left the game
+[09:06:19] [Server thread/INFO]: System chat: loisse fell from a high place
+[09:09:18] [Server thread/INFO]: System chat: loisse has made the advancement [The Parrots and the Bats]
+[09:15:00] [Server thread/INFO]: loisse lost connection: Disconnected
+[09:15:00] [Server thread/INFO]: [voicechat] Disconnecting client loisse
+[09:15:00] [Server thread/INFO]: System chat: loisse left the game
+[09:27:04] [User Authenticator #27/INFO]: UUID of player soge is d692b710-1ec0-3377-9b9f-e8f4ca4de20d
+[09:27:05] [Server thread/INFO]: System chat: soge joined the game
+[09:27:05] [Server thread/INFO]: soge[/**.**.**.**:53213] logged in with entity id 644934 at ([minecraft:overworld]482.8080724320203, 91.0, -1792.821858213438)
+[10:03:05] [Server thread/INFO]: soge issued server command: [redacted]
+[10:03:34] [Server thread/INFO]: soge issued server command: [redacted]
+[10:03:39] [Server thread/INFO]: soge issued server command: [redacted]
+[10:04:07] [Server thread/INFO]: soge issued server command: [redacted]
+[10:04:12] [Server thread/INFO]: soge issued server command: [redacted]
+[10:04:28] [Server thread/INFO]: soge issued server command: [redacted]
+[10:04:30] [Server thread/INFO]: soge issued server command: [redacted]
+[10:04:32] [Server thread/INFO]: soge issued server command: [redacted]
+[10:04:53] [Server thread/INFO]: soge issued server command: [redacted]
+[10:07:54] [User Authenticator #28/INFO]: UUID of player lacienichi is c8de2908-4242-3038-9be1-40fac73f1885
+[10:07:56] [Server thread/INFO]: System chat: lacienichi joined the game
+[10:07:56] [Server thread/INFO]: lacienichi[/**.**.**.**:16610] logged in with entity id 668865 at ([minecraft:overworld]470.69043631604603, 91.0, -1776.053925827571)
+[10:08:17] [Async Chat Thread - #64/INFO]: [Not Secure] <lacienichi> still on the dead server bro
+[10:08:25] [Async Chat Thread - #64/INFO]: [Not Secure] <lacienichi> what's the purpose
+[10:08:27] [Async Chat Thread - #64/INFO]: [Not Secure] <soge> s1?
+[10:08:28] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[10:08:30] [Async Chat Thread - #65/INFO]: [Not Secure] <lacienichi> s2
+[10:08:41] [Async Chat Thread - #65/INFO]: [Not Secure] <soge> me like building
+[10:08:46] [Server thread/INFO]: soge issued server command: [redacted]
+[10:08:49] [Async Chat Thread - #64/INFO]: [Not Secure] <lacienichi> L
+[10:08:51] [Async Chat Thread - #64/INFO]: [Not Secure] <lacienichi> L skin
+[10:08:52] [Async Chat Thread - #64/INFO]: [Not Secure] <soge> darn
+[10:09:40] [Server thread/INFO]: soge lost connection: Disconnected
+[10:09:40] [Server thread/INFO]: [voicechat] Disconnecting client soge
+[10:09:40] [Server thread/INFO]: System chat: soge left the game
+[10:09:43] [Async Chat Thread - #64/INFO]: [Not Secure] <lacienichi> L
+[10:29:40] [Server thread/INFO]: Villager Villager['Villager'/661686, uuid='ae82ce10-436e-43d2-b270-314677479311', l='ServerLevel[world]', x=397.14, y=84.05, z=-1842.50, cpos=[24, -116], tl=29226, v=true] died, message: 'Villager drowned'
+[10:50:34] [Server thread/INFO]: Villager Villager['Villager'/673099, uuid='7cc49e94-37c8-439b-ad8c-5104df14ce2c', l='ServerLevel[world]', x=397.21, y=84.05, z=-1842.50, cpos=[24, -116], tl=38152, v=true] died, message: 'Villager drowned'
+[11:21:42] [Server thread/INFO]: lacienichi lost connection: Disconnected
+[11:21:42] [Server thread/INFO]: [voicechat] Disconnecting client lacienichi
+[11:21:42] [Server thread/INFO]: System chat: lacienichi left the game
+[11:38:54] [User Authenticator #29/INFO]: UUID of player soge is d692b710-1ec0-3377-9b9f-e8f4ca4de20d
+[11:38:55] [Server thread/INFO]: System chat: soge joined the game
+[11:38:55] [Server thread/INFO]: soge[/**.**.**.**:62193] logged in with entity id 707417 at ([minecraft:overworld]445.3600892167936, 88.49520087700593, -1836.4147187438307)
+[11:41:01] [Server thread/INFO]: Villager Villager['Villager'/707276, uuid='fee1aca7-4c47-461c-aa86-0f7a788b7fec', l='ServerLevel[world]', x=397.17, y=84.05, z=-1842.50, cpos=[24, -116], tl=2507, v=true] died, message: 'Villager drowned'
+[11:42:20] [Server thread/INFO]: soge issued server command: [redacted]
+[11:47:02] [User Authenticator #30/INFO]: UUID of player Ifocus is 8706a0d9-17b8-3a4e-8937-f24f7bd5c765
+[11:47:03] [Server thread/INFO]: System chat: Ifocus joined the game
+[11:47:03] [Server thread/INFO]: Ifocus[/**.**.**.**:57251] logged in with entity id 711603 at ([minecraft:overworld]386.7018084682495, 90.0625, -1808.266052178457)
+[11:47:05] [Server thread/INFO]: [voicechat] Received secret request of Ifocus (20)
+[11:47:05] [Server thread/INFO]: [voicechat] Sent secret to Ifocus
+[11:48:31] [Async Chat Thread - #66/INFO]: [Not Secure] <soge> huh
+[11:48:34] [Async Chat Thread - #66/INFO]: [Not Secure] <soge> hello viclee
+[11:50:57] [Async Chat Thread - #68/INFO]: [Not Secure] <soge> darn
+[11:52:04] [Server thread/INFO]: Ifocus lost connection: Disconnected
+[11:52:04] [Server thread/INFO]: [voicechat] Disconnecting client Ifocus
+[11:52:04] [Server thread/INFO]: System chat: Ifocus left the game
+[12:13:09] [Server thread/INFO]: System chat: soge fell from a high place
+[13:19:10] [Server thread/INFO]: soge issued server command: [redacted]
+[13:19:25] [Server thread/INFO]: soge issued server command: [redacted]
+[13:19:28] [Server thread/INFO]: soge issued server command: [redacted]
+[13:19:29] [Server thread/INFO]: soge issued server command: [redacted]
+[13:19:29] [Server thread/INFO]: soge issued server command: [redacted]
+[13:19:31] [Server thread/INFO]: soge issued server command: [redacted]
+[13:19:32] [Server thread/INFO]: soge issued server command: [redacted]
+[13:19:33] [Server thread/INFO]: soge issued server command: [redacted]
+[13:19:33] [Server thread/INFO]: soge issued server command: [redacted]
+[13:19:34] [Server thread/INFO]: soge issued server command: [redacted]
+[13:19:46] [Server thread/INFO]: soge issued server command: [redacted]
+[13:20:00] [Server thread/INFO]: soge issued server command: [redacted]
+[13:20:20] [Server thread/INFO]: soge issued server command: [redacted]
+[13:21:12] [Server thread/INFO]: soge issued server command: [redacted]
+[13:43:08] [User Authenticator #31/INFO]: UUID of player AqibdaGoat is 4e359082-af12-36d2-b7a8-ec6b051af282
+[13:43:10] [Server thread/INFO]: System chat: AqibdaGoat joined the game
+[13:43:10] [Server thread/INFO]: AqibdaGoat[/**.**.**.**:21236] logged in with entity id 770448 at ([minecraft:overworld]531.6999999880791, 65.0, -2646.689424529614)
+[13:43:14] [Async Chat Thread - #70/INFO]: [Not Secure] <soge> :o
+[13:43:18] [Async Chat Thread - #70/INFO]: [Not Secure] <soge> hello aqib
+[13:43:22] [Async Chat Thread - #70/INFO]: [Not Secure] <AqibdaGoat> sup
+[13:43:37] [Async Chat Thread - #70/INFO]: [Not Secure] <AqibdaGoat> ofc
+[13:43:43] [Async Chat Thread - #71/INFO]: [Not Secure] <AqibdaGoat> our base got grief
+[13:43:44] [Async Chat Thread - #71/INFO]: [Not Secure] <soge> just so u know the diamond sets u gave me were strong af
+[13:43:49] [Async Chat Thread - #71/INFO]: [Not Secure] <soge> wha
+[13:43:55] [Async Chat Thread - #71/INFO]: [Not Secure] <soge> real?
+[13:43:59] [Async Chat Thread - #70/INFO]: [Not Secure] <AqibdaGoat> yup
+[13:44:13] [Async Chat Thread - #71/INFO]: [Not Secure] <soge> u and reo have the same base?
+[13:44:29] [Async Chat Thread - #71/INFO]: [Not Secure] <soge> kylie tells me reo's base also got raided
+[13:46:58] [Async Chat Thread - #72/INFO]: [Not Secure] <AqibdaGoat> we have same base nigga
+[13:47:09] [Async Chat Thread - #74/INFO]: [Not Secure] <soge> darn
+[13:53:10] [Async Chat Thread - #75/INFO]: [Not Secure] <AqibdaGoat> your base still safe?
+[13:53:19] [Async Chat Thread - #75/INFO]: [Not Secure] <soge> yup yup
+[13:53:25] [Async Chat Thread - #75/INFO]: [Not Secure] <AqibdaGoat> its sav then
+[13:53:33] [Async Chat Thread - #75/INFO]: [Not Secure] <soge> lol
+[13:53:42] [Async Chat Thread - #75/INFO]: [Not Secure] <soge> u tried to push him to the void of the end?
+[13:53:50] [Async Chat Thread - #75/INFO]: [Not Secure] <AqibdaGoat> he tried to kill me
+[13:53:54] [Async Chat Thread - #75/INFO]: [Not Secure] <AqibdaGoat> i maced him and he died
+[13:53:59] [Async Chat Thread - #75/INFO]: [Not Secure] <soge> shi
+[13:54:04] [Async Chat Thread - #75/INFO]: [Not Secure] <AqibdaGoat> im not even mad
+[13:54:08] [Async Chat Thread - #75/INFO]: [Not Secure] <soge> was he able to get his items
+[13:54:13] [Async Chat Thread - #76/INFO]: [Not Secure] <AqibdaGoat> im sorry for what im about to do now
+[13:54:14] [Async Chat Thread - #76/INFO]: [Not Secure] <AqibdaGoat> no
+[13:54:22] [Async Chat Thread - #75/INFO]: [Not Secure] <soge> damn
+[13:54:32] [Async Chat Thread - #76/INFO]: [Not Secure] <soge> he's too lazy to go back?
+[13:55:46] [Async Chat Thread - #77/INFO]: [Not Secure] <soge> anyways thanks for ur diamond set gear :p
+[13:55:50] [Async Chat Thread - #77/INFO]: [Not Secure] <soge> especially the boots
+[13:56:00] [Async Chat Thread - #77/INFO]: [Not Secure] <soge> reduce a lot damage
+[13:58:57] [User Authenticator #32/INFO]: UUID of player lacienichi is c8de2908-4242-3038-9be1-40fac73f1885
+[13:58:59] [Server thread/INFO]: System chat: lacienichi joined the game
+[13:58:59] [Server thread/INFO]: lacienichi[/**.**.**.**:33550] logged in with entity id 783156 at ([minecraft:overworld]444.98378224140384, 90.0, -1837.8230902635048)
+[13:59:04] [Async Chat Thread - #79/INFO]: [Not Secure] <lacienichi> oh soge
+[13:59:09] [Async Chat Thread - #79/INFO]: [Not Secure] <AqibdaGoat> yoo kylie
+[13:59:10] [Async Chat Thread - #79/INFO]: [Not Secure] <soge> help
+[13:59:10] [Async Chat Thread - #80/INFO]: [Not Secure] <AqibdaGoat> wya
+[13:59:10] [Async Chat Thread - #80/INFO]: [Not Secure] <lacienichi> you think I haven't forgot?
+[13:59:12] [Async Chat Thread - #80/INFO]: [Not Secure] <soge> im stuck
+[13:59:40] [Async Chat Thread - #80/INFO]: [Not Secure] <soge> what u want kylie
+[13:59:48] [Async Chat Thread - #80/INFO]: [Not Secure] <lacienichi> yes
+[13:59:49] [Async Chat Thread - #79/INFO]: [Not Secure] <lacienichi> come here
+[13:59:54] [Async Chat Thread - #79/INFO]: [Not Secure] <lacienichi> I'm gonna use goldenglow skin
+[13:59:56] [Server thread/INFO]: lacienichi lost connection: Disconnected
+[13:59:56] [Server thread/INFO]: [voicechat] Disconnecting client lacienichi
+[13:59:56] [Server thread/INFO]: System chat: lacienichi left the game
+[14:00:57] [User Authenticator #33/INFO]: UUID of player lacienichi is c8de2908-4242-3038-9be1-40fac73f1885
+[14:00:59] [Server thread/INFO]: System chat: lacienichi joined the game
+[14:00:59] [Server thread/INFO]: lacienichi[/**.**.**.**:38953] logged in with entity id 784455 at ([minecraft:overworld]477.3237444049136, 91.0, -1799.8609841813568)
+[14:01:06] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[14:01:12] [Server thread/INFO]: System chat: soge was slain by lacienichi using [₊nightshadeཐི༏ཋྀ⁺₊]
+[14:01:16] [Async Chat Thread - #81/INFO]: [Not Secure] <lacienichi> haha
+[14:01:16] [Async Chat Thread - #81/INFO]: [Not Secure] <lacienichi> L
+[14:01:28] [Async Chat Thread - #81/INFO]: [Not Secure] <lacienichi> that's what u get for leaving me behind
+[14:01:31] [Async Chat Thread - #81/INFO]: [Not Secure] <lacienichi> :(
+[14:01:37] [Async Chat Thread - #81/INFO]: [Not Secure] <soge> i was having dinner
+[14:01:49] [Async Chat Thread - #81/INFO]: [Not Secure] <lacienichi> and u didn't come back
+[14:01:50] [Async Chat Thread - #81/INFO]: [Not Secure] <lacienichi> :(
+[14:02:01] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[14:02:17] [Async Chat Thread - #81/INFO]: [Not Secure] <lacienichi> bro aqib ur base got griefed
+[14:02:19] [Async Chat Thread - #81/INFO]: [Not Secure] <lacienichi> well deserved
+[14:02:21] [Async Chat Thread - #81/INFO]: [Not Secure] <lacienichi> lmaoaoaoao
+[14:02:28] [Async Chat Thread - #81/INFO]: [Not Secure] <AqibdaGoat> ik
+[14:02:38] [Async Chat Thread - #81/INFO]: [Not Secure] <lacienichi> bro honest
+[14:02:40] [Async Chat Thread - #82/INFO]: [Not Secure] <lacienichi> heart reakt
+[14:03:08] [Async Chat Thread - #81/INFO]: [Not Secure] <lacienichi> so this server's basically dead now
+[14:03:13] [Async Chat Thread - #81/INFO]: [Not Secure] <lacienichi> when jenny mod
+[14:04:12] [Async Chat Thread - #81/INFO]: [Not Secure] <lacienichi> I lowky wanna pull mods with people in here but niggas are on bedrock
+[14:04:16] [Async Chat Thread - #82/INFO]: [Not Secure] <lacienichi> crine
+[14:04:58] [Async Chat Thread - #82/INFO]: [Not Secure] <lacienichi> what is the reason to have a dripstone dropping water bro
+[14:05:10] [Async Chat Thread - #82/INFO]: [Not Secure] <soge> :
+[14:05:14] [Async Chat Thread - #81/INFO]: [Not Secure] <lacienichi> an iq
+[14:05:25] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[14:05:31] [Async Chat Thread - #81/INFO]: [Not Secure] <lacienichi> ok my skin brok
+[14:05:32] [Server thread/INFO]: lacienichi lost connection: Disconnected
+[14:05:32] [Server thread/INFO]: [voicechat] Disconnecting client lacienichi
+[14:05:32] [Server thread/INFO]: System chat: lacienichi left the game
+[14:06:36] [User Authenticator #34/INFO]: UUID of player lacienichi is c8de2908-4242-3038-9be1-40fac73f1885
+[14:06:37] [Server thread/INFO]: System chat: lacienichi joined the game
+[14:06:37] [Server thread/INFO]: lacienichi[/**.**.**.**:53456] logged in with entity id 788611 at ([minecraft:overworld]459.2033062480092, 131.0, -1704.3242252376895)
+[14:06:49] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[14:06:57] [Async Chat Thread - #83/INFO]: [Not Secure] <lacienichi> ok its still broken
+[14:07:03] [Async Chat Thread - #83/INFO]: [Not Secure] <AqibdaGoat> wya
+[14:07:06] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[14:07:10] [Async Chat Thread - #83/INFO]: [Not Secure] <lacienichi> nah fuk u
+[14:07:19] [Async Chat Thread - #84/INFO]: [Not Secure] <soge> helllo aqib
+[14:07:30] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[14:09:52] [Server thread/INFO]: Villager Villager['Cleric'/724532, uuid='87d90083-2edd-4b59-9a64-4fd8db8ad502', l='ServerLevel[world]', x=382.14, y=88.58, z=-1851.69, cpos=[23, -116], tl=11613, v=true] died, message: 'Cleric was blown up by AqibdaGoat'
+[14:10:17] [Server thread/INFO]: Villager Villager['Villager'/724544, uuid='e2331b68-c70a-42bf-b32d-4a90aea6bbca', l='ServerLevel[world]', x=390.21, y=86.94, z=-1844.69, cpos=[24, -116], tl=34596, v=true] died, message: 'Villager was slain by AqibdaGoat'
+[14:10:19] [Server thread/INFO]: Villager Villager['Farmer'/724543, uuid='467d08ea-4f53-4e86-acb4-45483c6b15b9', l='ServerLevel[world]', x=384.54, y=86.94, z=-1839.04, cpos=[24, -115], tl=17935, v=true] died, message: 'Farmer was burned to a crisp while fighting AqibdaGoat'
+[14:10:21] [Server thread/INFO]: Villager Villager['Farmer'/724545, uuid='1dd775b9-c4b1-4a4c-90d8-cd82aed5b747', l='ServerLevel[world]', x=381.51, y=85.00, z=-1848.71, cpos=[23, -116], tl=33954, v=true] died, message: 'Farmer was burned to a crisp while fighting AqibdaGoat'
+[14:10:41] [Server thread/INFO]: Villager Villager['Librarian'/725692, uuid='a64cd629-61d6-40a2-88c2-5ee1dc0265ff', l='ServerLevel[world]', x=405.42, y=96.00, z=-1901.88, cpos=[25, -119], tl=18882, v=true] died, message: 'Librarian blew up'
+[14:10:42] [Server thread/INFO]: Villager Villager['Librarian'/725701, uuid='bb73e567-7d9a-488e-9a10-dda15ca74bab', l='ServerLevel[world]', x=405.79, y=96.00, z=-1904.61, cpos=[25, -120], tl=4132, v=true] died, message: 'Librarian blew up'
+[14:10:43] [Server thread/INFO]: Villager Villager['Librarian'/725709, uuid='8951de9a-885b-4a69-9fc6-ba42176a0567', l='ServerLevel[world]', x=399.41, y=96.00, z=-1906.39, cpos=[24, -120], tl=4095, v=true] died, message: 'Librarian blew up'
+[14:10:43] [Server thread/INFO]: Villager Villager['Librarian'/725708, uuid='d341ec21-bbca-44ec-aa3f-353b567c1a7a', l='ServerLevel[world]', x=399.42, y=96.00, z=-1904.71, cpos=[24, -120], tl=4095, v=true] died, message: 'Librarian blew up'
+[14:10:43] [Server thread/INFO]: Villager Villager['Librarian'/725703, uuid='3da2311d-ac16-4787-951e-4b4a7e030c14', l='ServerLevel[world]', x=404.59, y=96.00, z=-1908.50, cpos=[25, -120], tl=4158, v=true] died, message: 'Librarian blew up'
+[14:10:45] [Server thread/INFO]: Villager Villager['Cartographer'/725711, uuid='1ba5b8ad-7f8e-4840-b5ca-86836dc240d6', l='ServerLevel[world]', x=400.63, y=96.00, z=-1912.66, cpos=[25, -120], tl=4142, v=true] died, message: 'Cartographer was blown up by AqibdaGoat'
+[14:10:46] [Server thread/INFO]: Villager Villager['Librarian'/725702, uuid='6aef542b-94bd-4c48-b41a-b1c96af57bb2', l='ServerLevel[world]', x=405.55, y=96.88, z=-1906.13, cpos=[25, -120], tl=4211, v=true] died, message: 'Librarian was blown up by AqibdaGoat'
+[14:10:46] [Server thread/INFO]: Villager Villager['Librarian'/725699, uuid='c10b0698-96b2-4456-a707-ede9f8133563', l='ServerLevel[world]', x=406.71, y=96.00, z=-1904.86, cpos=[25, -120], tl=15004, v=true] died, message: 'Librarian was blown up by AqibdaGoat'
+[14:10:48] [Server thread/INFO]: Villager Villager['Librarian'/725712, uuid='1487cdf6-ef36-4642-b362-6cdaecacea9a', l='ServerLevel[world]', x=398.91, y=95.54, z=-1908.53, cpos=[24, -120], tl=4210, v=true] died, message: 'Librarian was slain by AqibdaGoat'
+[14:10:50] [Server thread/INFO]: Villager Villager['Toolsmith'/725710, uuid='c16f594f-db9d-4f40-93ce-e5dbb3176bb8', l='ServerLevel[world]', x=399.30, y=95.00, z=-1910.70, cpos=[24, -120], tl=4249, v=true] died, message: 'Toolsmith was slain by AqibdaGoat'
+[14:10:53] [Server thread/INFO]: Villager Villager['zombe'/725700, uuid='b3ccb3c2-ba59-44ca-9782-ac576ab218dc', l='ServerLevel[world]', x=399.30, y=95.00, z=-1895.59, cpos=[24, -119], tl=15148, v=true] died, message: 'zombe was slain by AqibdaGoat'
+[14:10:53] [Server thread/INFO]: Named entity Villager['zombe'/725700, uuid='b3ccb3c2-ba59-44ca-9782-ac576ab218dc', l='ServerLevel[world]', x=399.30, y=95.00, z=-1895.59, cpos=[24, -119], tl=15148, v=true] died: zombe was slain by AqibdaGoat
+[14:10:57] [Server thread/INFO]: Villager Villager['Fletcher'/725693, uuid='3b8ece9c-333a-4bf7-8122-2a0d433869e7', l='ServerLevel[world]', x=404.52, y=96.02, z=-1896.79, cpos=[25, -119], tl=19195, v=true] died, message: 'Fletcher was slain by AqibdaGoat'
+[14:11:04] [Async Chat Thread - #85/INFO]: [Not Secure] <lacienichi> gay sex
+[14:11:10] [Async Chat Thread - #85/INFO]: [Not Secure] <AqibdaGoat> wya lmao
+[14:11:13] [Async Chat Thread - #85/INFO]: [Not Secure] <lacienichi> how's endgame
+[14:11:18] [Async Chat Thread - #86/INFO]: [Not Secure] <lacienichi> na fuk u
+[14:11:24] [Async Chat Thread - #86/INFO]: [Not Secure] <AqibdaGoat> the end fight?? it was cool like u
+[14:11:34] [Async Chat Thread - #86/INFO]: [Not Secure] <lacienichi> it was cool like u too
+[14:11:36] [Async Chat Thread - #85/INFO]: [Not Secure] <lacienichi> lets fuck
+[14:11:55] [Async Chat Thread - #86/INFO]: [Not Secure] <AqibdaGoat> meet me at soge base
+[14:12:35] [Async Chat Thread - #86/INFO]: [Not Secure] <soge> aqib
+[14:12:41] [Async Chat Thread - #86/INFO]: [Not Secure] <AqibdaGoat> yup?
+[14:12:54] [Async Chat Thread - #86/INFO]: [Not Secure] <soge> thank u so much for the diamond set :d
+[14:12:59] [Async Chat Thread - #86/INFO]: [Not Secure] <AqibdaGoat> np wya
+[14:13:01] [Async Chat Thread - #86/INFO]: [Not Secure] <soge> helped me a lot
+[14:13:05] [Async Chat Thread - #86/INFO]: [Not Secure] <soge> at my base
+[14:13:12] [Async Chat Thread - #86/INFO]: [Not Secure] <AqibdaGoat> cool
+[14:14:03] [Async Chat Thread - #85/INFO]: [Not Secure] <soge> HELPED
+[14:14:26] [Async Chat Thread - #85/INFO]: [Not Secure] <soge> ah great
+[14:14:27] [Async Chat Thread - #85/INFO]: [Not Secure] <AqibdaGoat> wya kylie
+[14:14:40] [Async Chat Thread - #85/INFO]: [Not Secure] <soge> who set my base on fire
+[14:14:45] [Async Chat Thread - #85/INFO]: [Not Secure] <AqibdaGoat> what?
+[14:14:51] [Async Chat Thread - #85/INFO]: [Not Secure] <soge> my base
+[14:14:56] [Async Chat Thread - #85/INFO]: [Not Secure] <AqibdaGoat> hold
+[14:14:58] [Async Chat Thread - #85/INFO]: [Not Secure] <AqibdaGoat> wtf
+[14:14:58] [Async Chat Thread - #86/INFO]: [Not Secure] <lacienichi> nigga I didn't do that
+[14:15:02] [Async Chat Thread - #86/INFO]: [Not Secure] <AqibdaGoat> who did ts
+[14:15:06] [Async Chat Thread - #86/INFO]: [Not Secure] <lacienichi> I'm in my base bro
+[14:15:11] [Async Chat Thread - #86/INFO]: [Not Secure] <soge> fuck....
+[14:15:12] [Async Chat Thread - #86/INFO]: [Not Secure] <AqibdaGoat> stop the cap
+[14:15:21] [Async Chat Thread - #86/INFO]: [Not Secure] <lacienichi> nigga I can show you an image
+[14:15:22] [Async Chat Thread - #86/INFO]: [Not Secure] <lacienichi> retard
+[14:15:25] [Async Chat Thread - #86/INFO]: [Not Secure] <AqibdaGoat> i was in the cave man for 5 minues
+[14:15:30] [Async Chat Thread - #85/INFO]: [Not Secure] <AqibdaGoat> yes sent it with cords
+[14:15:51] [Async Chat Thread - #85/INFO]: [Not Secure] <lacienichi> kill yourself
+[14:15:58] [Async Chat Thread - #85/INFO]: [Not Secure] <soge> im so fucked
+[14:16:00] [Async Chat Thread - #85/INFO]: [Not Secure] <AqibdaGoat> oh shit the tree buring
+[14:16:14] [Async Chat Thread - #86/INFO]: [Not Secure] <soge> yea but my base
+[14:16:15] [Async Chat Thread - #86/INFO]: [Not Secure] <soge> damn
+[14:16:40] [Async Chat Thread - #85/INFO]: [Not Secure] <AqibdaGoat> whres your ss
+[14:17:23] [Async Chat Thread - #85/INFO]: [Not Secure] <lacienichi> check gen
+[14:17:37] [Async Chat Thread - #85/INFO]: [Not Secure] <lacienichi> I'm literally afk on a mob farm rn
+[14:17:48] [Async Chat Thread - #85/INFO]: [Not Secure] <AqibdaGoat> damn bro
+[14:18:45] [Async Chat Thread - #85/INFO]: [Not Secure] <soge> this is depressing
+[14:19:26] [Async Chat Thread - #85/INFO]: [Not Secure] <soge> someone even griefed kai base
+[14:19:38] [Async Chat Thread - #85/INFO]: [Not Secure] <lacienichi> bro
+[14:19:39] [Async Chat Thread - #85/INFO]: [Not Secure] <lacienichi> how
+[14:19:44] [Async Chat Thread - #85/INFO]: [Not Secure] <soge> idk
+[14:19:46] [Async Chat Thread - #85/INFO]: [Not Secure] <lacienichi> it was normal moments ago
+[14:19:47] [Async Chat Thread - #85/INFO]: [Not Secure] <lacienichi> tf
+[14:19:53] [Async Chat Thread - #85/INFO]: [Not Secure] <soge> ngl
+[14:20:11] [Async Chat Thread - #85/INFO]: [Not Secure] <lacienichi> what kind of black magic is that shit bro
+[14:20:21] [Async Chat Thread - #85/INFO]: [Not Secure] <soge> wtd
+[14:20:22] [Async Chat Thread - #85/INFO]: [Not Secure] <soge> wtf
+[14:20:27] [Async Chat Thread - #86/INFO]: [Not Secure] <soge> viclee's house got bombed too
+[14:20:36] [Async Chat Thread - #86/INFO]: [Not Secure] <lacienichi> bro
+[14:20:45] [Async Chat Thread - #86/INFO]: [Not Secure] <soge> DUDE
+[14:20:50] [Async Chat Thread - #86/INFO]: [Not Secure] <soge> CHEN'S HOUSE
+[14:20:59] [Async Chat Thread - #86/INFO]: [Not Secure] <lacienichi> aqib
+[14:21:00] [Async Chat Thread - #86/INFO]: [Not Secure] <lacienichi> nigger
+[14:21:04] [Async Chat Thread - #86/INFO]: [Not Secure] <lacienichi> I know it's you
+[14:21:08] [Async Chat Thread - #86/INFO]: [Not Secure] <lacienichi> because sav bombed your ass
+[14:21:09] [Async Chat Thread - #86/INFO]: [Not Secure] <AqibdaGoat> what gng
+[14:21:11] [Async Chat Thread - #86/INFO]: [Not Secure] <lacienichi> lmfaoooo
+[14:21:23] [Async Chat Thread - #86/INFO]: [Not Secure] <AqibdaGoat> im 900 blocks away
+[14:21:27] [Async Chat Thread - #86/INFO]: [Not Secure] <AqibdaGoat> i didnt do shit
+[14:21:31] [Async Chat Thread - #85/INFO]: [Not Secure] <lacienichi> brother
+[14:22:15] [Async Chat Thread - #85/INFO]: [Not Secure] <soge> bro
+[14:22:21] [Async Chat Thread - #85/INFO]: [Not Secure] <soge> my animal farm too
+[14:24:34] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> WHAT
+[14:24:42] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> AIKIO'S BASE ALSO GOT AFFECTED
+[14:25:08] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> I haven't even touched that shit bro
+[14:25:19] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> and I ciuldn't even see it
+[14:25:20] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> bruv
+[14:25:29] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> yea but
+[14:25:36] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> everything is happening too fast
+[14:25:42] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> tf
+[14:25:50] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> shit
+[14:25:56] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> we might get hacked
+[14:26:00] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> basically everyone that's so far from spawn isn't affected
+[14:26:02] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> cuz like
+[14:26:05] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> we didn't
+[14:26:11] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> damn
+[14:26:12] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> dunno about sav's
+[14:26:24] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> lemme check dev
+[14:26:26] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> and monke
+[14:26:28] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> no clue
+[14:27:07] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> I'm coming
+[14:27:08] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> holon
+[14:27:15] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> chiraq's base also
+[14:27:21] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> exploded
+[14:27:22] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> we know that
+[14:27:25] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> deserved either way
+[14:27:29] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> although not chiraq
+[14:27:31] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> the other tw
+[14:27:32] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> o
+[14:27:51] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> have u seen's sav base
+[14:27:57] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> nuh
+[14:28:20] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> i wonder how'd aikio react after seeing all of this
+[14:28:29] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> bro
+[14:28:35] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> we lowky gotta keep this one
+[14:28:39] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> I don't want her mad again
+[14:28:39] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> dude
+[14:28:44] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> ;_;
+[14:28:51] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> it's just sad
+[14:28:51] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> dev's portal got destroyed
+[14:29:01] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> oh shit what
+[14:29:05] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> yea ngl
+[14:29:05] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> just rebuild it bro
+[14:29:15] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> no obsidian
+[14:29:24] [Server thread/INFO]: AqibdaGoat lost connection: Disconnected
+[14:29:24] [Server thread/INFO]: [voicechat] Disconnecting client AqibdaGoat
+[14:29:24] [Server thread/INFO]: System chat: AqibdaGoat left the game
+[14:30:01] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> how's dev base?
+[14:30:07] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> wait
+[14:30:13] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> I'm breaking our roof portals
+[14:30:17] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> incase we get bombed
+[14:30:23] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> (observer's protals)
+[14:30:28] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> alr
+[14:30:46] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> maybe
+[14:30:54] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> maybe we should lowk tell aikio about this
+[14:31:03] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> someone's gonna tell her anyways
+[14:31:12] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> I"m gonna be out either way
+[14:31:20] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> I don't want to be involved in this shit
+[14:32:19] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> yea
+[14:32:24] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> dev base is affected too
+[14:32:29] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> oh shit
+[14:32:34] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> you got ideas on who bombed
+[14:32:39] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> its been so recent tho
+[14:32:44] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> the worst case
+[14:33:00] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> the smp might got hacked and someone's trolling us
+[14:33:11] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> that's some bs bro
+[14:33:23] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> kill yourself before I keep my speculations to myself
+[14:33:27] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> no like
+[14:33:43] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> all the base happened to be griefed at once
+[14:33:56] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> brother
+[14:33:59] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> i mean most of *
+[14:34:11] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> that can happen at any moment and it can happen all at onc
+[14:34:12] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> e
+[14:34:57] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> server's literally dead for real
+[14:35:07] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> :broken_heart:
+[14:35:08] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> we're not getting s3 dude
+[14:35:09] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> fuck
+[14:35:16] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> whatever
+[14:35:22] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> I'm losing interest eiethr way
+[14:35:29] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> I love talking to you all for the most part
+[14:35:30] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> why tho
+[14:35:38] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> why losing interest
+[14:35:44] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> everyone lowk stale and the game too
+[14:36:01] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> oh shti it did
+[14:36:01] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> :'c
+[14:36:04] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> its griefed
+[14:36:07] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> huh
+[14:36:09] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> which?
+[14:36:43] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> dev's
+[14:37:05] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> dude
+[14:37:16] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> my tree starts burning again when I got back
+[14:37:21] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> tf
+[14:37:31] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> nobody's on
+[14:37:32] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> how
+[14:37:38] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> the hacker's gone too far bro
+[14:37:44] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> I have flashback on rn incase you guys need evidence
+[14:37:57] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> oh shi
+[14:38:04] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> recording and stuff?
+[14:38:09] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> of myself
+[14:38:10] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> lfmaoaooaoa
+[14:38:17] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> u have freecams?
+[14:38:34] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> flashback can do freecams so whatever
+[14:38:40] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> alr
+[14:39:04] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> send the evidence
+[14:39:09] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> fuk u
+[14:39:12] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> its mine
+[14:39:14] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> for me to keep
+[14:39:16] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> :c
+[14:39:25] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> bro tf
+[14:39:33] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> this base was normal mments ago
+[14:39:34] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> u dont know where's sav's base?
+[14:39:37] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> WHAT??
+[14:39:40] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> its aqib nigga
+[14:39:48] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> hmm
+[14:39:50] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> could be
+[14:39:56] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> but i dont hear any tnts tho
+[14:39:57] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> nigga we were 3 people
+[14:40:01] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> pretty weird
+[14:40:15] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> either that or you
+[14:40:21] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> you were the only 2 bro
+[14:40:42] [User Authenticator #35/INFO]: UUID of player AqibdaGoat is 4e359082-af12-36d2-b7a8-ec6b051af282
+[14:40:43] [Server thread/INFO]: System chat: AqibdaGoat joined the game
+[14:40:43] [Server thread/INFO]: AqibdaGoat[/**.**.**.**:19887] logged in with entity id 823722 at ([minecraft:overworld]796.8080214704918, 63.0, -1734.913083527848)
+[14:40:49] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> nah
+[14:41:11] [Async Chat Thread - #88/INFO]: [Not Secure] <AqibdaGoat> so whats the update
+[14:41:16] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> no clue
+[14:41:19] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> and uh
+[14:41:21] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> no idea
+[14:41:33] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> chiraq, dev, aikio, kai and my base got griefed
+[14:41:35] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> chen's too
+[14:41:45] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> not sure about sav
+[14:41:46] [Async Chat Thread - #87/INFO]: [Not Secure] <AqibdaGoat> woah thats alot
+[14:41:50] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> yea
+[14:42:10] [User Authenticator #36/INFO]: UUID of player loisse is 4754e1e2-e1ee-3332-8c68-f7eb87bbd120
+[14:42:11] [Server thread/INFO]: System chat: loisse joined the game
+[14:42:11] [Server thread/INFO]: loisse[/**.**.**.**:46934] logged in with entity id 825206 at ([minecraft:overworld]472.2025232541888, 126.5625, -1711.2343444590904)
+[14:42:13] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> viclee as well
+[14:42:16] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> chen...
+[14:42:24] [Async Chat Thread - #87/INFO]: [Not Secure] <loisse> what happeed
+[14:42:28] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> yeah uh
+[14:42:31] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> do not send this in refugees bro
+[14:42:32] [Async Chat Thread - #87/INFO]: [Not Secure] <loisse> why is it all
+[14:42:34] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> a lot happened
+[14:42:36] [Async Chat Thread - #87/INFO]: [Not Secure] <loisse> what happened?
+[14:42:39] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> we dont want aikio to get a tantrum again
+[14:42:41] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> fuck
+[14:42:43] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> most of the base
+[14:42:46] [Async Chat Thread - #88/INFO]: [Not Secure] <loisse> yeah but tell me
+[14:42:46] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> got griefed
+[14:42:48] [Async Chat Thread - #88/INFO]: [Not Secure] <loisse> who did it
+[14:42:51] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> no clue
+[14:42:57] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> chen u here?
+[14:42:58] [Async Chat Thread - #87/INFO]: [Not Secure] <loisse> be fr
+[14:43:04] [Async Chat Thread - #87/INFO]: [Not Secure] <loisse> tell me who did it or im telling everyone
+[14:43:10] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> WE HAVE NO IDEA
+[14:43:12] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> we dont fcuking no
+[14:43:14] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> bro
+[14:43:18] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> it's all so sudden
+[14:43:20] [Async Chat Thread - #88/INFO]: [Not Secure] <loisse> when did you guys join
+[14:43:23] [Async Chat Thread - #88/INFO]: [Not Secure] <AqibdaGoat> i think sav pulled it
+[14:43:28] [Async Chat Thread - #87/INFO]: [Not Secure] <loisse> sav
+[14:43:31] [Async Chat Thread - #87/INFO]: [Not Secure] <loisse> yeah
+[14:43:31] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> about an hour ago
+[14:43:35] [Async Chat Thread - #87/INFO]: [Not Secure] <loisse> i don;t have time for this
+[14:43:36] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> i think
+[14:43:38] [Async Chat Thread - #88/INFO]: [Not Secure] <loisse> im tellinf them
+[14:43:39] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> nigga
+[14:43:42] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> WAIT
+[14:43:48] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> it was normal wehn I was there bro
+[14:43:52] [Async Chat Thread - #88/INFO]: [Not Secure] <lacienichi> then it got bombed after
+[14:43:57] [Async Chat Thread - #88/INFO]: [Not Secure] <loisse> who did it
+[14:44:02] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> we dont know
+[14:44:02] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> when me and soge were talking
+[14:44:12] [Async Chat Thread - #87/INFO]: [Not Secure] <loisse> im calling her
+[14:44:15] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> nah wait
+[14:44:17] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> I was gonna ditch because aqib might try to kill me again
+[14:44:18] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> look
+[14:44:26] [Async Chat Thread - #87/INFO]: [Not Secure] <lacienichi> then decided to come back to my base
+[14:44:27] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> someone might hacked the smp
+[14:44:42] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> sorry for ur base chen
+[14:45:02] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> kylie
+[14:45:06] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> urs still normal?
+[14:45:06] [Async Chat Thread - #88/INFO]: [Not Secure] <loisse> ok
+[14:45:08] [Async Chat Thread - #88/INFO]: [Not Secure] <loisse> i told
+[14:45:10] [Async Chat Thread - #87/INFO]: [Not Secure] <loisse> bro
+[14:45:27] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> yea this is depressing
+[14:45:52] [Async Chat Thread - #87/INFO]: [Not Secure] <loisse> who;s bases got griefed
+[14:45:57] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> most of
+[14:46:02] [Async Chat Thread - #87/INFO]: [Not Secure] <loisse> egejn the others?
+[14:46:06] [Async Chat Thread - #87/INFO]: [Not Secure] <AqibdaGoat> my base got gried too
+[14:46:13] [Async Chat Thread - #87/INFO]: [Not Secure] <loisse> i told aikio but she's too sleepy to care
+[14:46:21] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> aqib, chiraq, aikio, chen, soge, kai, dev
+[14:46:25] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> viclee
+[14:46:31] [Async Chat Thread - #87/INFO]: [Not Secure] <loisse> who;s base didnt
+[14:46:36] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> kylie
+[14:46:43] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> and sav...
+[14:46:44] [Async Chat Thread - #87/INFO]: [Not Secure] <loisse> whos the suspect
+[14:46:46] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> im not sure
+[14:46:51] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> aqib
+[14:46:53] [Async Chat Thread - #87/INFO]: [Not Secure] <loisse> retards bro
+[14:47:02] [Async Chat Thread - #87/INFO]: [Not Secure] <AqibdaGoat> i have my doubts on kai and sav
+[14:47:08] [Async Chat Thread - #87/INFO]: [Not Secure] <loisse> u guys r genuinely retards
+[14:47:11] [Async Chat Thread - #87/INFO]: [Not Secure] <AqibdaGoat> they both lost their stuff
+[14:47:12] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> nah kai's chill
+[14:47:14] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> he's fine
+[14:47:20] [Async Chat Thread - #87/INFO]: [Not Secure] <loisse> stfu ab kai bro omg
+[14:47:47] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> kai himself got griefed too
+[14:48:02] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> only if someone has full freecam mod
+[14:48:03] [Async Chat Thread - #88/INFO]: [Not Secure] <loisse> omg
+[14:48:06] [Async Chat Thread - #87/INFO]: [Not Secure] <loisse> these people are asleep
+[14:48:14] [Async Chat Thread - #87/INFO]: [Not Secure] <soge> chen
+[14:48:18] [Async Chat Thread - #88/INFO]: [Not Secure] <loisse> the hell wrong with u all
+[14:48:22] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> chen chen
+[14:48:22] [Async Chat Thread - #87/INFO]: [Not Secure] <loisse> im crine
+[14:48:27] [Async Chat Thread - #88/INFO]: [Not Secure] <loisse> faggots
+[14:48:28] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> ur ok?
+[14:49:08] [Async Chat Thread - #88/INFO]: [Not Secure] <loisse> omg
+[14:49:34] [Async Chat Thread - #88/INFO]: [Not Secure] <soge> haven't checked ag's
+[14:50:53] [Async Chat Thread - #89/INFO]: [Not Secure] <lacienichi> I forgor where sav;s shit is again
+[14:51:02] [Async Chat Thread - #89/INFO]: [Not Secure] <AqibdaGoat> wya all
+[14:51:06] [Async Chat Thread - #89/INFO]: [Not Secure] <loisse> his is really far
+[14:51:13] [Async Chat Thread - #89/INFO]: [Not Secure] <soge> im checking ag's base
+[14:51:16] [Server thread/INFO]: System chat: loisse went up in flames
+[14:51:30] [Async Chat Thread - #90/INFO]: [Not Secure] <loisse> who did this omg
+[14:51:35] [Async Chat Thread - #90/INFO]: [Not Secure] <soge> no idea
+[14:51:54] [Async Chat Thread - #90/INFO]: [Not Secure] <loisse> what time did you guys find out it was griefed
+[14:52:01] [Async Chat Thread - #90/INFO]: [Not Secure] <soge> wait
+[14:52:07] [Async Chat Thread - #90/INFO]: [Not Secure] <lacienichi> the moment I left then soge announced it
+[14:52:12] [Async Chat Thread - #90/INFO]: [Not Secure] <lacienichi> very useful
+[14:52:21] [Async Chat Thread - #90/INFO]: [Not Secure] <loisse> was ur base griefed?
+[14:52:32] [Async Chat Thread - #90/INFO]: [Not Secure] <soge> about
+[14:52:35] [Async Chat Thread - #89/INFO]: [Not Secure] <soge> 30 minutes ago
+[14:52:44] [Async Chat Thread - #89/INFO]: [Not Secure] <soge> since my base started burning
+[14:52:47] [Async Chat Thread - #89/INFO]: [Not Secure] <loisse> goodluck with aikio and dev tomorrow
+[14:52:52] [Async Chat Thread - #89/INFO]: [Not Secure] <soge> darn
+[14:53:14] [Async Chat Thread - #90/INFO]: [Not Secure] <loisse> was aikio's base griefed
+[14:53:18] [Async Chat Thread - #89/INFO]: [Not Secure] <soge> yes
+[14:53:36] [Async Chat Thread - #89/INFO]: [Not Secure] <loisse> have you checked sav;s
+[14:53:41] [Async Chat Thread - #89/INFO]: [Not Secure] <soge> o
+[14:53:42] [Async Chat Thread - #89/INFO]: [Not Secure] <soge> no
+[14:53:49] [Async Chat Thread - #89/INFO]: [Not Secure] <loisse> check it
+[14:53:50] [Async Chat Thread - #89/INFO]: [Not Secure] <soge> and i forgot his coord
+[14:53:59] [Async Chat Thread - #89/INFO]: [Not Secure] <soge> u have?
+[14:54:04] [Async Chat Thread - #89/INFO]: [Not Secure] <loisse> isnt it like
+[14:54:09] [Async Chat Thread - #90/INFO]: [Not Secure] <soge> yea i know
+[14:54:24] [Async Chat Thread - #90/INFO]: [Not Secure] <soge> he showed us about few days ago
+[14:54:57] [Async Chat Thread - #90/INFO]: [Not Secure] <loisse> oh my god my base isnt even fully built
+[14:55:21] [Async Chat Thread - #89/INFO]: [Not Secure] <lacienichi> if it's sav my slave trade would be bombed rn
+[14:55:25] [Async Chat Thread - #89/INFO]: [Not Secure] <lacienichi> I haven't checked lmaoaoa
+[14:55:39] [Async Chat Thread - #89/INFO]: [Not Secure] <loisse> check it
+[14:55:58] [Server thread/INFO]: Villager Villager['Villager'/24, uuid='db3c863b-7345-43a2-85b0-6bb99b9c1ce0', l='ServerLevel[world]', x=-1405.06, y=97.09, z=-3038.26, cpos=[-88, -190], tl=1884485, v=true] died, message: 'Villager tried to swim in lava to escape AqibdaGoat'
+[14:56:17] [Async Chat Thread - #90/INFO]: [Not Secure] <loisse> no choice but to rebuild btw
+[14:56:23] [Async Chat Thread - #90/INFO]: [Not Secure] <loisse> somebody probably wanted s3 to come
+[14:56:31] [Async Chat Thread - #90/INFO]: [Not Secure] <soge> too soon tbh
+[14:56:39] [Async Chat Thread - #90/INFO]: [Not Secure] <lacienichi> its been 2 weeks bro
+[14:56:50] [Async Chat Thread - #89/INFO]: [Not Secure] <lacienichi> nigga msut be impatient
+[14:56:51] [Async Chat Thread - #89/INFO]: [Not Secure] <lacienichi> ig bro
+[14:56:58] [Async Chat Thread - #89/INFO]: [Not Secure] <AqibdaGoat> reak
+[14:57:13] [Async Chat Thread - #89/INFO]: [Not Secure] <loisse> dick statues everywhere in the portal
+[14:57:26] [Async Chat Thread - #89/INFO]: [Not Secure] <soge> oh wtf
+[14:57:31] [Async Chat Thread - #89/INFO]: [Not Secure] <soge> thought this is ag's basew
+[14:57:48] [Async Chat Thread - #89/INFO]: [Not Secure] <soge> kaiser's base is fine
+[14:57:57] [Async Chat Thread - #90/INFO]: [Not Secure] <soge> bro's inactive
+[14:58:11] [Async Chat Thread - #90/INFO]: [Not Secure] <lacienichi> its not bombed
+[14:58:13] [Async Chat Thread - #90/INFO]: [Not Secure] <lacienichi> lmao ok
+[14:58:14] [Async Chat Thread - #90/INFO]: [Not Secure] <loisse> ok im lost in the nether transportation thing
+[14:58:19] [User Authenticator #37/INFO]: UUID of player raeirrr is a88c7c29-6c9a-3148-9c33-59bf38b682e9
+[14:58:21] [Server thread/INFO]: System chat: raeirrr joined the game
+[14:58:21] [Server thread/INFO]: raeirrr[/**.**.**.**:61314] logged in with entity id 843705 at ([minecraft:overworld]418.5824429128928, 79.5, -7326.595957935471)
+[14:58:22] [Async Chat Thread - #89/INFO]: [Not Secure] <loisse> kaiser hasn't played
+[14:58:25] [Async Chat Thread - #89/INFO]: [Not Secure] <lacienichi> wait I might be tweaking
+[14:58:29] [Async Chat Thread - #89/INFO]: [Not Secure] <lacienichi> something's missing bro
+[14:58:32] [Async Chat Thread - #90/INFO]: [Not Secure] <soge> hello ire
+[14:58:37] [Async Chat Thread - #90/INFO]: [Not Secure] <AqibdaGoat> sup ire
+[14:58:43] [Async Chat Thread - #90/INFO]: [Not Secure] <soge> bad news
+[14:58:47] [Async Chat Thread - #90/INFO]: [Not Secure] <loisse> can someone come get me in the nether portal thing
+[14:58:49] [Async Chat Thread - #90/INFO]: [Not Secure] <raeirrr> meow
+[14:58:53] [Async Chat Thread - #89/INFO]: [Not Secure] <soge> yea i got u
+[14:58:56] [Async Chat Thread - #89/INFO]: [Not Secure] <soge> wait
+[15:00:04] [Async Chat Thread - #91/INFO]: [Not Secure] <raeirrr> okay wait my waypoints r a mess
+[15:00:17] [Async Chat Thread - #91/INFO]: [Not Secure] <lacienichi> trutanuke
+[15:00:40] [Server thread/INFO]: AqibdaGoat lost connection: Disconnected
+[15:00:40] [Server thread/INFO]: [voicechat] Disconnecting client AqibdaGoat
+[15:00:40] [Server thread/INFO]: System chat: AqibdaGoat left the game
+[15:00:54] [Async Chat Thread - #92/INFO]: [Not Secure] <soge> oh
+[15:01:01] [Async Chat Thread - #92/INFO]: [Not Secure] <loisse> ure slow
+[15:01:04] [Async Chat Thread - #91/INFO]: [Not Secure] <soge> u found sav's?
+[15:01:06] [Async Chat Thread - #91/INFO]: [Not Secure] <loisse> no
+[15:01:11] [Async Chat Thread - #91/INFO]: [Not Secure] <loisse> that's why i got lost
+[15:01:21] [Async Chat Thread - #91/INFO]: [Not Secure] <raeirrr> fuck i dont remember what it is
+[15:01:25] [Async Chat Thread - #91/INFO]: [Not Secure] <raeirrr> i gotta do math to remember it
+[15:01:39] [Async Chat Thread - #91/INFO]: [Not Secure] <lacienichi> W cs major
+[15:01:47] [User Authenticator #38/INFO]: UUID of player AqibdaGoat is 4e359082-af12-36d2-b7a8-ec6b051af282
+[15:01:49] [Server thread/INFO]: System chat: AqibdaGoat joined the game
+[15:01:49] [Server thread/INFO]: AqibdaGoat[/**.**.**.**:19799] logged in with entity id 847491 at ([minecraft:overworld]-1213.699999988079, 100.0, -2920.5555323375083)
+[15:02:55] [Async Chat Thread - #93/INFO]: [Not Secure] <loisse> everybody gotta die smh
+[15:02:56] [Async Chat Thread - #93/INFO]: [Not Secure] <AqibdaGoat> wya at
+[15:03:17] [Server thread/WARN]: loisse was expected to be controlling vehicle translation{key='entity.minecraft.horse', args=[]} but was not. Resetting vehicle position.
+[15:03:18] [Async Chat Thread - #94/INFO]: [Not Secure] <AqibdaGoat> damn bro
+[15:03:27] [Async Chat Thread - #94/INFO]: [Not Secure] <soge> ye
+[15:03:32] [Async Chat Thread - #93/INFO]: [Not Secure] <soge> aqib look
+[15:03:35] [Async Chat Thread - #93/INFO]: [Not Secure] <AqibdaGoat> wheres everybodu
+[15:03:40] [Async Chat Thread - #93/INFO]: [Not Secure] <AqibdaGoat> who did this man
+[15:03:44] [Async Chat Thread - #94/INFO]: [Not Secure] <AqibdaGoat> my base too........
+[15:03:48] [Async Chat Thread - #94/INFO]: [Not Secure] <lacienichi> I need gunpowder nigga
+[15:03:48] [Async Chat Thread - #94/INFO]: [Not Secure] <soge> not idea
+[15:03:53] [Async Chat Thread - #94/INFO]: [Not Secure] <soge> weird
+[15:03:55] [Async Chat Thread - #94/INFO]: [Not Secure] <lacienichi> so like
+[15:03:58] [Async Chat Thread - #94/INFO]: [Not Secure] <lacienichi> I think
+[15:03:59] [Async Chat Thread - #94/INFO]: [Not Secure] <AqibdaGoat> wait gunpowder
+[15:04:04] [Server thread/INFO]: System chat: Teleported raeirrr to -1212.500000, 94.000000, -3191.500000
+[15:04:06] [Async Chat Thread - #94/INFO]: [Not Secure] <AqibdaGoat> its kylie chat
+[15:04:11] [Async Chat Thread - #94/INFO]: [Not Secure] <lacienichi> nigga aqib your base got bombed first
+[15:04:24] [Async Chat Thread - #94/INFO]: [Not Secure] <soge> everything got exploded yet i dont see any tnt or explosion sound at all
+[15:04:29] [Server thread/INFO]: raeirrr issued server command: /
+[15:04:31] [Async Chat Thread - #93/INFO]: [Not Secure] <lacienichi> then the rest got bombed after
+[15:04:34] [Async Chat Thread - #94/INFO]: [Not Secure] <lacienichi> tf
+[15:04:36] [Async Chat Thread - #93/INFO]: [Not Secure] <soge> what kind of force it this
+[15:04:36] [Async Chat Thread - #94/INFO]: [Not Secure] <loisse> so u were in the game while it happened
+[15:04:40] [Async Chat Thread - #94/INFO]: [Not Secure] <soge> yes
+[15:04:49] [Async Chat Thread - #93/INFO]: [Not Secure] <loisse> aqib stop burning my base
+[15:04:50] [Async Chat Thread - #93/INFO]: [Not Secure] <loisse> fag
+[15:04:57] [Async Chat Thread - #93/INFO]: [Not Secure] <soge> wtf
+[15:04:57] [Async Chat Thread - #93/INFO]: [Not Secure] <lacienichi> aqib on that bro
+[15:04:58] [Async Chat Thread - #93/INFO]: [Not Secure] <loisse> AQIBS BURNING MY BASE
+[15:04:59] [Server thread/INFO]: raeirrr issued server command: [redacted]
+[15:05:01] [Async Chat Thread - #94/INFO]: [Not Secure] <soge> it happened again
+[15:05:03] [Async Chat Thread - #93/INFO]: [Not Secure] <AqibdaGoat> the flame was trigering
+[15:05:14] [Async Chat Thread - #93/INFO]: [Not Secure] <loisse> stop burning m,y base
+[15:05:14] [Async Chat Thread - #93/INFO]: [Not Secure] <lacienichi> did u check sav's
+[15:05:18] [Async Chat Thread - #94/INFO]: [Not Secure] <lacienichi> did that get burned
+[15:05:21] [Async Chat Thread - #94/INFO]: [Not Secure] <loisse> we ciuldnt find savs
+[15:05:28] [Async Chat Thread - #94/INFO]: [Not Secure] <loisse> STOP
+[15:05:32] [Async Chat Thread - #94/INFO]: [Not Secure] <loisse> BURNING ,MU BASE
+[15:05:32] [Async Chat Thread - #93/INFO]: [Not Secure] <AqibdaGoat> im trying to stop
+[15:05:34] [Async Chat Thread - #93/INFO]: [Not Secure] <lacienichi> cuh
+[15:05:42] [Async Chat Thread - #93/INFO]: [Not Secure] <loisse> IT WASNT ON FIRE A WHILE AGO
+[15:05:48] [Async Chat Thread - #93/INFO]: [Not Secure] <lacienichi> that's the thing
+[15:05:54] [Async Chat Thread - #94/INFO]: [Not Secure] <lacienichi> it got burned after I left
+[15:06:01] [Async Chat Thread - #94/INFO]: [Not Secure] <lacienichi> Im sending ts to aqib
+[15:06:05] [Server thread/INFO]: raeirrr issued server command: [redacted]
+[15:06:06] [Async Chat Thread - #93/INFO]: [Not Secure] <lacienichi> since his ass got bomed once
+[15:06:12] [Async Chat Thread - #94/INFO]: [Not Secure] <loisse> omfg aqib stop it
+[15:06:13] [Async Chat Thread - #93/INFO]: [Not Secure] <AqibdaGoat> i dont even have gunpowder man
+[15:06:16] [Async Chat Thread - #93/INFO]: [Not Secure] <lacienichi> prob for "revenge"
+[15:06:21] [Async Chat Thread - #94/INFO]: [Not Secure] <loisse> he's putting it on fire again
+[15:06:25] [Async Chat Thread - #93/INFO]: [Not Secure] <AqibdaGoat> nope im not that retard
+[15:06:31] [Async Chat Thread - #93/INFO]: [Not Secure] <AqibdaGoat> gng im trying to stop it
+[15:06:35] [Async Chat Thread - #94/INFO]: [Not Secure] <AqibdaGoat> by placing water
+[15:06:35] [Async Chat Thread - #94/INFO]: [Not Secure] <lacienichi> nigga you do that all the time
+[15:06:38] [Async Chat Thread - #93/INFO]: [Not Secure] <lacienichi> fuckass
+[15:07:00] [Async Chat Thread - #94/INFO]: [Not Secure] <AqibdaGoat> gone
+[15:07:06] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[15:07:14] [Async Chat Thread - #93/INFO]: [Not Secure] <lacienichi> aqib do u know sav coords
+[15:07:14] [Async Chat Thread - #93/INFO]: [Not Secure] <soge> ok so
+[15:07:18] [Async Chat Thread - #93/INFO]: [Not Secure] <soge> no fire
+[15:07:19] [Async Chat Thread - #94/INFO]: [Not Secure] <soge> rn
+[15:07:20] [Async Chat Thread - #94/INFO]: [Not Secure] <AqibdaGoat> no dude
+[15:07:30] [Async Chat Thread - #94/INFO]: [Not Secure] <loisse> enter the portal then go straight to nowhere
+[15:07:41] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[15:07:48] [Async Chat Thread - #94/INFO]: [Not Secure] <AqibdaGoat> it will lead to sav base?
+[15:07:52] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[15:07:56] [Server thread/INFO]: raeirrr issued server command: [redacted]
+[15:08:00] [Async Chat Thread - #93/INFO]: [Not Secure] <loisse> aqib putting people on fier
+[15:08:04] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[15:08:05] [Server thread/INFO]: raeirrr issued server command: [redacted]
+[15:08:08] [Async Chat Thread - #93/INFO]: [Not Secure] <soge> funny that sav showed me and chen his base a few days ago and we all forgot
+[15:08:19] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[15:08:19] [Async Chat Thread - #94/INFO]: [Not Secure] <loisse> keep it a secret he said
+[15:08:30] [Async Chat Thread - #93/INFO]: [Not Secure] <soge> sav said that??
+[15:08:37] [Async Chat Thread - #93/INFO]: [Not Secure] <loisse> are you braindead
+[15:08:51] [Async Chat Thread - #93/INFO]: [Not Secure] <soge> yeah man this is too tragic
+[15:08:55] [Async Chat Thread - #93/INFO]: [Not Secure] <AqibdaGoat> kylie wya
+[15:08:58] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[15:09:04] [Async Chat Thread - #94/INFO]: [Not Secure] <lacienichi> I'm trying to find
+[15:09:11] [Async Chat Thread - #94/INFO]: [Not Secure] <AqibdaGoat> lmk when u do
+[15:09:11] [Async Chat Thread - #93/INFO]: [Not Secure] <lacienichi> savs
+[15:09:21] [Async Chat Thread - #93/INFO]: [Not Secure] <raeirrr> its def not savs bro
+[15:09:26] [Async Chat Thread - #93/INFO]: [Not Secure] <raeirrr> bro didnt hop on mc for the last 24 hours
+[15:09:29] [Async Chat Thread - #93/INFO]: [Not Secure] <loisse> i swear sav has an ss of it
+[15:09:38] [Async Chat Thread - #93/INFO]: [Not Secure] <AqibdaGoat> oh then who blew up my base
+[15:09:43] [Async Chat Thread - #93/INFO]: [Not Secure] <AqibdaGoat> he was threating me too
+[15:10:01] [Server thread/INFO]: System chat: loisse has completed the challenge [Hot Tourist Destinations]
+[15:10:01] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[15:10:07] [Server thread/INFO]: lacienichi issued server command: [redacted]
+[15:10:08] [Async Chat Thread - #93/INFO]: [Not Secure] <loisse> ok im lost
+[15:10:14] [Async Chat Thread - #93/INFO]: [Not Secure] <loisse> ok found it
+[15:10:21] [Server thread/INFO]: System chat: loisse has made the advancement [Eye Spy]
+[15:10:27] [Async Chat Thread - #93/INFO]: [Not Secure] <loisse> THIS IS THE END
+[15:10:28] [Async Chat Thread - #93/INFO]: [Not Secure] <soge> ...what
+[15:10:46] [Async Chat Thread - #93/INFO]: [Not Secure] <loisse> led me to the end portal
+[15:11:30] [Async Chat Thread - #93/INFO]: [Not Secure] <loisse> soge can you
+[15:11:30] [Async Chat Thread - #93/INFO]: [Not Secure] <raeirrr> sauce dms
+[15:11:34] [Async Chat Thread - #93/INFO]: [Not Secure] <loisse> come get me
+[15:11:39] [Async Chat Thread - #93/INFO]: [Not Secure] <soge> ?
+[15:11:43] [Async Chat Thread - #94/INFO]: [Not Secure] <loisse> im lost
+[15:11:52] [Async Chat Thread - #94/INFO]: [Not Secure] <soge> nether roof?
+[15:11:54] [Async Chat Thread - #94/INFO]: [Not Secure] <loisse> yea
+[15:12:28] [Async Chat Thread - #94/INFO]: [Not Secure] <loisse> how did you guys get to the end portal
+[15:12:38] [Async Chat Thread - #94/INFO]: [Not Secure] <soge> 45 129 -238
+[15:12:39] [Async Chat Thread - #94/INFO]: [Not Secure] <AqibdaGoat> devs just gave the cords
+[15:12:41] [Async Chat Thread - #93/INFO]: [Not Secure] <soge> there chen
+[15:13:12] [Async Chat Thread - #93/INFO]: [Not Secure] <loisse> you guys didnt travel through the nether roof to get there?
+[15:13:55] [Async Chat Thread - #94/INFO]: [Not Secure] <soge> all funs come to an end
+[15:13:58] [Async Chat Thread - #94/INFO]: [Not Secure] <loisse> i think the portal i went through was supposed to be sav's
+[15:14:10] [Server thread/INFO]: System chat: loisse has completed the challenge [Subspace Bubble]
+[15:14:29] [Async Chat Thread - #94/INFO]: [Not Secure] <soge> if i remember we were only going in a diaginoal line
+[15:14:36] [Async Chat Thread - #94/INFO]: [Not Secure] <soge> no zigzags
+[15:14:40] [Async Chat Thread - #94/INFO]: [Not Secure] <AqibdaGoat> whose cord is that soge
+[15:14:46] [Async Chat Thread - #94/INFO]: [Not Secure] <soge> that coord?
+[15:14:49] [Async Chat Thread - #94/INFO]: [Not Secure] <AqibdaGoat> yup
+[15:14:52] [Async Chat Thread - #94/INFO]: [Not Secure] <soge> just coord to my base
+[15:14:56] [Async Chat Thread - #94/INFO]: [Not Secure] <soge> chen got lost
+[15:14:58] [Async Chat Thread - #94/INFO]: [Not Secure] <loisse> sav;s portal prolly broken
+[15:15:14] [Async Chat Thread - #94/INFO]: [Not Secure] <soge> or
+[15:15:19] [Async Chat Thread - #94/INFO]: [Not Secure] <AqibdaGoat> its not your base cords gng
+[15:15:20] [Async Chat Thread - #93/INFO]: [Not Secure] <loisse> did u guys travel through the nether roof to get to the end or no
+[15:15:24] [Async Chat Thread - #94/INFO]: [Not Secure] <soge> just ask sav himself
+[15:15:38] [Async Chat Thread - #94/INFO]: [Not Secure] <soge> if he doesn't want to tell then he might be the one
+[15:15:48] [Async Chat Thread - #94/INFO]: [Not Secure] <loisse> sav's base is a secret
+[15:16:10] [Async Chat Thread - #94/INFO]: [Not Secure] <soge> proceed so show us anyways
+[15:16:19] [Async Chat Thread - #94/INFO]: [Not Secure] <soge> lemme ask sav
+[15:16:30] [Async Chat Thread - #93/INFO]: [Not Secure] <loisse> they're talking
+[15:17:47] [Async Chat Thread - #95/INFO]: [Not Secure] <soge> yea
+[15:20:41] [Async Chat Thread - #97/INFO]: [Not Secure] <loisse> what are you doing
+[15:20:45] [Async Chat Thread - #97/INFO]: [Not Secure] <AqibdaGoat> nothing
+[15:21:51] [Async Chat Thread - #99/INFO]: [Not Secure] <AqibdaGoat> kylie wya
+[15:21:55] [Async Chat Thread - #99/INFO]: [Not Secure] <lacienichi> nigga
+[15:21:59] [Async Chat Thread - #99/INFO]: [Not Secure] <lacienichi> im still finding sav's
+[15:22:02] [Async Chat Thread - #99/INFO]: [Not Secure] <lacienichi> zero luck
+[15:22:08] [Async Chat Thread - #99/INFO]: [Not Secure] <AqibdaGoat> didnt sav gave u the cords
+[15:22:12] [Async Chat Thread - #99/INFO]: [Not Secure] <loisse> dude
+[15:22:13] [Async Chat Thread - #99/INFO]: [Not Secure] <lacienichi> temp base
+[15:22:14] [Async Chat Thread - #99/INFO]: [Not Secure] <lacienichi> yeah
+[15:22:18] [Async Chat Thread - #99/INFO]: [Not Secure] <loisse> does the nether roof
+[15:22:19] [Async Chat Thread - #99/INFO]: [Not Secure] <lacienichi> i fogot tho
+[15:22:21] [Async Chat Thread - #99/INFO]: [Not Secure] <loisse> have a portal
+[15:22:25] [Async Chat Thread - #99/INFO]: [Not Secure] <loisse> that leads to the end portal
+[15:22:27] [Async Chat Thread - #99/INFO]: [Not Secure] <lacienichi> as I said before
+[15:23:05] [Async Chat Thread - #99/INFO]: [Not Secure] <AqibdaGoat> its sav guys
+[15:23:12] [Async Chat Thread - #99/INFO]: [Not Secure] <AqibdaGoat> he isnt giving cords
+[15:23:17] [Server thread/INFO]: soge lost connection: Disconnected
+[15:23:17] [Server thread/INFO]: [voicechat] Disconnecting client soge
+[15:23:17] [Server thread/INFO]: System chat: soge left the game
+[15:23:19] [Async Chat Thread - #99/INFO]: [Not Secure] <AqibdaGoat> im too bored for ts anyways
+[15:23:23] [Async Chat Thread - #99/INFO]: [Not Secure] <AqibdaGoat> ima go watch gta vi
+[15:23:25] [Server thread/INFO]: AqibdaGoat lost connection: Disconnected
+[15:23:25] [Server thread/INFO]: [voicechat] Disconnecting client AqibdaGoat
+[15:23:25] [Server thread/INFO]: System chat: AqibdaGoat left the game
+[15:29:52] [Server thread/INFO]: loisse lost connection: Disconnected
+[15:29:52] [Server thread/INFO]: [voicechat] Disconnecting client loisse
+[15:29:52] [Server thread/INFO]: System chat: loisse left the game
+[15:32:22] [Server thread/INFO]: lacienichi lost connection: Disconnected
+[15:32:22] [Server thread/INFO]: [voicechat] Disconnecting client lacienichi
+[15:32:22] [Server thread/INFO]: System chat: lacienichi left the game
+[15:32:32] [Server thread/INFO]: raeirrr lost connection: Disconnected
+[15:32:32] [Server thread/INFO]: [voicechat] Disconnecting client raeirrr
+[15:32:32] [Server thread/INFO]: System chat: raeirrr left the game
+[15:41:25] [User Authenticator #39/INFO]: UUID of player soge is d692b710-1ec0-3377-9b9f-e8f4ca4de20d
+[15:41:26] [Server thread/INFO]: System chat: soge joined the game
+[15:41:26] [Server thread/INFO]: soge[/**.**.**.**:51714] logged in with entity id 875692 at ([minecraft:overworld]434.5835626734205, 88.84375002384186, -1857.276291095527)
+[16:01:47] [Server thread/INFO]: soge lost connection: Disconnected
+[16:01:47] [Server thread/INFO]: [voicechat] Disconnecting client soge
+[16:01:47] [Server thread/INFO]: System chat: soge left the game
+[17:44:22] [User Authenticator #46/INFO]: UUID of player SAVENGE is 47d1de45-ba03-359b-8b73-248705c4fa9c
+[17:44:27] [Server thread/INFO]: System chat: SAVENGE joined the game
+[17:44:27] [Server thread/INFO]: SAVENGE[/**.**.**.**:20958] logged in with entity id 902409 at ([minecraft:overworld]-4641.359141373707, 75.0, 663.0283472182344)
+[17:44:41] [Server thread/INFO]: SAVENGE lost connection: Disconnected
+[17:44:41] [Server thread/INFO]: [voicechat] Disconnecting client SAVENGE
+[17:44:41] [Server thread/INFO]: System chat: SAVENGE left the game
